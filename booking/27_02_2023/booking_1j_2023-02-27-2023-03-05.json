@@ -1,0 +1,259 @@
+{
+    "_id": "booking_1j2023-02-27 00:00:00",
+    "startUrl": [
+        "https://www.booking.com/searchresults.fr.html?label=gog235jc-1DCAYoTUIGc2F2b2llSA1YA2hNiAEBmAENuAEXyAEM2AED6AEB-AECiAIBqAIDuAK37uOQBsACAdICJDJjMjgxMmVhLTIyM2MtNDI1Mi1iYTM4LTA3MmE4MjI3MWFkMdgCBOACAQ&sid=086e078aef1832684e5d5671c99a12b1&aid=356980&dest_id=2556&dest_type=region&nflt=ht_id%3D204%3Brpt%3D1&shw_aparth=0&checkin=2023-03-05&checkout=2023-03-06&selected_currency=EUR",
+        "https://www.booking.com/searchresults.fr.html?label=gog235jc-1DCAYoTUIGc2F2b2llSA1YA2hNiAEBmAENuAEXyAEM2AED6AEB-AECiAIBqAIDuAK37uOQBsACAdICJDJjMjgxMmVhLTIyM2MtNDI1Mi1iYTM4LTA3MmE4MjI3MWFkMdgCBOACAQ&sid=086e078aef1832684e5d5671c99a12b1&aid=356980&dest_id=2557&dest_type=region&nflt=ht_id%3D204%3Brpt%3D1&shw_aparth=0&checkin=2023-03-05&checkout=2023-03-06&selected_currency=EUR",
+        "https://www.booking.com/searchresults.fr.html?label=gog235jc-1DCAYoTUIGc2F2b2llSA1YA2hNiAEBmAENuAEXyAEM2AED6AEB-AECiAIBqAIDuAK37uOQBsACAdICJDJjMjgxMmVhLTIyM2MtNDI1Mi1iYTM4LTA3MmE4MjI3MWFkMdgCBOACAQ&sid=086e078aef1832684e5d5671c99a12b1&aid=356980&dest_id=2558&dest_type=region&nflt=ht_id%3D204%3Brpt%3D1&shw_aparth=0&checkin=2023-03-05&checkout=2023-03-06&selected_currency=EUR",
+        "https://www.booking.com/searchresults.fr.html?label=gog235jc-1DCAYoTUIGc2F2b2llSA1YA2hNiAEBmAENuAEXyAEM2AED6AEB-AECiAIBqAIDuAK37uOQBsACAdICJDJjMjgxMmVhLTIyM2MtNDI1Mi1iYTM4LTA3MmE4MjI3MWFkMdgCBOACAQ&sid=086e078aef1832684e5d5671c99a12b1&aid=356980&dest_id=2507&dest_type=region&nflt=ht_id%3D204%3Brpt%3D1&shw_aparth=0&checkin=2023-03-05&checkout=2023-03-06&selected_currency=EUR",
+        "https://www.booking.com/searchresults.fr.html?label=gog235jc-1DCAYoTUIGc2F2b2llSA1YA2hNiAEBmAENuAEXyAEM2AED6AEB-AECiAIBqAIDuAK37uOQBsACAdICJDJjMjgxMmVhLTIyM2MtNDI1Mi1iYTM4LTA3MmE4MjI3MWFkMdgCBOACAQ&sid=086e078aef1832684e5d5671c99a12b1&aid=356980&dest_id=2526&dest_type=region&nflt=ht_id%3D204%3Brpt%3D1&shw_aparth=0&checkin=2023-03-05&checkout=2023-03-06&selected_currency=EUR",
+        "https://www.booking.com/searchresults.fr.html?label=gog235jc-1DCAYoTUIGc2F2b2llSA1YA2hNiAEBmAENuAEXyAEM2AED6AEB-AECiAIBqAIDuAK37uOQBsACAdICJDJjMjgxMmVhLTIyM2MtNDI1Mi1iYTM4LTA3MmE4MjI3MWFkMdgCBOACAQ&sid=086e078aef1832684e5d5671c99a12b1&aid=356980&dest_id=2503&dest_type=region&nflt=ht_id%3D204%3Brpt%3D1&shw_aparth=0&checkin=2023-03-05&checkout=2023-03-06&selected_currency=EUR",
+        "https://www.booking.com/searchresults.fr.html?label=gog235jc-1DCAYoTUIGc2F2b2llSA1YA2hNiAEBmAENuAEXyAEM2AED6AEB-AECiAIBqAIDuAK37uOQBsACAdICJDJjMjgxMmVhLTIyM2MtNDI1Mi1iYTM4LTA3MmE4MjI3MWFkMdgCBOACAQ&sid=086e078aef1832684e5d5671c99a12b1&aid=356980&dest_id=3787&dest_type=region&nflt=ht_id%3D204%3Brpt%3D1&shw_aparth=0&checkin=2023-03-05&checkout=2023-03-06&selected_currency=EUR",
+        "https://www.booking.com/searchresults.fr.html?label=gog235jc-1DCAYoTUIGc2F2b2llSA1YA2hNiAEBmAENuAEXyAEM2AED6AEB-AECiAIBqAIDuAK37uOQBsACAdICJDJjMjgxMmVhLTIyM2MtNDI1Mi1iYTM4LTA3MmE4MjI3MWFkMdgCBOACAQ&sid=086e078aef1832684e5d5671c99a12b1&aid=356980&dest_id=5642&dest_type=region&nflt=ht_id%3D204%3Brpt%3D1&shw_aparth=0&checkin=2023-03-05&checkout=2023-03-06&selected_currency=EUR",
+        "https://www.booking.com/searchresults.fr.html?label=gog235jc-1DCAYoTUIGc2F2b2llSA1YA2hNiAEBmAENuAEXyAEM2AED6AEB-AECiAIBqAIDuAK37uOQBsACAdICJDJjMjgxMmVhLTIyM2MtNDI1Mi1iYTM4LTA3MmE4MjI3MWFkMdgCBOACAQ&sid=086e078aef1832684e5d5671c99a12b1&aid=356980&dest_id=3795&dest_type=region&nflt=ht_id%3D204%3Brpt%3D1&shw_aparth=0&checkin=2023-03-05&checkout=2023-03-06&selected_currency=EUR",
+        "https://www.booking.com/searchresults.fr.html?label=gog235jc-1DCAYoTUIGc2F2b2llSA1YA2hNiAEBmAENuAEXyAEM2AED6AEB-AECiAIBqAIDuAK37uOQBsACAdICJDJjMjgxMmVhLTIyM2MtNDI1Mi1iYTM4LTA3MmE4MjI3MWFkMdgCBOACAQ&sid=086e078aef1832684e5d5671c99a12b1&aid=356980&dest_id=5647&dest_type=region&nflt=ht_id%3D204%3Brpt%3D1&shw_aparth=0&checkin=2023-03-05&checkout=2023-03-06&selected_currency=EUR",
+        "https://www.booking.com/searchresults.fr.html?label=gog235jc-1DCAYoTUIGc2F2b2llSA1YA2hNiAEBmAENuAEXyAEM2AED6AEB-AECiAIBqAIDuAK37uOQBsACAdICJDJjMjgxMmVhLTIyM2MtNDI1Mi1iYTM4LTA3MmE4MjI3MWFkMdgCBOACAQ&sid=086e078aef1832684e5d5671c99a12b1&aid=356980&dest_id=3763&dest_type=region&nflt=ht_id%3D204%3Brpt%3D1&shw_aparth=0&checkin=2023-03-05&checkout=2023-03-06&selected_currency=EUR",
+        "https://www.booking.com/searchresults.fr.html?label=gog235jc-1DCAYoTUIGc2F2b2llSA1YA2hNiAEBmAENuAEXyAEM2AED6AEB-AECiAIBqAIDuAK37uOQBsACAdICJDJjMjgxMmVhLTIyM2MtNDI1Mi1iYTM4LTA3MmE4MjI3MWFkMdgCBOACAQ&sid=086e078aef1832684e5d5671c99a12b1&aid=356980&dest_id=3546&dest_type=region&nflt=ht_id%3D204%3Brpt%3D1&shw_aparth=0&checkin=2023-03-05&checkout=2023-03-06&selected_currency=EUR",
+        "https://www.booking.com/searchresults.fr.html?label=gog235jc-1DCAYoTUIGc2F2b2llSA1YA2hNiAEBmAENuAEXyAEM2AED6AEB-AECiAIBqAIDuAK37uOQBsACAdICJDJjMjgxMmVhLTIyM2MtNDI1Mi1iYTM4LTA3MmE4MjI3MWFkMdgCBOACAQ&sid=086e078aef1832684e5d5671c99a12b1&aid=356980&dest_id=3785&dest_type=region&nflt=ht_id%3D204%3Brpt%3D1&shw_aparth=0&checkin=2023-03-05&checkout=2023-03-06&selected_currency=EUR",
+        "https://www.booking.com/searchresults.fr.html?label=gog235jc-1DCAYoTUIGc2F2b2llSA1YA2hNiAEBmAENuAEXyAEM2AED6AEB-AECiAIBqAIDuAK37uOQBsACAdICJDJjMjgxMmVhLTIyM2MtNDI1Mi1iYTM4LTA3MmE4MjI3MWFkMdgCBOACAQ&sid=086e078aef1832684e5d5671c99a12b1&aid=356980&dest_id=5602&dest_type=region&nflt=ht_id%3D204%3Brpt%3D1&shw_aparth=0&checkin=2023-03-05&checkout=2023-03-06&selected_currency=EUR",
+        "https://www.booking.com/searchresults.fr.html?label=gog235jc-1DCAYoTUIGc2F2b2llSA1YA2hNiAEBmAENuAEXyAEM2AED6AEB-AECiAIBqAIDuAK37uOQBsACAdICJDJjMjgxMmVhLTIyM2MtNDI1Mi1iYTM4LTA3MmE4MjI3MWFkMdgCBOACAQ&sid=086e078aef1832684e5d5671c99a12b1&aid=356980&dest_id=3545&dest_type=region&nflt=ht_id%3D204%3Brpt%3D1&shw_aparth=0&checkin=2023-03-05&checkout=2023-03-06&selected_currency=EUR",
+        "https://www.booking.com/searchresults.fr.html?label=gog235jc-1DCAYoTUIGc2F2b2llSA1YA2hNiAEBmAENuAEXyAEM2AED6AEB-AECiAIBqAIDuAK37uOQBsACAdICJDJjMjgxMmVhLTIyM2MtNDI1Mi1iYTM4LTA3MmE4MjI3MWFkMdgCBOACAQ&sid=086e078aef1832684e5d5671c99a12b1&aid=356980&dest_id=5620&dest_type=region&nflt=ht_id%3D204%3Brpt%3D1&shw_aparth=0&checkin=2023-03-05&checkout=2023-03-06&selected_currency=EUR",
+        "https://www.booking.com/searchresults.fr.html?label=gog235jc-1DCAYoTUIGc2F2b2llSA1YA2hNiAEBmAENuAEXyAEM2AED6AEB-AECiAIBqAIDuAK37uOQBsACAdICJDJjMjgxMmVhLTIyM2MtNDI1Mi1iYTM4LTA3MmE4MjI3MWFkMdgCBOACAQ&sid=086e078aef1832684e5d5671c99a12b1&aid=356980&dest_id=2556&dest_type=region&nflt=ht_id%3D204%3Brpt%3D1&shw_aparth=0&checkin=2023-03-04&checkout=2023-03-05&selected_currency=EUR",
+        "https://www.booking.com/searchresults.fr.html?label=gog235jc-1DCAYoTUIGc2F2b2llSA1YA2hNiAEBmAENuAEXyAEM2AED6AEB-AECiAIBqAIDuAK37uOQBsACAdICJDJjMjgxMmVhLTIyM2MtNDI1Mi1iYTM4LTA3MmE4MjI3MWFkMdgCBOACAQ&sid=086e078aef1832684e5d5671c99a12b1&aid=356980&dest_id=2557&dest_type=region&nflt=ht_id%3D204%3Brpt%3D1&shw_aparth=0&checkin=2023-03-04&checkout=2023-03-05&selected_currency=EUR",
+        "https://www.booking.com/searchresults.fr.html?label=gog235jc-1DCAYoTUIGc2F2b2llSA1YA2hNiAEBmAENuAEXyAEM2AED6AEB-AECiAIBqAIDuAK37uOQBsACAdICJDJjMjgxMmVhLTIyM2MtNDI1Mi1iYTM4LTA3MmE4MjI3MWFkMdgCBOACAQ&sid=086e078aef1832684e5d5671c99a12b1&aid=356980&dest_id=2558&dest_type=region&nflt=ht_id%3D204%3Brpt%3D1&shw_aparth=0&checkin=2023-03-04&checkout=2023-03-05&selected_currency=EUR",
+        "https://www.booking.com/searchresults.fr.html?label=gog235jc-1DCAYoTUIGc2F2b2llSA1YA2hNiAEBmAENuAEXyAEM2AED6AEB-AECiAIBqAIDuAK37uOQBsACAdICJDJjMjgxMmVhLTIyM2MtNDI1Mi1iYTM4LTA3MmE4MjI3MWFkMdgCBOACAQ&sid=086e078aef1832684e5d5671c99a12b1&aid=356980&dest_id=2507&dest_type=region&nflt=ht_id%3D204%3Brpt%3D1&shw_aparth=0&checkin=2023-03-04&checkout=2023-03-05&selected_currency=EUR",
+        "https://www.booking.com/searchresults.fr.html?label=gog235jc-1DCAYoTUIGc2F2b2llSA1YA2hNiAEBmAENuAEXyAEM2AED6AEB-AECiAIBqAIDuAK37uOQBsACAdICJDJjMjgxMmVhLTIyM2MtNDI1Mi1iYTM4LTA3MmE4MjI3MWFkMdgCBOACAQ&sid=086e078aef1832684e5d5671c99a12b1&aid=356980&dest_id=2526&dest_type=region&nflt=ht_id%3D204%3Brpt%3D1&shw_aparth=0&checkin=2023-03-04&checkout=2023-03-05&selected_currency=EUR",
+        "https://www.booking.com/searchresults.fr.html?label=gog235jc-1DCAYoTUIGc2F2b2llSA1YA2hNiAEBmAENuAEXyAEM2AED6AEB-AECiAIBqAIDuAK37uOQBsACAdICJDJjMjgxMmVhLTIyM2MtNDI1Mi1iYTM4LTA3MmE4MjI3MWFkMdgCBOACAQ&sid=086e078aef1832684e5d5671c99a12b1&aid=356980&dest_id=2503&dest_type=region&nflt=ht_id%3D204%3Brpt%3D1&shw_aparth=0&checkin=2023-03-04&checkout=2023-03-05&selected_currency=EUR",
+        "https://www.booking.com/searchresults.fr.html?label=gog235jc-1DCAYoTUIGc2F2b2llSA1YA2hNiAEBmAENuAEXyAEM2AED6AEB-AECiAIBqAIDuAK37uOQBsACAdICJDJjMjgxMmVhLTIyM2MtNDI1Mi1iYTM4LTA3MmE4MjI3MWFkMdgCBOACAQ&sid=086e078aef1832684e5d5671c99a12b1&aid=356980&dest_id=3787&dest_type=region&nflt=ht_id%3D204%3Brpt%3D1&shw_aparth=0&checkin=2023-03-04&checkout=2023-03-05&selected_currency=EUR",
+        "https://www.booking.com/searchresults.fr.html?label=gog235jc-1DCAYoTUIGc2F2b2llSA1YA2hNiAEBmAENuAEXyAEM2AED6AEB-AECiAIBqAIDuAK37uOQBsACAdICJDJjMjgxMmVhLTIyM2MtNDI1Mi1iYTM4LTA3MmE4MjI3MWFkMdgCBOACAQ&sid=086e078aef1832684e5d5671c99a12b1&aid=356980&dest_id=5642&dest_type=region&nflt=ht_id%3D204%3Brpt%3D1&shw_aparth=0&checkin=2023-03-04&checkout=2023-03-05&selected_currency=EUR",
+        "https://www.booking.com/searchresults.fr.html?label=gog235jc-1DCAYoTUIGc2F2b2llSA1YA2hNiAEBmAENuAEXyAEM2AED6AEB-AECiAIBqAIDuAK37uOQBsACAdICJDJjMjgxMmVhLTIyM2MtNDI1Mi1iYTM4LTA3MmE4MjI3MWFkMdgCBOACAQ&sid=086e078aef1832684e5d5671c99a12b1&aid=356980&dest_id=3795&dest_type=region&nflt=ht_id%3D204%3Brpt%3D1&shw_aparth=0&checkin=2023-03-04&checkout=2023-03-05&selected_currency=EUR",
+        "https://www.booking.com/searchresults.fr.html?label=gog235jc-1DCAYoTUIGc2F2b2llSA1YA2hNiAEBmAENuAEXyAEM2AED6AEB-AECiAIBqAIDuAK37uOQBsACAdICJDJjMjgxMmVhLTIyM2MtNDI1Mi1iYTM4LTA3MmE4MjI3MWFkMdgCBOACAQ&sid=086e078aef1832684e5d5671c99a12b1&aid=356980&dest_id=5647&dest_type=region&nflt=ht_id%3D204%3Brpt%3D1&shw_aparth=0&checkin=2023-03-04&checkout=2023-03-05&selected_currency=EUR",
+        "https://www.booking.com/searchresults.fr.html?label=gog235jc-1DCAYoTUIGc2F2b2llSA1YA2hNiAEBmAENuAEXyAEM2AED6AEB-AECiAIBqAIDuAK37uOQBsACAdICJDJjMjgxMmVhLTIyM2MtNDI1Mi1iYTM4LTA3MmE4MjI3MWFkMdgCBOACAQ&sid=086e078aef1832684e5d5671c99a12b1&aid=356980&dest_id=3763&dest_type=region&nflt=ht_id%3D204%3Brpt%3D1&shw_aparth=0&checkin=2023-03-04&checkout=2023-03-05&selected_currency=EUR",
+        "https://www.booking.com/searchresults.fr.html?label=gog235jc-1DCAYoTUIGc2F2b2llSA1YA2hNiAEBmAENuAEXyAEM2AED6AEB-AECiAIBqAIDuAK37uOQBsACAdICJDJjMjgxMmVhLTIyM2MtNDI1Mi1iYTM4LTA3MmE4MjI3MWFkMdgCBOACAQ&sid=086e078aef1832684e5d5671c99a12b1&aid=356980&dest_id=3546&dest_type=region&nflt=ht_id%3D204%3Brpt%3D1&shw_aparth=0&checkin=2023-03-04&checkout=2023-03-05&selected_currency=EUR",
+        "https://www.booking.com/searchresults.fr.html?label=gog235jc-1DCAYoTUIGc2F2b2llSA1YA2hNiAEBmAENuAEXyAEM2AED6AEB-AECiAIBqAIDuAK37uOQBsACAdICJDJjMjgxMmVhLTIyM2MtNDI1Mi1iYTM4LTA3MmE4MjI3MWFkMdgCBOACAQ&sid=086e078aef1832684e5d5671c99a12b1&aid=356980&dest_id=3785&dest_type=region&nflt=ht_id%3D204%3Brpt%3D1&shw_aparth=0&checkin=2023-03-04&checkout=2023-03-05&selected_currency=EUR",
+        "https://www.booking.com/searchresults.fr.html?label=gog235jc-1DCAYoTUIGc2F2b2llSA1YA2hNiAEBmAENuAEXyAEM2AED6AEB-AECiAIBqAIDuAK37uOQBsACAdICJDJjMjgxMmVhLTIyM2MtNDI1Mi1iYTM4LTA3MmE4MjI3MWFkMdgCBOACAQ&sid=086e078aef1832684e5d5671c99a12b1&aid=356980&dest_id=5602&dest_type=region&nflt=ht_id%3D204%3Brpt%3D1&shw_aparth=0&checkin=2023-03-04&checkout=2023-03-05&selected_currency=EUR",
+        "https://www.booking.com/searchresults.fr.html?label=gog235jc-1DCAYoTUIGc2F2b2llSA1YA2hNiAEBmAENuAEXyAEM2AED6AEB-AECiAIBqAIDuAK37uOQBsACAdICJDJjMjgxMmVhLTIyM2MtNDI1Mi1iYTM4LTA3MmE4MjI3MWFkMdgCBOACAQ&sid=086e078aef1832684e5d5671c99a12b1&aid=356980&dest_id=3545&dest_type=region&nflt=ht_id%3D204%3Brpt%3D1&shw_aparth=0&checkin=2023-03-04&checkout=2023-03-05&selected_currency=EUR",
+        "https://www.booking.com/searchresults.fr.html?label=gog235jc-1DCAYoTUIGc2F2b2llSA1YA2hNiAEBmAENuAEXyAEM2AED6AEB-AECiAIBqAIDuAK37uOQBsACAdICJDJjMjgxMmVhLTIyM2MtNDI1Mi1iYTM4LTA3MmE4MjI3MWFkMdgCBOACAQ&sid=086e078aef1832684e5d5671c99a12b1&aid=356980&dest_id=5620&dest_type=region&nflt=ht_id%3D204%3Brpt%3D1&shw_aparth=0&checkin=2023-03-04&checkout=2023-03-05&selected_currency=EUR",
+        "https://www.booking.com/searchresults.fr.html?label=gog235jc-1DCAYoTUIGc2F2b2llSA1YA2hNiAEBmAENuAEXyAEM2AED6AEB-AECiAIBqAIDuAK37uOQBsACAdICJDJjMjgxMmVhLTIyM2MtNDI1Mi1iYTM4LTA3MmE4MjI3MWFkMdgCBOACAQ&sid=086e078aef1832684e5d5671c99a12b1&aid=356980&dest_id=2556&dest_type=region&nflt=ht_id%3D204%3Brpt%3D1&shw_aparth=0&checkin=2023-03-03&checkout=2023-03-04&selected_currency=EUR",
+        "https://www.booking.com/searchresults.fr.html?label=gog235jc-1DCAYoTUIGc2F2b2llSA1YA2hNiAEBmAENuAEXyAEM2AED6AEB-AECiAIBqAIDuAK37uOQBsACAdICJDJjMjgxMmVhLTIyM2MtNDI1Mi1iYTM4LTA3MmE4MjI3MWFkMdgCBOACAQ&sid=086e078aef1832684e5d5671c99a12b1&aid=356980&dest_id=2557&dest_type=region&nflt=ht_id%3D204%3Brpt%3D1&shw_aparth=0&checkin=2023-03-03&checkout=2023-03-04&selected_currency=EUR",
+        "https://www.booking.com/searchresults.fr.html?label=gog235jc-1DCAYoTUIGc2F2b2llSA1YA2hNiAEBmAENuAEXyAEM2AED6AEB-AECiAIBqAIDuAK37uOQBsACAdICJDJjMjgxMmVhLTIyM2MtNDI1Mi1iYTM4LTA3MmE4MjI3MWFkMdgCBOACAQ&sid=086e078aef1832684e5d5671c99a12b1&aid=356980&dest_id=2558&dest_type=region&nflt=ht_id%3D204%3Brpt%3D1&shw_aparth=0&checkin=2023-03-03&checkout=2023-03-04&selected_currency=EUR",
+        "https://www.booking.com/searchresults.fr.html?label=gog235jc-1DCAYoTUIGc2F2b2llSA1YA2hNiAEBmAENuAEXyAEM2AED6AEB-AECiAIBqAIDuAK37uOQBsACAdICJDJjMjgxMmVhLTIyM2MtNDI1Mi1iYTM4LTA3MmE4MjI3MWFkMdgCBOACAQ&sid=086e078aef1832684e5d5671c99a12b1&aid=356980&dest_id=2507&dest_type=region&nflt=ht_id%3D204%3Brpt%3D1&shw_aparth=0&checkin=2023-03-03&checkout=2023-03-04&selected_currency=EUR",
+        "https://www.booking.com/searchresults.fr.html?label=gog235jc-1DCAYoTUIGc2F2b2llSA1YA2hNiAEBmAENuAEXyAEM2AED6AEB-AECiAIBqAIDuAK37uOQBsACAdICJDJjMjgxMmVhLTIyM2MtNDI1Mi1iYTM4LTA3MmE4MjI3MWFkMdgCBOACAQ&sid=086e078aef1832684e5d5671c99a12b1&aid=356980&dest_id=2526&dest_type=region&nflt=ht_id%3D204%3Brpt%3D1&shw_aparth=0&checkin=2023-03-03&checkout=2023-03-04&selected_currency=EUR",
+        "https://www.booking.com/searchresults.fr.html?label=gog235jc-1DCAYoTUIGc2F2b2llSA1YA2hNiAEBmAENuAEXyAEM2AED6AEB-AECiAIBqAIDuAK37uOQBsACAdICJDJjMjgxMmVhLTIyM2MtNDI1Mi1iYTM4LTA3MmE4MjI3MWFkMdgCBOACAQ&sid=086e078aef1832684e5d5671c99a12b1&aid=356980&dest_id=2503&dest_type=region&nflt=ht_id%3D204%3Brpt%3D1&shw_aparth=0&checkin=2023-03-03&checkout=2023-03-04&selected_currency=EUR",
+        "https://www.booking.com/searchresults.fr.html?label=gog235jc-1DCAYoTUIGc2F2b2llSA1YA2hNiAEBmAENuAEXyAEM2AED6AEB-AECiAIBqAIDuAK37uOQBsACAdICJDJjMjgxMmVhLTIyM2MtNDI1Mi1iYTM4LTA3MmE4MjI3MWFkMdgCBOACAQ&sid=086e078aef1832684e5d5671c99a12b1&aid=356980&dest_id=3787&dest_type=region&nflt=ht_id%3D204%3Brpt%3D1&shw_aparth=0&checkin=2023-03-03&checkout=2023-03-04&selected_currency=EUR",
+        "https://www.booking.com/searchresults.fr.html?label=gog235jc-1DCAYoTUIGc2F2b2llSA1YA2hNiAEBmAENuAEXyAEM2AED6AEB-AECiAIBqAIDuAK37uOQBsACAdICJDJjMjgxMmVhLTIyM2MtNDI1Mi1iYTM4LTA3MmE4MjI3MWFkMdgCBOACAQ&sid=086e078aef1832684e5d5671c99a12b1&aid=356980&dest_id=5642&dest_type=region&nflt=ht_id%3D204%3Brpt%3D1&shw_aparth=0&checkin=2023-03-03&checkout=2023-03-04&selected_currency=EUR",
+        "https://www.booking.com/searchresults.fr.html?label=gog235jc-1DCAYoTUIGc2F2b2llSA1YA2hNiAEBmAENuAEXyAEM2AED6AEB-AECiAIBqAIDuAK37uOQBsACAdICJDJjMjgxMmVhLTIyM2MtNDI1Mi1iYTM4LTA3MmE4MjI3MWFkMdgCBOACAQ&sid=086e078aef1832684e5d5671c99a12b1&aid=356980&dest_id=3795&dest_type=region&nflt=ht_id%3D204%3Brpt%3D1&shw_aparth=0&checkin=2023-03-03&checkout=2023-03-04&selected_currency=EUR",
+        "https://www.booking.com/searchresults.fr.html?label=gog235jc-1DCAYoTUIGc2F2b2llSA1YA2hNiAEBmAENuAEXyAEM2AED6AEB-AECiAIBqAIDuAK37uOQBsACAdICJDJjMjgxMmVhLTIyM2MtNDI1Mi1iYTM4LTA3MmE4MjI3MWFkMdgCBOACAQ&sid=086e078aef1832684e5d5671c99a12b1&aid=356980&dest_id=5647&dest_type=region&nflt=ht_id%3D204%3Brpt%3D1&shw_aparth=0&checkin=2023-03-03&checkout=2023-03-04&selected_currency=EUR",
+        "https://www.booking.com/searchresults.fr.html?label=gog235jc-1DCAYoTUIGc2F2b2llSA1YA2hNiAEBmAENuAEXyAEM2AED6AEB-AECiAIBqAIDuAK37uOQBsACAdICJDJjMjgxMmVhLTIyM2MtNDI1Mi1iYTM4LTA3MmE4MjI3MWFkMdgCBOACAQ&sid=086e078aef1832684e5d5671c99a12b1&aid=356980&dest_id=3763&dest_type=region&nflt=ht_id%3D204%3Brpt%3D1&shw_aparth=0&checkin=2023-03-03&checkout=2023-03-04&selected_currency=EUR",
+        "https://www.booking.com/searchresults.fr.html?label=gog235jc-1DCAYoTUIGc2F2b2llSA1YA2hNiAEBmAENuAEXyAEM2AED6AEB-AECiAIBqAIDuAK37uOQBsACAdICJDJjMjgxMmVhLTIyM2MtNDI1Mi1iYTM4LTA3MmE4MjI3MWFkMdgCBOACAQ&sid=086e078aef1832684e5d5671c99a12b1&aid=356980&dest_id=3546&dest_type=region&nflt=ht_id%3D204%3Brpt%3D1&shw_aparth=0&checkin=2023-03-03&checkout=2023-03-04&selected_currency=EUR",
+        "https://www.booking.com/searchresults.fr.html?label=gog235jc-1DCAYoTUIGc2F2b2llSA1YA2hNiAEBmAENuAEXyAEM2AED6AEB-AECiAIBqAIDuAK37uOQBsACAdICJDJjMjgxMmVhLTIyM2MtNDI1Mi1iYTM4LTA3MmE4MjI3MWFkMdgCBOACAQ&sid=086e078aef1832684e5d5671c99a12b1&aid=356980&dest_id=3785&dest_type=region&nflt=ht_id%3D204%3Brpt%3D1&shw_aparth=0&checkin=2023-03-03&checkout=2023-03-04&selected_currency=EUR",
+        "https://www.booking.com/searchresults.fr.html?label=gog235jc-1DCAYoTUIGc2F2b2llSA1YA2hNiAEBmAENuAEXyAEM2AED6AEB-AECiAIBqAIDuAK37uOQBsACAdICJDJjMjgxMmVhLTIyM2MtNDI1Mi1iYTM4LTA3MmE4MjI3MWFkMdgCBOACAQ&sid=086e078aef1832684e5d5671c99a12b1&aid=356980&dest_id=5602&dest_type=region&nflt=ht_id%3D204%3Brpt%3D1&shw_aparth=0&checkin=2023-03-03&checkout=2023-03-04&selected_currency=EUR",
+        "https://www.booking.com/searchresults.fr.html?label=gog235jc-1DCAYoTUIGc2F2b2llSA1YA2hNiAEBmAENuAEXyAEM2AED6AEB-AECiAIBqAIDuAK37uOQBsACAdICJDJjMjgxMmVhLTIyM2MtNDI1Mi1iYTM4LTA3MmE4MjI3MWFkMdgCBOACAQ&sid=086e078aef1832684e5d5671c99a12b1&aid=356980&dest_id=3545&dest_type=region&nflt=ht_id%3D204%3Brpt%3D1&shw_aparth=0&checkin=2023-03-03&checkout=2023-03-04&selected_currency=EUR",
+        "https://www.booking.com/searchresults.fr.html?label=gog235jc-1DCAYoTUIGc2F2b2llSA1YA2hNiAEBmAENuAEXyAEM2AED6AEB-AECiAIBqAIDuAK37uOQBsACAdICJDJjMjgxMmVhLTIyM2MtNDI1Mi1iYTM4LTA3MmE4MjI3MWFkMdgCBOACAQ&sid=086e078aef1832684e5d5671c99a12b1&aid=356980&dest_id=5620&dest_type=region&nflt=ht_id%3D204%3Brpt%3D1&shw_aparth=0&checkin=2023-03-03&checkout=2023-03-04&selected_currency=EUR",
+        "https://www.booking.com/searchresults.fr.html?label=gog235jc-1DCAYoTUIGc2F2b2llSA1YA2hNiAEBmAENuAEXyAEM2AED6AEB-AECiAIBqAIDuAK37uOQBsACAdICJDJjMjgxMmVhLTIyM2MtNDI1Mi1iYTM4LTA3MmE4MjI3MWFkMdgCBOACAQ&sid=086e078aef1832684e5d5671c99a12b1&aid=356980&dest_id=2556&dest_type=region&nflt=ht_id%3D204%3Brpt%3D1&shw_aparth=0&checkin=2023-03-02&checkout=2023-03-03&selected_currency=EUR",
+        "https://www.booking.com/searchresults.fr.html?label=gog235jc-1DCAYoTUIGc2F2b2llSA1YA2hNiAEBmAENuAEXyAEM2AED6AEB-AECiAIBqAIDuAK37uOQBsACAdICJDJjMjgxMmVhLTIyM2MtNDI1Mi1iYTM4LTA3MmE4MjI3MWFkMdgCBOACAQ&sid=086e078aef1832684e5d5671c99a12b1&aid=356980&dest_id=2557&dest_type=region&nflt=ht_id%3D204%3Brpt%3D1&shw_aparth=0&checkin=2023-03-02&checkout=2023-03-03&selected_currency=EUR",
+        "https://www.booking.com/searchresults.fr.html?label=gog235jc-1DCAYoTUIGc2F2b2llSA1YA2hNiAEBmAENuAEXyAEM2AED6AEB-AECiAIBqAIDuAK37uOQBsACAdICJDJjMjgxMmVhLTIyM2MtNDI1Mi1iYTM4LTA3MmE4MjI3MWFkMdgCBOACAQ&sid=086e078aef1832684e5d5671c99a12b1&aid=356980&dest_id=2558&dest_type=region&nflt=ht_id%3D204%3Brpt%3D1&shw_aparth=0&checkin=2023-03-02&checkout=2023-03-03&selected_currency=EUR",
+        "https://www.booking.com/searchresults.fr.html?label=gog235jc-1DCAYoTUIGc2F2b2llSA1YA2hNiAEBmAENuAEXyAEM2AED6AEB-AECiAIBqAIDuAK37uOQBsACAdICJDJjMjgxMmVhLTIyM2MtNDI1Mi1iYTM4LTA3MmE4MjI3MWFkMdgCBOACAQ&sid=086e078aef1832684e5d5671c99a12b1&aid=356980&dest_id=2507&dest_type=region&nflt=ht_id%3D204%3Brpt%3D1&shw_aparth=0&checkin=2023-03-02&checkout=2023-03-03&selected_currency=EUR",
+        "https://www.booking.com/searchresults.fr.html?label=gog235jc-1DCAYoTUIGc2F2b2llSA1YA2hNiAEBmAENuAEXyAEM2AED6AEB-AECiAIBqAIDuAK37uOQBsACAdICJDJjMjgxMmVhLTIyM2MtNDI1Mi1iYTM4LTA3MmE4MjI3MWFkMdgCBOACAQ&sid=086e078aef1832684e5d5671c99a12b1&aid=356980&dest_id=2526&dest_type=region&nflt=ht_id%3D204%3Brpt%3D1&shw_aparth=0&checkin=2023-03-02&checkout=2023-03-03&selected_currency=EUR",
+        "https://www.booking.com/searchresults.fr.html?label=gog235jc-1DCAYoTUIGc2F2b2llSA1YA2hNiAEBmAENuAEXyAEM2AED6AEB-AECiAIBqAIDuAK37uOQBsACAdICJDJjMjgxMmVhLTIyM2MtNDI1Mi1iYTM4LTA3MmE4MjI3MWFkMdgCBOACAQ&sid=086e078aef1832684e5d5671c99a12b1&aid=356980&dest_id=2503&dest_type=region&nflt=ht_id%3D204%3Brpt%3D1&shw_aparth=0&checkin=2023-03-02&checkout=2023-03-03&selected_currency=EUR",
+        "https://www.booking.com/searchresults.fr.html?label=gog235jc-1DCAYoTUIGc2F2b2llSA1YA2hNiAEBmAENuAEXyAEM2AED6AEB-AECiAIBqAIDuAK37uOQBsACAdICJDJjMjgxMmVhLTIyM2MtNDI1Mi1iYTM4LTA3MmE4MjI3MWFkMdgCBOACAQ&sid=086e078aef1832684e5d5671c99a12b1&aid=356980&dest_id=3787&dest_type=region&nflt=ht_id%3D204%3Brpt%3D1&shw_aparth=0&checkin=2023-03-02&checkout=2023-03-03&selected_currency=EUR",
+        "https://www.booking.com/searchresults.fr.html?label=gog235jc-1DCAYoTUIGc2F2b2llSA1YA2hNiAEBmAENuAEXyAEM2AED6AEB-AECiAIBqAIDuAK37uOQBsACAdICJDJjMjgxMmVhLTIyM2MtNDI1Mi1iYTM4LTA3MmE4MjI3MWFkMdgCBOACAQ&sid=086e078aef1832684e5d5671c99a12b1&aid=356980&dest_id=5642&dest_type=region&nflt=ht_id%3D204%3Brpt%3D1&shw_aparth=0&checkin=2023-03-02&checkout=2023-03-03&selected_currency=EUR",
+        "https://www.booking.com/searchresults.fr.html?label=gog235jc-1DCAYoTUIGc2F2b2llSA1YA2hNiAEBmAENuAEXyAEM2AED6AEB-AECiAIBqAIDuAK37uOQBsACAdICJDJjMjgxMmVhLTIyM2MtNDI1Mi1iYTM4LTA3MmE4MjI3MWFkMdgCBOACAQ&sid=086e078aef1832684e5d5671c99a12b1&aid=356980&dest_id=3795&dest_type=region&nflt=ht_id%3D204%3Brpt%3D1&shw_aparth=0&checkin=2023-03-02&checkout=2023-03-03&selected_currency=EUR",
+        "https://www.booking.com/searchresults.fr.html?label=gog235jc-1DCAYoTUIGc2F2b2llSA1YA2hNiAEBmAENuAEXyAEM2AED6AEB-AECiAIBqAIDuAK37uOQBsACAdICJDJjMjgxMmVhLTIyM2MtNDI1Mi1iYTM4LTA3MmE4MjI3MWFkMdgCBOACAQ&sid=086e078aef1832684e5d5671c99a12b1&aid=356980&dest_id=5647&dest_type=region&nflt=ht_id%3D204%3Brpt%3D1&shw_aparth=0&checkin=2023-03-02&checkout=2023-03-03&selected_currency=EUR",
+        "https://www.booking.com/searchresults.fr.html?label=gog235jc-1DCAYoTUIGc2F2b2llSA1YA2hNiAEBmAENuAEXyAEM2AED6AEB-AECiAIBqAIDuAK37uOQBsACAdICJDJjMjgxMmVhLTIyM2MtNDI1Mi1iYTM4LTA3MmE4MjI3MWFkMdgCBOACAQ&sid=086e078aef1832684e5d5671c99a12b1&aid=356980&dest_id=3763&dest_type=region&nflt=ht_id%3D204%3Brpt%3D1&shw_aparth=0&checkin=2023-03-02&checkout=2023-03-03&selected_currency=EUR",
+        "https://www.booking.com/searchresults.fr.html?label=gog235jc-1DCAYoTUIGc2F2b2llSA1YA2hNiAEBmAENuAEXyAEM2AED6AEB-AECiAIBqAIDuAK37uOQBsACAdICJDJjMjgxMmVhLTIyM2MtNDI1Mi1iYTM4LTA3MmE4MjI3MWFkMdgCBOACAQ&sid=086e078aef1832684e5d5671c99a12b1&aid=356980&dest_id=3546&dest_type=region&nflt=ht_id%3D204%3Brpt%3D1&shw_aparth=0&checkin=2023-03-02&checkout=2023-03-03&selected_currency=EUR",
+        "https://www.booking.com/searchresults.fr.html?label=gog235jc-1DCAYoTUIGc2F2b2llSA1YA2hNiAEBmAENuAEXyAEM2AED6AEB-AECiAIBqAIDuAK37uOQBsACAdICJDJjMjgxMmVhLTIyM2MtNDI1Mi1iYTM4LTA3MmE4MjI3MWFkMdgCBOACAQ&sid=086e078aef1832684e5d5671c99a12b1&aid=356980&dest_id=3785&dest_type=region&nflt=ht_id%3D204%3Brpt%3D1&shw_aparth=0&checkin=2023-03-02&checkout=2023-03-03&selected_currency=EUR",
+        "https://www.booking.com/searchresults.fr.html?label=gog235jc-1DCAYoTUIGc2F2b2llSA1YA2hNiAEBmAENuAEXyAEM2AED6AEB-AECiAIBqAIDuAK37uOQBsACAdICJDJjMjgxMmVhLTIyM2MtNDI1Mi1iYTM4LTA3MmE4MjI3MWFkMdgCBOACAQ&sid=086e078aef1832684e5d5671c99a12b1&aid=356980&dest_id=5602&dest_type=region&nflt=ht_id%3D204%3Brpt%3D1&shw_aparth=0&checkin=2023-03-02&checkout=2023-03-03&selected_currency=EUR",
+        "https://www.booking.com/searchresults.fr.html?label=gog235jc-1DCAYoTUIGc2F2b2llSA1YA2hNiAEBmAENuAEXyAEM2AED6AEB-AECiAIBqAIDuAK37uOQBsACAdICJDJjMjgxMmVhLTIyM2MtNDI1Mi1iYTM4LTA3MmE4MjI3MWFkMdgCBOACAQ&sid=086e078aef1832684e5d5671c99a12b1&aid=356980&dest_id=3545&dest_type=region&nflt=ht_id%3D204%3Brpt%3D1&shw_aparth=0&checkin=2023-03-02&checkout=2023-03-03&selected_currency=EUR",
+        "https://www.booking.com/searchresults.fr.html?label=gog235jc-1DCAYoTUIGc2F2b2llSA1YA2hNiAEBmAENuAEXyAEM2AED6AEB-AECiAIBqAIDuAK37uOQBsACAdICJDJjMjgxMmVhLTIyM2MtNDI1Mi1iYTM4LTA3MmE4MjI3MWFkMdgCBOACAQ&sid=086e078aef1832684e5d5671c99a12b1&aid=356980&dest_id=5620&dest_type=region&nflt=ht_id%3D204%3Brpt%3D1&shw_aparth=0&checkin=2023-03-02&checkout=2023-03-03&selected_currency=EUR",
+        "https://www.booking.com/searchresults.fr.html?label=gog235jc-1DCAYoTUIGc2F2b2llSA1YA2hNiAEBmAENuAEXyAEM2AED6AEB-AECiAIBqAIDuAK37uOQBsACAdICJDJjMjgxMmVhLTIyM2MtNDI1Mi1iYTM4LTA3MmE4MjI3MWFkMdgCBOACAQ&sid=086e078aef1832684e5d5671c99a12b1&aid=356980&dest_id=2556&dest_type=region&nflt=ht_id%3D204%3Brpt%3D1&shw_aparth=0&checkin=2023-03-01&checkout=2023-03-02&selected_currency=EUR",
+        "https://www.booking.com/searchresults.fr.html?label=gog235jc-1DCAYoTUIGc2F2b2llSA1YA2hNiAEBmAENuAEXyAEM2AED6AEB-AECiAIBqAIDuAK37uOQBsACAdICJDJjMjgxMmVhLTIyM2MtNDI1Mi1iYTM4LTA3MmE4MjI3MWFkMdgCBOACAQ&sid=086e078aef1832684e5d5671c99a12b1&aid=356980&dest_id=2557&dest_type=region&nflt=ht_id%3D204%3Brpt%3D1&shw_aparth=0&checkin=2023-03-01&checkout=2023-03-02&selected_currency=EUR",
+        "https://www.booking.com/searchresults.fr.html?label=gog235jc-1DCAYoTUIGc2F2b2llSA1YA2hNiAEBmAENuAEXyAEM2AED6AEB-AECiAIBqAIDuAK37uOQBsACAdICJDJjMjgxMmVhLTIyM2MtNDI1Mi1iYTM4LTA3MmE4MjI3MWFkMdgCBOACAQ&sid=086e078aef1832684e5d5671c99a12b1&aid=356980&dest_id=2558&dest_type=region&nflt=ht_id%3D204%3Brpt%3D1&shw_aparth=0&checkin=2023-03-01&checkout=2023-03-02&selected_currency=EUR",
+        "https://www.booking.com/searchresults.fr.html?label=gog235jc-1DCAYoTUIGc2F2b2llSA1YA2hNiAEBmAENuAEXyAEM2AED6AEB-AECiAIBqAIDuAK37uOQBsACAdICJDJjMjgxMmVhLTIyM2MtNDI1Mi1iYTM4LTA3MmE4MjI3MWFkMdgCBOACAQ&sid=086e078aef1832684e5d5671c99a12b1&aid=356980&dest_id=2507&dest_type=region&nflt=ht_id%3D204%3Brpt%3D1&shw_aparth=0&checkin=2023-03-01&checkout=2023-03-02&selected_currency=EUR",
+        "https://www.booking.com/searchresults.fr.html?label=gog235jc-1DCAYoTUIGc2F2b2llSA1YA2hNiAEBmAENuAEXyAEM2AED6AEB-AECiAIBqAIDuAK37uOQBsACAdICJDJjMjgxMmVhLTIyM2MtNDI1Mi1iYTM4LTA3MmE4MjI3MWFkMdgCBOACAQ&sid=086e078aef1832684e5d5671c99a12b1&aid=356980&dest_id=2526&dest_type=region&nflt=ht_id%3D204%3Brpt%3D1&shw_aparth=0&checkin=2023-03-01&checkout=2023-03-02&selected_currency=EUR",
+        "https://www.booking.com/searchresults.fr.html?label=gog235jc-1DCAYoTUIGc2F2b2llSA1YA2hNiAEBmAENuAEXyAEM2AED6AEB-AECiAIBqAIDuAK37uOQBsACAdICJDJjMjgxMmVhLTIyM2MtNDI1Mi1iYTM4LTA3MmE4MjI3MWFkMdgCBOACAQ&sid=086e078aef1832684e5d5671c99a12b1&aid=356980&dest_id=2503&dest_type=region&nflt=ht_id%3D204%3Brpt%3D1&shw_aparth=0&checkin=2023-03-01&checkout=2023-03-02&selected_currency=EUR",
+        "https://www.booking.com/searchresults.fr.html?label=gog235jc-1DCAYoTUIGc2F2b2llSA1YA2hNiAEBmAENuAEXyAEM2AED6AEB-AECiAIBqAIDuAK37uOQBsACAdICJDJjMjgxMmVhLTIyM2MtNDI1Mi1iYTM4LTA3MmE4MjI3MWFkMdgCBOACAQ&sid=086e078aef1832684e5d5671c99a12b1&aid=356980&dest_id=3787&dest_type=region&nflt=ht_id%3D204%3Brpt%3D1&shw_aparth=0&checkin=2023-03-01&checkout=2023-03-02&selected_currency=EUR",
+        "https://www.booking.com/searchresults.fr.html?label=gog235jc-1DCAYoTUIGc2F2b2llSA1YA2hNiAEBmAENuAEXyAEM2AED6AEB-AECiAIBqAIDuAK37uOQBsACAdICJDJjMjgxMmVhLTIyM2MtNDI1Mi1iYTM4LTA3MmE4MjI3MWFkMdgCBOACAQ&sid=086e078aef1832684e5d5671c99a12b1&aid=356980&dest_id=5642&dest_type=region&nflt=ht_id%3D204%3Brpt%3D1&shw_aparth=0&checkin=2023-03-01&checkout=2023-03-02&selected_currency=EUR",
+        "https://www.booking.com/searchresults.fr.html?label=gog235jc-1DCAYoTUIGc2F2b2llSA1YA2hNiAEBmAENuAEXyAEM2AED6AEB-AECiAIBqAIDuAK37uOQBsACAdICJDJjMjgxMmVhLTIyM2MtNDI1Mi1iYTM4LTA3MmE4MjI3MWFkMdgCBOACAQ&sid=086e078aef1832684e5d5671c99a12b1&aid=356980&dest_id=3795&dest_type=region&nflt=ht_id%3D204%3Brpt%3D1&shw_aparth=0&checkin=2023-03-01&checkout=2023-03-02&selected_currency=EUR",
+        "https://www.booking.com/searchresults.fr.html?label=gog235jc-1DCAYoTUIGc2F2b2llSA1YA2hNiAEBmAENuAEXyAEM2AED6AEB-AECiAIBqAIDuAK37uOQBsACAdICJDJjMjgxMmVhLTIyM2MtNDI1Mi1iYTM4LTA3MmE4MjI3MWFkMdgCBOACAQ&sid=086e078aef1832684e5d5671c99a12b1&aid=356980&dest_id=5647&dest_type=region&nflt=ht_id%3D204%3Brpt%3D1&shw_aparth=0&checkin=2023-03-01&checkout=2023-03-02&selected_currency=EUR",
+        "https://www.booking.com/searchresults.fr.html?label=gog235jc-1DCAYoTUIGc2F2b2llSA1YA2hNiAEBmAENuAEXyAEM2AED6AEB-AECiAIBqAIDuAK37uOQBsACAdICJDJjMjgxMmVhLTIyM2MtNDI1Mi1iYTM4LTA3MmE4MjI3MWFkMdgCBOACAQ&sid=086e078aef1832684e5d5671c99a12b1&aid=356980&dest_id=3763&dest_type=region&nflt=ht_id%3D204%3Brpt%3D1&shw_aparth=0&checkin=2023-03-01&checkout=2023-03-02&selected_currency=EUR",
+        "https://www.booking.com/searchresults.fr.html?label=gog235jc-1DCAYoTUIGc2F2b2llSA1YA2hNiAEBmAENuAEXyAEM2AED6AEB-AECiAIBqAIDuAK37uOQBsACAdICJDJjMjgxMmVhLTIyM2MtNDI1Mi1iYTM4LTA3MmE4MjI3MWFkMdgCBOACAQ&sid=086e078aef1832684e5d5671c99a12b1&aid=356980&dest_id=3546&dest_type=region&nflt=ht_id%3D204%3Brpt%3D1&shw_aparth=0&checkin=2023-03-01&checkout=2023-03-02&selected_currency=EUR",
+        "https://www.booking.com/searchresults.fr.html?label=gog235jc-1DCAYoTUIGc2F2b2llSA1YA2hNiAEBmAENuAEXyAEM2AED6AEB-AECiAIBqAIDuAK37uOQBsACAdICJDJjMjgxMmVhLTIyM2MtNDI1Mi1iYTM4LTA3MmE4MjI3MWFkMdgCBOACAQ&sid=086e078aef1832684e5d5671c99a12b1&aid=356980&dest_id=3785&dest_type=region&nflt=ht_id%3D204%3Brpt%3D1&shw_aparth=0&checkin=2023-03-01&checkout=2023-03-02&selected_currency=EUR",
+        "https://www.booking.com/searchresults.fr.html?label=gog235jc-1DCAYoTUIGc2F2b2llSA1YA2hNiAEBmAENuAEXyAEM2AED6AEB-AECiAIBqAIDuAK37uOQBsACAdICJDJjMjgxMmVhLTIyM2MtNDI1Mi1iYTM4LTA3MmE4MjI3MWFkMdgCBOACAQ&sid=086e078aef1832684e5d5671c99a12b1&aid=356980&dest_id=5602&dest_type=region&nflt=ht_id%3D204%3Brpt%3D1&shw_aparth=0&checkin=2023-03-01&checkout=2023-03-02&selected_currency=EUR",
+        "https://www.booking.com/searchresults.fr.html?label=gog235jc-1DCAYoTUIGc2F2b2llSA1YA2hNiAEBmAENuAEXyAEM2AED6AEB-AECiAIBqAIDuAK37uOQBsACAdICJDJjMjgxMmVhLTIyM2MtNDI1Mi1iYTM4LTA3MmE4MjI3MWFkMdgCBOACAQ&sid=086e078aef1832684e5d5671c99a12b1&aid=356980&dest_id=3545&dest_type=region&nflt=ht_id%3D204%3Brpt%3D1&shw_aparth=0&checkin=2023-03-01&checkout=2023-03-02&selected_currency=EUR",
+        "https://www.booking.com/searchresults.fr.html?label=gog235jc-1DCAYoTUIGc2F2b2llSA1YA2hNiAEBmAENuAEXyAEM2AED6AEB-AECiAIBqAIDuAK37uOQBsACAdICJDJjMjgxMmVhLTIyM2MtNDI1Mi1iYTM4LTA3MmE4MjI3MWFkMdgCBOACAQ&sid=086e078aef1832684e5d5671c99a12b1&aid=356980&dest_id=5620&dest_type=region&nflt=ht_id%3D204%3Brpt%3D1&shw_aparth=0&checkin=2023-03-01&checkout=2023-03-02&selected_currency=EUR",
+        "https://www.booking.com/searchresults.fr.html?label=gog235jc-1DCAYoTUIGc2F2b2llSA1YA2hNiAEBmAENuAEXyAEM2AED6AEB-AECiAIBqAIDuAK37uOQBsACAdICJDJjMjgxMmVhLTIyM2MtNDI1Mi1iYTM4LTA3MmE4MjI3MWFkMdgCBOACAQ&sid=086e078aef1832684e5d5671c99a12b1&aid=356980&dest_id=2556&dest_type=region&nflt=ht_id%3D204%3Brpt%3D1&shw_aparth=0&checkin=2023-02-28&checkout=2023-03-01&selected_currency=EUR",
+        "https://www.booking.com/searchresults.fr.html?label=gog235jc-1DCAYoTUIGc2F2b2llSA1YA2hNiAEBmAENuAEXyAEM2AED6AEB-AECiAIBqAIDuAK37uOQBsACAdICJDJjMjgxMmVhLTIyM2MtNDI1Mi1iYTM4LTA3MmE4MjI3MWFkMdgCBOACAQ&sid=086e078aef1832684e5d5671c99a12b1&aid=356980&dest_id=2557&dest_type=region&nflt=ht_id%3D204%3Brpt%3D1&shw_aparth=0&checkin=2023-02-28&checkout=2023-03-01&selected_currency=EUR",
+        "https://www.booking.com/searchresults.fr.html?label=gog235jc-1DCAYoTUIGc2F2b2llSA1YA2hNiAEBmAENuAEXyAEM2AED6AEB-AECiAIBqAIDuAK37uOQBsACAdICJDJjMjgxMmVhLTIyM2MtNDI1Mi1iYTM4LTA3MmE4MjI3MWFkMdgCBOACAQ&sid=086e078aef1832684e5d5671c99a12b1&aid=356980&dest_id=2558&dest_type=region&nflt=ht_id%3D204%3Brpt%3D1&shw_aparth=0&checkin=2023-02-28&checkout=2023-03-01&selected_currency=EUR",
+        "https://www.booking.com/searchresults.fr.html?label=gog235jc-1DCAYoTUIGc2F2b2llSA1YA2hNiAEBmAENuAEXyAEM2AED6AEB-AECiAIBqAIDuAK37uOQBsACAdICJDJjMjgxMmVhLTIyM2MtNDI1Mi1iYTM4LTA3MmE4MjI3MWFkMdgCBOACAQ&sid=086e078aef1832684e5d5671c99a12b1&aid=356980&dest_id=2507&dest_type=region&nflt=ht_id%3D204%3Brpt%3D1&shw_aparth=0&checkin=2023-02-28&checkout=2023-03-01&selected_currency=EUR",
+        "https://www.booking.com/searchresults.fr.html?label=gog235jc-1DCAYoTUIGc2F2b2llSA1YA2hNiAEBmAENuAEXyAEM2AED6AEB-AECiAIBqAIDuAK37uOQBsACAdICJDJjMjgxMmVhLTIyM2MtNDI1Mi1iYTM4LTA3MmE4MjI3MWFkMdgCBOACAQ&sid=086e078aef1832684e5d5671c99a12b1&aid=356980&dest_id=2526&dest_type=region&nflt=ht_id%3D204%3Brpt%3D1&shw_aparth=0&checkin=2023-02-28&checkout=2023-03-01&selected_currency=EUR",
+        "https://www.booking.com/searchresults.fr.html?label=gog235jc-1DCAYoTUIGc2F2b2llSA1YA2hNiAEBmAENuAEXyAEM2AED6AEB-AECiAIBqAIDuAK37uOQBsACAdICJDJjMjgxMmVhLTIyM2MtNDI1Mi1iYTM4LTA3MmE4MjI3MWFkMdgCBOACAQ&sid=086e078aef1832684e5d5671c99a12b1&aid=356980&dest_id=2503&dest_type=region&nflt=ht_id%3D204%3Brpt%3D1&shw_aparth=0&checkin=2023-02-28&checkout=2023-03-01&selected_currency=EUR",
+        "https://www.booking.com/searchresults.fr.html?label=gog235jc-1DCAYoTUIGc2F2b2llSA1YA2hNiAEBmAENuAEXyAEM2AED6AEB-AECiAIBqAIDuAK37uOQBsACAdICJDJjMjgxMmVhLTIyM2MtNDI1Mi1iYTM4LTA3MmE4MjI3MWFkMdgCBOACAQ&sid=086e078aef1832684e5d5671c99a12b1&aid=356980&dest_id=3787&dest_type=region&nflt=ht_id%3D204%3Brpt%3D1&shw_aparth=0&checkin=2023-02-28&checkout=2023-03-01&selected_currency=EUR",
+        "https://www.booking.com/searchresults.fr.html?label=gog235jc-1DCAYoTUIGc2F2b2llSA1YA2hNiAEBmAENuAEXyAEM2AED6AEB-AECiAIBqAIDuAK37uOQBsACAdICJDJjMjgxMmVhLTIyM2MtNDI1Mi1iYTM4LTA3MmE4MjI3MWFkMdgCBOACAQ&sid=086e078aef1832684e5d5671c99a12b1&aid=356980&dest_id=5642&dest_type=region&nflt=ht_id%3D204%3Brpt%3D1&shw_aparth=0&checkin=2023-02-28&checkout=2023-03-01&selected_currency=EUR",
+        "https://www.booking.com/searchresults.fr.html?label=gog235jc-1DCAYoTUIGc2F2b2llSA1YA2hNiAEBmAENuAEXyAEM2AED6AEB-AECiAIBqAIDuAK37uOQBsACAdICJDJjMjgxMmVhLTIyM2MtNDI1Mi1iYTM4LTA3MmE4MjI3MWFkMdgCBOACAQ&sid=086e078aef1832684e5d5671c99a12b1&aid=356980&dest_id=3795&dest_type=region&nflt=ht_id%3D204%3Brpt%3D1&shw_aparth=0&checkin=2023-02-28&checkout=2023-03-01&selected_currency=EUR",
+        "https://www.booking.com/searchresults.fr.html?label=gog235jc-1DCAYoTUIGc2F2b2llSA1YA2hNiAEBmAENuAEXyAEM2AED6AEB-AECiAIBqAIDuAK37uOQBsACAdICJDJjMjgxMmVhLTIyM2MtNDI1Mi1iYTM4LTA3MmE4MjI3MWFkMdgCBOACAQ&sid=086e078aef1832684e5d5671c99a12b1&aid=356980&dest_id=5647&dest_type=region&nflt=ht_id%3D204%3Brpt%3D1&shw_aparth=0&checkin=2023-02-28&checkout=2023-03-01&selected_currency=EUR",
+        "https://www.booking.com/searchresults.fr.html?label=gog235jc-1DCAYoTUIGc2F2b2llSA1YA2hNiAEBmAENuAEXyAEM2AED6AEB-AECiAIBqAIDuAK37uOQBsACAdICJDJjMjgxMmVhLTIyM2MtNDI1Mi1iYTM4LTA3MmE4MjI3MWFkMdgCBOACAQ&sid=086e078aef1832684e5d5671c99a12b1&aid=356980&dest_id=3763&dest_type=region&nflt=ht_id%3D204%3Brpt%3D1&shw_aparth=0&checkin=2023-02-28&checkout=2023-03-01&selected_currency=EUR",
+        "https://www.booking.com/searchresults.fr.html?label=gog235jc-1DCAYoTUIGc2F2b2llSA1YA2hNiAEBmAENuAEXyAEM2AED6AEB-AECiAIBqAIDuAK37uOQBsACAdICJDJjMjgxMmVhLTIyM2MtNDI1Mi1iYTM4LTA3MmE4MjI3MWFkMdgCBOACAQ&sid=086e078aef1832684e5d5671c99a12b1&aid=356980&dest_id=3546&dest_type=region&nflt=ht_id%3D204%3Brpt%3D1&shw_aparth=0&checkin=2023-02-28&checkout=2023-03-01&selected_currency=EUR",
+        "https://www.booking.com/searchresults.fr.html?label=gog235jc-1DCAYoTUIGc2F2b2llSA1YA2hNiAEBmAENuAEXyAEM2AED6AEB-AECiAIBqAIDuAK37uOQBsACAdICJDJjMjgxMmVhLTIyM2MtNDI1Mi1iYTM4LTA3MmE4MjI3MWFkMdgCBOACAQ&sid=086e078aef1832684e5d5671c99a12b1&aid=356980&dest_id=3785&dest_type=region&nflt=ht_id%3D204%3Brpt%3D1&shw_aparth=0&checkin=2023-02-28&checkout=2023-03-01&selected_currency=EUR",
+        "https://www.booking.com/searchresults.fr.html?label=gog235jc-1DCAYoTUIGc2F2b2llSA1YA2hNiAEBmAENuAEXyAEM2AED6AEB-AECiAIBqAIDuAK37uOQBsACAdICJDJjMjgxMmVhLTIyM2MtNDI1Mi1iYTM4LTA3MmE4MjI3MWFkMdgCBOACAQ&sid=086e078aef1832684e5d5671c99a12b1&aid=356980&dest_id=5602&dest_type=region&nflt=ht_id%3D204%3Brpt%3D1&shw_aparth=0&checkin=2023-02-28&checkout=2023-03-01&selected_currency=EUR",
+        "https://www.booking.com/searchresults.fr.html?label=gog235jc-1DCAYoTUIGc2F2b2llSA1YA2hNiAEBmAENuAEXyAEM2AED6AEB-AECiAIBqAIDuAK37uOQBsACAdICJDJjMjgxMmVhLTIyM2MtNDI1Mi1iYTM4LTA3MmE4MjI3MWFkMdgCBOACAQ&sid=086e078aef1832684e5d5671c99a12b1&aid=356980&dest_id=3545&dest_type=region&nflt=ht_id%3D204%3Brpt%3D1&shw_aparth=0&checkin=2023-02-28&checkout=2023-03-01&selected_currency=EUR",
+        "https://www.booking.com/searchresults.fr.html?label=gog235jc-1DCAYoTUIGc2F2b2llSA1YA2hNiAEBmAENuAEXyAEM2AED6AEB-AECiAIBqAIDuAK37uOQBsACAdICJDJjMjgxMmVhLTIyM2MtNDI1Mi1iYTM4LTA3MmE4MjI3MWFkMdgCBOACAQ&sid=086e078aef1832684e5d5671c99a12b1&aid=356980&dest_id=5620&dest_type=region&nflt=ht_id%3D204%3Brpt%3D1&shw_aparth=0&checkin=2023-02-28&checkout=2023-03-01&selected_currency=EUR",
+        "https://www.booking.com/searchresults.fr.html?label=gog235jc-1DCAYoTUIGc2F2b2llSA1YA2hNiAEBmAENuAEXyAEM2AED6AEB-AECiAIBqAIDuAK37uOQBsACAdICJDJjMjgxMmVhLTIyM2MtNDI1Mi1iYTM4LTA3MmE4MjI3MWFkMdgCBOACAQ&sid=086e078aef1832684e5d5671c99a12b1&aid=356980&dest_id=2556&dest_type=region&nflt=ht_id%3D204%3Brpt%3D1&shw_aparth=0&checkin=2023-02-27&checkout=2023-02-28&selected_currency=EUR",
+        "https://www.booking.com/searchresults.fr.html?label=gog235jc-1DCAYoTUIGc2F2b2llSA1YA2hNiAEBmAENuAEXyAEM2AED6AEB-AECiAIBqAIDuAK37uOQBsACAdICJDJjMjgxMmVhLTIyM2MtNDI1Mi1iYTM4LTA3MmE4MjI3MWFkMdgCBOACAQ&sid=086e078aef1832684e5d5671c99a12b1&aid=356980&dest_id=2557&dest_type=region&nflt=ht_id%3D204%3Brpt%3D1&shw_aparth=0&checkin=2023-02-27&checkout=2023-02-28&selected_currency=EUR",
+        "https://www.booking.com/searchresults.fr.html?label=gog235jc-1DCAYoTUIGc2F2b2llSA1YA2hNiAEBmAENuAEXyAEM2AED6AEB-AECiAIBqAIDuAK37uOQBsACAdICJDJjMjgxMmVhLTIyM2MtNDI1Mi1iYTM4LTA3MmE4MjI3MWFkMdgCBOACAQ&sid=086e078aef1832684e5d5671c99a12b1&aid=356980&dest_id=2558&dest_type=region&nflt=ht_id%3D204%3Brpt%3D1&shw_aparth=0&checkin=2023-02-27&checkout=2023-02-28&selected_currency=EUR",
+        "https://www.booking.com/searchresults.fr.html?label=gog235jc-1DCAYoTUIGc2F2b2llSA1YA2hNiAEBmAENuAEXyAEM2AED6AEB-AECiAIBqAIDuAK37uOQBsACAdICJDJjMjgxMmVhLTIyM2MtNDI1Mi1iYTM4LTA3MmE4MjI3MWFkMdgCBOACAQ&sid=086e078aef1832684e5d5671c99a12b1&aid=356980&dest_id=2507&dest_type=region&nflt=ht_id%3D204%3Brpt%3D1&shw_aparth=0&checkin=2023-02-27&checkout=2023-02-28&selected_currency=EUR",
+        "https://www.booking.com/searchresults.fr.html?label=gog235jc-1DCAYoTUIGc2F2b2llSA1YA2hNiAEBmAENuAEXyAEM2AED6AEB-AECiAIBqAIDuAK37uOQBsACAdICJDJjMjgxMmVhLTIyM2MtNDI1Mi1iYTM4LTA3MmE4MjI3MWFkMdgCBOACAQ&sid=086e078aef1832684e5d5671c99a12b1&aid=356980&dest_id=2526&dest_type=region&nflt=ht_id%3D204%3Brpt%3D1&shw_aparth=0&checkin=2023-02-27&checkout=2023-02-28&selected_currency=EUR",
+        "https://www.booking.com/searchresults.fr.html?label=gog235jc-1DCAYoTUIGc2F2b2llSA1YA2hNiAEBmAENuAEXyAEM2AED6AEB-AECiAIBqAIDuAK37uOQBsACAdICJDJjMjgxMmVhLTIyM2MtNDI1Mi1iYTM4LTA3MmE4MjI3MWFkMdgCBOACAQ&sid=086e078aef1832684e5d5671c99a12b1&aid=356980&dest_id=2503&dest_type=region&nflt=ht_id%3D204%3Brpt%3D1&shw_aparth=0&checkin=2023-02-27&checkout=2023-02-28&selected_currency=EUR",
+        "https://www.booking.com/searchresults.fr.html?label=gog235jc-1DCAYoTUIGc2F2b2llSA1YA2hNiAEBmAENuAEXyAEM2AED6AEB-AECiAIBqAIDuAK37uOQBsACAdICJDJjMjgxMmVhLTIyM2MtNDI1Mi1iYTM4LTA3MmE4MjI3MWFkMdgCBOACAQ&sid=086e078aef1832684e5d5671c99a12b1&aid=356980&dest_id=3787&dest_type=region&nflt=ht_id%3D204%3Brpt%3D1&shw_aparth=0&checkin=2023-02-27&checkout=2023-02-28&selected_currency=EUR",
+        "https://www.booking.com/searchresults.fr.html?label=gog235jc-1DCAYoTUIGc2F2b2llSA1YA2hNiAEBmAENuAEXyAEM2AED6AEB-AECiAIBqAIDuAK37uOQBsACAdICJDJjMjgxMmVhLTIyM2MtNDI1Mi1iYTM4LTA3MmE4MjI3MWFkMdgCBOACAQ&sid=086e078aef1832684e5d5671c99a12b1&aid=356980&dest_id=5642&dest_type=region&nflt=ht_id%3D204%3Brpt%3D1&shw_aparth=0&checkin=2023-02-27&checkout=2023-02-28&selected_currency=EUR",
+        "https://www.booking.com/searchresults.fr.html?label=gog235jc-1DCAYoTUIGc2F2b2llSA1YA2hNiAEBmAENuAEXyAEM2AED6AEB-AECiAIBqAIDuAK37uOQBsACAdICJDJjMjgxMmVhLTIyM2MtNDI1Mi1iYTM4LTA3MmE4MjI3MWFkMdgCBOACAQ&sid=086e078aef1832684e5d5671c99a12b1&aid=356980&dest_id=3795&dest_type=region&nflt=ht_id%3D204%3Brpt%3D1&shw_aparth=0&checkin=2023-02-27&checkout=2023-02-28&selected_currency=EUR",
+        "https://www.booking.com/searchresults.fr.html?label=gog235jc-1DCAYoTUIGc2F2b2llSA1YA2hNiAEBmAENuAEXyAEM2AED6AEB-AECiAIBqAIDuAK37uOQBsACAdICJDJjMjgxMmVhLTIyM2MtNDI1Mi1iYTM4LTA3MmE4MjI3MWFkMdgCBOACAQ&sid=086e078aef1832684e5d5671c99a12b1&aid=356980&dest_id=5647&dest_type=region&nflt=ht_id%3D204%3Brpt%3D1&shw_aparth=0&checkin=2023-02-27&checkout=2023-02-28&selected_currency=EUR",
+        "https://www.booking.com/searchresults.fr.html?label=gog235jc-1DCAYoTUIGc2F2b2llSA1YA2hNiAEBmAENuAEXyAEM2AED6AEB-AECiAIBqAIDuAK37uOQBsACAdICJDJjMjgxMmVhLTIyM2MtNDI1Mi1iYTM4LTA3MmE4MjI3MWFkMdgCBOACAQ&sid=086e078aef1832684e5d5671c99a12b1&aid=356980&dest_id=3763&dest_type=region&nflt=ht_id%3D204%3Brpt%3D1&shw_aparth=0&checkin=2023-02-27&checkout=2023-02-28&selected_currency=EUR",
+        "https://www.booking.com/searchresults.fr.html?label=gog235jc-1DCAYoTUIGc2F2b2llSA1YA2hNiAEBmAENuAEXyAEM2AED6AEB-AECiAIBqAIDuAK37uOQBsACAdICJDJjMjgxMmVhLTIyM2MtNDI1Mi1iYTM4LTA3MmE4MjI3MWFkMdgCBOACAQ&sid=086e078aef1832684e5d5671c99a12b1&aid=356980&dest_id=3546&dest_type=region&nflt=ht_id%3D204%3Brpt%3D1&shw_aparth=0&checkin=2023-02-27&checkout=2023-02-28&selected_currency=EUR",
+        "https://www.booking.com/searchresults.fr.html?label=gog235jc-1DCAYoTUIGc2F2b2llSA1YA2hNiAEBmAENuAEXyAEM2AED6AEB-AECiAIBqAIDuAK37uOQBsACAdICJDJjMjgxMmVhLTIyM2MtNDI1Mi1iYTM4LTA3MmE4MjI3MWFkMdgCBOACAQ&sid=086e078aef1832684e5d5671c99a12b1&aid=356980&dest_id=3785&dest_type=region&nflt=ht_id%3D204%3Brpt%3D1&shw_aparth=0&checkin=2023-02-27&checkout=2023-02-28&selected_currency=EUR",
+        "https://www.booking.com/searchresults.fr.html?label=gog235jc-1DCAYoTUIGc2F2b2llSA1YA2hNiAEBmAENuAEXyAEM2AED6AEB-AECiAIBqAIDuAK37uOQBsACAdICJDJjMjgxMmVhLTIyM2MtNDI1Mi1iYTM4LTA3MmE4MjI3MWFkMdgCBOACAQ&sid=086e078aef1832684e5d5671c99a12b1&aid=356980&dest_id=5602&dest_type=region&nflt=ht_id%3D204%3Brpt%3D1&shw_aparth=0&checkin=2023-02-27&checkout=2023-02-28&selected_currency=EUR",
+        "https://www.booking.com/searchresults.fr.html?label=gog235jc-1DCAYoTUIGc2F2b2llSA1YA2hNiAEBmAENuAEXyAEM2AED6AEB-AECiAIBqAIDuAK37uOQBsACAdICJDJjMjgxMmVhLTIyM2MtNDI1Mi1iYTM4LTA3MmE4MjI3MWFkMdgCBOACAQ&sid=086e078aef1832684e5d5671c99a12b1&aid=356980&dest_id=3545&dest_type=region&nflt=ht_id%3D204%3Brpt%3D1&shw_aparth=0&checkin=2023-02-27&checkout=2023-02-28&selected_currency=EUR",
+        "https://www.booking.com/searchresults.fr.html?label=gog235jc-1DCAYoTUIGc2F2b2llSA1YA2hNiAEBmAENuAEXyAEM2AED6AEB-AECiAIBqAIDuAK37uOQBsACAdICJDJjMjgxMmVhLTIyM2MtNDI1Mi1iYTM4LTA3MmE4MjI3MWFkMdgCBOACAQ&sid=086e078aef1832684e5d5671c99a12b1&aid=356980&dest_id=5620&dest_type=region&nflt=ht_id%3D204%3Brpt%3D1&shw_aparth=0&checkin=2023-02-27&checkout=2023-02-28&selected_currency=EUR"
+    ],
+    "selectors": [
+        {
+            "id": "paginator",
+            "parentSelectors": [
+                "_root",
+                "paginator"
+            ],
+            "paginationType": "clickOnce",
+            "selector": "button.f9c5690c58",
+            "type": "SelectorPagination"
+        },
+        {
+            "id": "element",
+            "parentSelectors": [
+                "_root",
+                "paginator"
+            ],
+            "type": "SelectorElement",
+            "selector": "div.fe821aea6c:nth-of-type(n+2)",
+            "multiple": true
+        },
+        {
+            "id": "nom",
+            "multiple": false,
+            "parentSelectors": [
+                "element"
+            ],
+            "regex": "",
+            "selector": "div.fcab3ed991",
+            "type": "SelectorText"
+        },
+        {
+            "id": "localite",
+            "multiple": false,
+            "parentSelectors": [
+                "element"
+            ],
+            "regex": "",
+            "selector": "span.f4bd0794db[data-testid]",
+            "type": "SelectorText"
+        },
+        {
+            "id": "prix_init",
+            "multiple": false,
+            "parentSelectors": [
+                "element"
+            ],
+            "regex": "",
+            "selector": "span.c5888af24f",
+            "type": "SelectorText"
+        },
+        {
+            "id": "prix_actuel",
+            "multiple": false,
+            "parentSelectors": [
+                "element"
+            ],
+            "regex": "",
+            "selector": "span.fcab3ed991",
+            "type": "SelectorText"
+        },
+        {
+            "id": "note",
+            "multiple": false,
+            "parentSelectors": [
+                "element"
+            ],
+            "regex": "",
+            "selector": "div.d10a6220b4",
+            "type": "SelectorText"
+        },
+        {
+            "id": "typo",
+            "multiple": false,
+            "parentSelectors": [
+                "element"
+            ],
+            "regex": "",
+            "selector": "span.df597226dd",
+            "type": "SelectorText"
+        },
+        {
+            "id": "type_de_lit",
+            "multiple": false,
+            "parentSelectors": [
+                "element"
+            ],
+            "regex": "",
+            "selector": ".cb5b4b68a4 div",
+            "type": "SelectorText"
+        },
+        {
+            "id": "taxes",
+            "multiple": false,
+            "parentSelectors": [
+                "element"
+            ],
+            "regex": "",
+            "selector": "div[data-testid='taxes-and-charges']",
+            "type": "SelectorText"
+        },
+        {
+            "id": "nuite",
+            "multiple": false,
+            "parentSelectors": [
+                "element"
+            ],
+            "regex": "",
+            "selector": "div[data-testid='price-for-x-nights']",
+            "type": "SelectorText"
+        },
+        {
+            "id": "experience_vecu",
+            "multiple": false,
+            "parentSelectors": [
+                "element"
+            ],
+            "regex": "",
+            "selector": "div.db63693c62",
+            "type": "SelectorText"
+        },
+        {
+            "id": "reduction",
+            "multiple": false,
+            "parentSelectors": [
+                "element"
+            ],
+            "regex": "",
+            "selector": "span.e2f34d59b1",
+            "type": "SelectorText"
+        },
+        {
+            "id": "genius",
+            "multiple": false,
+            "parentSelectors": [
+                "element"
+            ],
+            "regex": "",
+            "selector": ".b2fe1a41c3.a1f3ecff04 div.b1e6dd8416",
+            "type": "SelectorText"
+        }
+    ]
+}

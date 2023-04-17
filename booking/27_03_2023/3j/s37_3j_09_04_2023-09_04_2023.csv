@@ -1,0 +1,865 @@
+web-scraper-order,date_price,date_debut,date_fin,prix_init,prix_actuel,typologie,n_offre,nom,localite,date_debut-jour,Nb semaines
+1691418850-1,27/03/2023,09/04/2023,12/04/2023,220,220,Chambre Double Standard,,Hôtel Chalet Le Caribou,Les Saisies,,14
+1691418850-2,27/03/2023,09/04/2023,12/04/2023,322,322,Chambre Double,,Maison Doron,Beaufort,,14
+1691418850-3,27/03/2023,09/04/2023,12/04/2023,424,424,Chambre Lits Jumeaux,,Le Calgary,Les Saisies,,14
+1691418850-4,27/03/2023,09/04/2023,12/04/2023,794,794,Appartement 1 Chambre (2 Adultes + 3 Enfants),,Belambra Clubs Les Saisies - Les Embrunes,Villard-sur-Doron,,14
+1691418850-5,27/03/2023,09/04/2023,12/04/2023,266,266,Chambre Triple,,Chalet Les Pieux,Crest-Voland,,14
+1691418850-6,27/03/2023,09/04/2023,12/04/2023,645,645,Appartement (4-6 Adultes),,Les Chalets de La Griyotire,Praz-sur-Arly,,14
+1691418850-7,27/03/2023,09/04/2023,12/04/2023,1782,1782,Suite Junior,,Flocons de Sel,Megève,,14
+1691418850-8,27/03/2023,09/04/2023,12/04/2023,270,270,Chambre Lits Jumeaux Standard,,ULVF La Citadelle de Conflans,Albertville,,14
+1691418850-9,27/03/2023,09/04/2023,12/04/2023,263,263,Chambre Double,,Auberge de Costaroche,Albertville,,14
+1691418850-10,27/03/2023,09/04/2023,12/04/2023,499,499,Chambre Double Supérieure,,Hotel Million,Albertville,,14
+1691418850-11,27/03/2023,09/04/2023,12/04/2023,414,414,Chambre Double Standard,,Au Coin Du Feu,Megève,,14
+1691418850-12,27/03/2023,09/04/2023,12/04/2023,330,330,Chambre Lits Jumeaux Standard,,ibis Styles Albertville,Albertville,,14
+1691418850-13,27/03/2023,09/04/2023,12/04/2023,184,184,Chambre Lits Jumeaux Standard,,Hôtel Le Savoie,Albertville,,14
+1691418850-14,27/03/2023,09/04/2023,12/04/2023,594,594,Chambre Double Classique avec Canapé-Lit,,Novotel Megève Mont-Blanc,Megève,,14
+1691418850-15,27/03/2023,09/04/2023,12/04/2023,289,289,Chambre Double,,Albert 1er,Albertville,,14
+1691418850-16,27/03/2023,09/04/2023,12/04/2023,248,248,Chambre Double ou Lits Jumeaux Classique,,Le Roma,Albertville,,14
+1691418850-17,27/03/2023,09/04/2023,12/04/2023,151,151,Chambre Lits Jumeaux,,Fasthotel Albertville,Albertville,,14
+1691418850-18,27/03/2023,09/04/2023,12/04/2023,276,276,Chambre Double avec Balcon,,Hotel Le Christiania,Les Contamines-Montjoie,,14
+1691418850-19,27/03/2023,09/04/2023,12/04/2023,247,247,Chambre Triple,,ibis budget Albertville,Gilly-sur-Isère,,14
+1691418850-20,27/03/2023,09/04/2023,12/04/2023,591,507,Chambre Double avec Toilettes Communes,,Chalet-Hôtel de l'Etape,Les Contamines-Montjoie,,14
+1691418850-21,27/03/2023,09/04/2023,12/04/2023,2119,1907,Chambre Double Deluxe avec Balcon,,Magic Megève Bois,Demi-Quartier,,14
+1691418850-22,27/03/2023,09/04/2023,12/04/2023,294,294,Chambre Double - Accessible aux Personnes à Mobilité Réduite ,,Brit Hotel Florimont,Saint-Ferréol,,14
+1691418850-23,27/03/2023,09/04/2023,12/04/2023,693,693,Chambre Supérieure Double ou Twin avec Terrasse et Vue sur le Mont d'Arbois et le Mont-Blanc,,Hôtel Arbois Bettex,Saint-Gervais-les-Bains,,14
+1691418850-24,27/03/2023,09/04/2023,12/04/2023,236,236,Chambre Double Standard,,"Hôtel de Genève , Faverges-Seythenex 74210, Haute Savoie",Faverges,,14
+1691418850-25,27/03/2023,09/04/2023,12/04/2023,579,579,Chambre Double,,Aux Ducs de Savoie,Combloux,,14
+1691418850-26,27/03/2023,09/04/2023,12/04/2023,220,220,Chambre Double Standard,,Hôtel Chalet Le Caribou,Les Saisies,,14
+1691418850-27,27/03/2023,09/04/2023,12/04/2023,322,322,Chambre Double,,Maison Doron,Beaufort,,14
+1691418850-28,27/03/2023,09/04/2023,12/04/2023,424,424,Chambre Lits Jumeaux,,Le Calgary,Les Saisies,,14
+1691418850-29,27/03/2023,09/04/2023,12/04/2023,794,794,Appartement 1 Chambre (2 Adultes + 3 Enfants),,Belambra Clubs Les Saisies - Les Embrunes,Villard-sur-Doron,,14
+1691418850-30,27/03/2023,09/04/2023,12/04/2023,266,266,Chambre Triple,,Chalet Les Pieux,Crest-Voland,,14
+1691418850-31,27/03/2023,09/04/2023,12/04/2023,645,645,Appartement (4-6 Adultes),,Les Chalets de La Griyotire,Praz-sur-Arly,,14
+1691418850-32,27/03/2023,09/04/2023,12/04/2023,1782,1782,Suite Junior,,Flocons de Sel,Megève,,14
+1691418850-33,27/03/2023,09/04/2023,12/04/2023,270,270,Chambre Lits Jumeaux Standard,,ULVF La Citadelle de Conflans,Albertville,,14
+1691418850-34,27/03/2023,09/04/2023,12/04/2023,263,263,Chambre Double,,Auberge de Costaroche,Albertville,,14
+1691418850-35,27/03/2023,09/04/2023,12/04/2023,499,499,Chambre Double Supérieure,,Hotel Million,Albertville,,14
+1691418850-36,27/03/2023,09/04/2023,12/04/2023,414,414,Chambre Double Standard,,Au Coin Du Feu,Megève,,14
+1691418850-37,27/03/2023,09/04/2023,12/04/2023,330,330,Chambre Lits Jumeaux Standard,,ibis Styles Albertville,Albertville,,14
+1691418850-38,27/03/2023,09/04/2023,12/04/2023,184,184,Chambre Lits Jumeaux Standard,,Hôtel Le Savoie,Albertville,,14
+1691418850-39,27/03/2023,09/04/2023,12/04/2023,594,594,Chambre Double Classique avec Canapé-Lit,,Novotel Megève Mont-Blanc,Megève,,14
+1691418850-40,27/03/2023,09/04/2023,12/04/2023,289,289,Chambre Double,,Albert 1er,Albertville,,14
+1691418850-41,27/03/2023,09/04/2023,12/04/2023,248,248,Chambre Double ou Lits Jumeaux Classique,,Le Roma,Albertville,,14
+1691418850-42,27/03/2023,09/04/2023,12/04/2023,151,151,Chambre Lits Jumeaux,,Fasthotel Albertville,Albertville,,14
+1691418850-43,27/03/2023,09/04/2023,12/04/2023,276,276,Chambre Double avec Balcon,,Hotel Le Christiania,Les Contamines-Montjoie,,14
+1691418850-44,27/03/2023,09/04/2023,12/04/2023,247,247,Chambre Triple,,ibis budget Albertville,Gilly-sur-Isère,,14
+1691418850-45,27/03/2023,09/04/2023,12/04/2023,591,507,Chambre Double avec Toilettes Communes,,Chalet-Hôtel de l'Etape,Les Contamines-Montjoie,,14
+1691418850-46,27/03/2023,09/04/2023,12/04/2023,2119,1907,Chambre Double Deluxe avec Balcon,,Magic Megève Bois,Demi-Quartier,,14
+1691418850-47,27/03/2023,09/04/2023,12/04/2023,294,294,Chambre Double - Accessible aux Personnes à Mobilité Réduite ,,Brit Hotel Florimont,Saint-Ferréol,,14
+1691418850-48,27/03/2023,09/04/2023,12/04/2023,693,693,Chambre Supérieure Double ou Twin avec Terrasse et Vue sur le Mont d'Arbois et le Mont-Blanc,,Hôtel Arbois Bettex,Saint-Gervais-les-Bains,,14
+1691418850-49,27/03/2023,09/04/2023,12/04/2023,236,236,Chambre Double Standard,,"Hôtel de Genève , Faverges-Seythenex 74210, Haute Savoie",Faverges,,14
+1691418850-50,27/03/2023,09/04/2023,12/04/2023,579,579,Chambre Double,,Aux Ducs de Savoie,Combloux,,14
+1691418850-51,27/03/2023,09/04/2023,12/04/2023,220,220,Chambre Double Standard,,Hôtel Chalet Le Caribou,Les Saisies,,14
+1691418850-52,27/03/2023,09/04/2023,12/04/2023,322,322,Chambre Double,,Maison Doron,Beaufort,,14
+1691418850-53,27/03/2023,09/04/2023,12/04/2023,424,424,Chambre Lits Jumeaux,,Le Calgary,Les Saisies,,14
+1691418850-54,27/03/2023,09/04/2023,12/04/2023,794,794,Appartement 1 Chambre (2 Adultes + 3 Enfants),,Belambra Clubs Les Saisies - Les Embrunes,Villard-sur-Doron,,14
+1691418850-55,27/03/2023,09/04/2023,12/04/2023,266,266,Chambre Triple,,Chalet Les Pieux,Crest-Voland,,14
+1691418850-56,27/03/2023,09/04/2023,12/04/2023,645,645,Appartement (4-6 Adultes),,Les Chalets de La Griyotire,Praz-sur-Arly,,14
+1691418850-57,27/03/2023,09/04/2023,12/04/2023,1782,1782,Suite Junior,,Flocons de Sel,Megève,,14
+1691418850-58,27/03/2023,09/04/2023,12/04/2023,270,270,Chambre Lits Jumeaux Standard,,ULVF La Citadelle de Conflans,Albertville,,14
+1691418850-59,27/03/2023,09/04/2023,12/04/2023,263,263,Chambre Double,,Auberge de Costaroche,Albertville,,14
+1691418850-60,27/03/2023,09/04/2023,12/04/2023,499,499,Chambre Double Supérieure,,Hotel Million,Albertville,,14
+1691418850-61,27/03/2023,09/04/2023,12/04/2023,414,414,Chambre Double Standard,,Au Coin Du Feu,Megève,,14
+1691418850-62,27/03/2023,09/04/2023,12/04/2023,330,330,Chambre Lits Jumeaux Standard,,ibis Styles Albertville,Albertville,,14
+1691418850-63,27/03/2023,09/04/2023,12/04/2023,184,184,Chambre Lits Jumeaux Standard,,Hôtel Le Savoie,Albertville,,14
+1691418850-64,27/03/2023,09/04/2023,12/04/2023,594,594,Chambre Double Classique avec Canapé-Lit,,Novotel Megève Mont-Blanc,Megève,,14
+1691418850-65,27/03/2023,09/04/2023,12/04/2023,289,289,Chambre Double,,Albert 1er,Albertville,,14
+1691418850-66,27/03/2023,09/04/2023,12/04/2023,248,248,Chambre Double ou Lits Jumeaux Classique,,Le Roma,Albertville,,14
+1691418850-67,27/03/2023,09/04/2023,12/04/2023,151,151,Chambre Lits Jumeaux,,Fasthotel Albertville,Albertville,,14
+1691418850-68,27/03/2023,09/04/2023,12/04/2023,276,276,Chambre Double avec Balcon,,Hotel Le Christiania,Les Contamines-Montjoie,,14
+1691418850-69,27/03/2023,09/04/2023,12/04/2023,247,247,Chambre Triple,,ibis budget Albertville,Gilly-sur-Isère,,14
+1691418850-70,27/03/2023,09/04/2023,12/04/2023,591,507,Chambre Double avec Toilettes Communes,,Chalet-Hôtel de l'Etape,Les Contamines-Montjoie,,14
+1691418850-71,27/03/2023,09/04/2023,12/04/2023,2119,1907,Chambre Double Deluxe avec Balcon,,Magic Megève Bois,Demi-Quartier,,14
+1691418850-72,27/03/2023,09/04/2023,12/04/2023,294,294,Chambre Double - Accessible aux Personnes à Mobilité Réduite ,,Brit Hotel Florimont,Saint-Ferréol,,14
+1691418850-73,27/03/2023,09/04/2023,12/04/2023,693,693,Chambre Supérieure Double ou Twin avec Terrasse et Vue sur le Mont d'Arbois et le Mont-Blanc,,Hôtel Arbois Bettex,Saint-Gervais-les-Bains,,14
+1691418850-74,27/03/2023,09/04/2023,12/04/2023,236,236,Chambre Double Standard,,"Hôtel de Genève , Faverges-Seythenex 74210, Haute Savoie",Faverges,,14
+1691418850-75,27/03/2023,09/04/2023,12/04/2023,579,579,Chambre Double,,Aux Ducs de Savoie,Combloux,,14
+1691418850-76,27/03/2023,09/04/2023,12/04/2023,434,370,Chambre Double Standard,,RockyPop Flaine Hotel & Spa,Flaine,,14
+1691418850-77,27/03/2023,09/04/2023,12/04/2023,519,519,Chambre Double Supérieure avec Accès au Spa,,Hôtel Alexane,Samoëns,,14
+1691418850-78,27/03/2023,09/04/2023,12/04/2023,412,412,Chambre Lit Queen-Size Deluxe,,Hôtel LAPIAZ & Spa - FLAINE,Flaine,,14
+1691418850-79,27/03/2023,09/04/2023,12/04/2023,242,242,Chambre Double,,Hôtel National,Cluses,,14
+1691418850-80,27/03/2023,09/04/2023,12/04/2023,304,304,Chambre Double Standard,,"The Originals City, Hôtel du Faucigny, Cluses Ouest",Scionzier,,14
+1691418850-81,27/03/2023,09/04/2023,12/04/2023,523,446,Chambre Double Classique,,"Totem, Friendly Hotel",Flaine,,14
+1691418850-82,27/03/2023,09/04/2023,12/04/2023,539,539,Chambre Double Supérieure avec Douche,,La Croix de Savoie & Spa,Les Carroz d'Arâches,,14
+1691418850-83,27/03/2023,09/04/2023,12/04/2023,372,372,Chambre Lits Jumeaux Standard,,Ibis Styles Sallanches Pays du Mont-Blanc,Sallanches,,14
+1691418850-84,27/03/2023,09/04/2023,12/04/2023,234,234,Chambre Standard avec 1 Lit Double et 1 Lit Simple,,Ibis Hôtel Sallanches,Sallanches,,14
+1691418850-85,27/03/2023,09/04/2023,12/04/2023,571,571,Chambre Double Classique (2 Adultes),,"Chalet-Hôtel La Marmotte, La Tapiaz & SPA, The Originals Relais (Hotel-Chalet de Tradition)",Les Gets,,14
+1691418850-86,27/03/2023,09/04/2023,12/04/2023,215,215,Chambre Triple avec Lit Superposé,,Ibis Budget Sallanches,Sallanches,,14
+1691418850-87,27/03/2023,09/04/2023,12/04/2023,319,319,Chambre Double ou Lits Jumeaux Classique,,Chamois d'Or Hotel,Les Gets,,14
+1691418850-88,27/03/2023,09/04/2023,12/04/2023,343,343,Chambre Lit Queen-Size Standard - Non-Fumeurs,,Auberge de l'Orangerie - Sure Hotel Collection by Best Western,Sallanches,,14
+1691418850-89,27/03/2023,09/04/2023,12/04/2023,212,212,Chambre Double - Vue sur Montagne,,HOTEL Le TOURISME,Passy,,14
+1691418850-90,27/03/2023,09/04/2023,12/04/2023,621,621,Chambre Lits Jumeaux,,Hotel Igloo,Morzine,,14
+1691418850-91,27/03/2023,09/04/2023,12/04/2023,408,408,Petite Chambre Double,,Hotel Rhodos Morzine,Morzine,,14
+1691418850-92,27/03/2023,09/04/2023,12/04/2023,315,315,Chambre Triple - Aravis,,Chalet Les Rhodos,Cordon,,14
+1691418850-93,27/03/2023,09/04/2023,12/04/2023,311,311,Chambre Double,,Bonne Valette,Morzine,,14
+1691418850-94,27/03/2023,09/04/2023,12/04/2023,431,431,Chambre Lits Jumeaux Économique,,The Nant,Morzine,,14
+1691418850-95,27/03/2023,09/04/2023,12/04/2023,363,363,Chambre Double,,Hotel Club Le Crêt,Morzine,,14
+1691418850-96,27/03/2023,09/04/2023,12/04/2023,727,727,Chambre Double,,Alpen Roc,Morzine,,14
+1691418850-97,27/03/2023,09/04/2023,12/04/2023,363,310,Chambre Double Économique,,Chalet Hôtel des 2 Gares,Saint-Gervais-les-Bains,,14
+1691418850-98,27/03/2023,09/04/2023,12/04/2023,283,283,Chambre Lits Jumeaux,,Hotel Terminus,Saint-Gervais-les-Bains,,14
+1691418850-99,27/03/2023,09/04/2023,12/04/2023,591,591,Chambre Double ou Lits Jumeaux,,Hôtel et Chalet Au Coin Du Feu Chilly Powder,Morzine,,14
+1691418850-100,27/03/2023,09/04/2023,12/04/2023,579,579,Chambre Double,,Aux Ducs de Savoie,Combloux,,14
+1691418850-101,27/03/2023,09/04/2023,12/04/2023,434,370,Chambre Double Standard,,RockyPop Flaine Hotel & Spa,Flaine,,14
+1691418850-102,27/03/2023,09/04/2023,12/04/2023,519,519,Chambre Double Supérieure avec Accès au Spa,,Hôtel Alexane,Samoëns,,14
+1691418850-103,27/03/2023,09/04/2023,12/04/2023,412,412,Chambre Lit Queen-Size Deluxe,,Hôtel LAPIAZ & Spa - FLAINE,Flaine,,14
+1691418850-104,27/03/2023,09/04/2023,12/04/2023,242,242,Chambre Double,,Hôtel National,Cluses,,14
+1691418850-105,27/03/2023,09/04/2023,12/04/2023,304,304,Chambre Double Standard,,"The Originals City, Hôtel du Faucigny, Cluses Ouest",Scionzier,,14
+1691418850-106,27/03/2023,09/04/2023,12/04/2023,523,446,Chambre Double Classique,,"Totem, Friendly Hotel",Flaine,,14
+1691418850-107,27/03/2023,09/04/2023,12/04/2023,539,539,Chambre Double Supérieure avec Douche,,La Croix de Savoie & Spa,Les Carroz d'Arâches,,14
+1691418850-108,27/03/2023,09/04/2023,12/04/2023,372,372,Chambre Lits Jumeaux Standard,,Ibis Styles Sallanches Pays du Mont-Blanc,Sallanches,,14
+1691418850-109,27/03/2023,09/04/2023,12/04/2023,234,234,Chambre Standard avec 1 Lit Double et 1 Lit Simple,,Ibis Hôtel Sallanches,Sallanches,,14
+1691418850-110,27/03/2023,09/04/2023,12/04/2023,571,571,Chambre Double Classique (2 Adultes),,"Chalet-Hôtel La Marmotte, La Tapiaz & SPA, The Originals Relais (Hotel-Chalet de Tradition)",Les Gets,,14
+1691418850-111,27/03/2023,09/04/2023,12/04/2023,215,215,Chambre Triple avec Lit Superposé,,Ibis Budget Sallanches,Sallanches,,14
+1691418850-112,27/03/2023,09/04/2023,12/04/2023,319,319,Chambre Double ou Lits Jumeaux Classique,,Chamois d'Or Hotel,Les Gets,,14
+1691418850-113,27/03/2023,09/04/2023,12/04/2023,343,343,Chambre Lit Queen-Size Standard - Non-Fumeurs,,Auberge de l'Orangerie - Sure Hotel Collection by Best Western,Sallanches,,14
+1691418850-114,27/03/2023,09/04/2023,12/04/2023,212,212,Chambre Double - Vue sur Montagne,,HOTEL Le TOURISME,Passy,,14
+1691418850-115,27/03/2023,09/04/2023,12/04/2023,621,621,Chambre Lits Jumeaux,,Hotel Igloo,Morzine,,14
+1691418850-116,27/03/2023,09/04/2023,12/04/2023,408,408,Petite Chambre Double,,Hotel Rhodos Morzine,Morzine,,14
+1691418850-117,27/03/2023,09/04/2023,12/04/2023,315,315,Chambre Triple - Aravis,,Chalet Les Rhodos,Cordon,,14
+1691418850-118,27/03/2023,09/04/2023,12/04/2023,311,311,Chambre Double,,Bonne Valette,Morzine,,14
+1691418850-119,27/03/2023,09/04/2023,12/04/2023,431,431,Chambre Lits Jumeaux Économique,,The Nant,Morzine,,14
+1691418850-120,27/03/2023,09/04/2023,12/04/2023,363,363,Chambre Double,,Hotel Club Le Crêt,Morzine,,14
+1691418850-121,27/03/2023,09/04/2023,12/04/2023,727,727,Chambre Double,,Alpen Roc,Morzine,,14
+1691418850-122,27/03/2023,09/04/2023,12/04/2023,363,310,Chambre Double Économique,,Chalet Hôtel des 2 Gares,Saint-Gervais-les-Bains,,14
+1691418850-123,27/03/2023,09/04/2023,12/04/2023,283,283,Chambre Lits Jumeaux,,Hotel Terminus,Saint-Gervais-les-Bains,,14
+1691418850-124,27/03/2023,09/04/2023,12/04/2023,591,591,Chambre Double ou Lits Jumeaux,,Hôtel et Chalet Au Coin Du Feu Chilly Powder,Morzine,,14
+1691418850-125,27/03/2023,09/04/2023,12/04/2023,579,579,Chambre Double,,Aux Ducs de Savoie,Combloux,,14
+1691418850-126,27/03/2023,09/04/2023,12/04/2023,434,370,Chambre Double Standard,,RockyPop Flaine Hotel & Spa,Flaine,,14
+1691418850-127,27/03/2023,09/04/2023,12/04/2023,519,519,Chambre Double Supérieure avec Accès au Spa,,Hôtel Alexane,Samoëns,,14
+1691418850-128,27/03/2023,09/04/2023,12/04/2023,412,412,Chambre Lit Queen-Size Deluxe,,Hôtel LAPIAZ & Spa - FLAINE,Flaine,,14
+1691418850-129,27/03/2023,09/04/2023,12/04/2023,242,242,Chambre Double,,Hôtel National,Cluses,,14
+1691418850-130,27/03/2023,09/04/2023,12/04/2023,304,304,Chambre Double Standard,,"The Originals City, Hôtel du Faucigny, Cluses Ouest",Scionzier,,14
+1691418850-131,27/03/2023,09/04/2023,12/04/2023,523,446,Chambre Double Classique,,"Totem, Friendly Hotel",Flaine,,14
+1691418850-132,27/03/2023,09/04/2023,12/04/2023,539,539,Chambre Double Supérieure avec Douche,,La Croix de Savoie & Spa,Les Carroz d'Arâches,,14
+1691418850-133,27/03/2023,09/04/2023,12/04/2023,372,372,Chambre Lits Jumeaux Standard,,Ibis Styles Sallanches Pays du Mont-Blanc,Sallanches,,14
+1691418850-134,27/03/2023,09/04/2023,12/04/2023,234,234,Chambre Standard avec 1 Lit Double et 1 Lit Simple,,Ibis Hôtel Sallanches,Sallanches,,14
+1691418850-135,27/03/2023,09/04/2023,12/04/2023,571,571,Chambre Double Classique (2 Adultes),,"Chalet-Hôtel La Marmotte, La Tapiaz & SPA, The Originals Relais (Hotel-Chalet de Tradition)",Les Gets,,14
+1691418850-136,27/03/2023,09/04/2023,12/04/2023,215,215,Chambre Triple avec Lit Superposé,,Ibis Budget Sallanches,Sallanches,,14
+1691418850-137,27/03/2023,09/04/2023,12/04/2023,319,319,Chambre Double ou Lits Jumeaux Classique,,Chamois d'Or Hotel,Les Gets,,14
+1691418850-138,27/03/2023,09/04/2023,12/04/2023,343,343,Chambre Lit Queen-Size Standard - Non-Fumeurs,,Auberge de l'Orangerie - Sure Hotel Collection by Best Western,Sallanches,,14
+1691418850-139,27/03/2023,09/04/2023,12/04/2023,212,212,Chambre Double - Vue sur Montagne,,HOTEL Le TOURISME,Passy,,14
+1691418850-140,27/03/2023,09/04/2023,12/04/2023,621,621,Chambre Lits Jumeaux,,Hotel Igloo,Morzine,,14
+1691418850-141,27/03/2023,09/04/2023,12/04/2023,408,408,Petite Chambre Double,,Hotel Rhodos Morzine,Morzine,,14
+1691418850-142,27/03/2023,09/04/2023,12/04/2023,315,315,Chambre Triple - Aravis,,Chalet Les Rhodos,Cordon,,14
+1691418850-143,27/03/2023,09/04/2023,12/04/2023,311,311,Chambre Double,,Bonne Valette,Morzine,,14
+1691418850-144,27/03/2023,09/04/2023,12/04/2023,431,431,Chambre Lits Jumeaux Économique,,The Nant,Morzine,,14
+1691418850-145,27/03/2023,09/04/2023,12/04/2023,363,363,Chambre Double,,Hotel Club Le Crêt,Morzine,,14
+1691418850-146,27/03/2023,09/04/2023,12/04/2023,727,727,Chambre Double,,Alpen Roc,Morzine,,14
+1691418850-147,27/03/2023,09/04/2023,12/04/2023,363,310,Chambre Double Économique,,Chalet Hôtel des 2 Gares,Saint-Gervais-les-Bains,,14
+1691418850-148,27/03/2023,09/04/2023,12/04/2023,283,283,Chambre Lits Jumeaux,,Hotel Terminus,Saint-Gervais-les-Bains,,14
+1691418850-149,27/03/2023,09/04/2023,12/04/2023,591,591,Chambre Double ou Lits Jumeaux,,Hôtel et Chalet Au Coin Du Feu Chilly Powder,Morzine,,14
+1691418850-150,27/03/2023,09/04/2023,12/04/2023,579,579,Chambre Double,,Aux Ducs de Savoie,Combloux,,14
+1691418850-151,27/03/2023,09/04/2023,12/04/2023,434,370,Chambre Double Standard,,RockyPop Flaine Hotel & Spa,Flaine,,14
+1691418850-152,27/03/2023,09/04/2023,12/04/2023,519,519,Chambre Double Supérieure avec Accès au Spa,,Hôtel Alexane,Samoëns,,14
+1691418850-153,27/03/2023,09/04/2023,12/04/2023,412,412,Chambre Lit Queen-Size Deluxe,,Hôtel LAPIAZ & Spa - FLAINE,Flaine,,14
+1691418850-154,27/03/2023,09/04/2023,12/04/2023,242,242,Chambre Double,,Hôtel National,Cluses,,14
+1691418850-155,27/03/2023,09/04/2023,12/04/2023,304,304,Chambre Double Standard,,"The Originals City, Hôtel du Faucigny, Cluses Ouest",Scionzier,,14
+1691418850-156,27/03/2023,09/04/2023,12/04/2023,523,446,Chambre Double Classique,,"Totem, Friendly Hotel",Flaine,,14
+1691418850-157,27/03/2023,09/04/2023,12/04/2023,539,539,Chambre Double Supérieure avec Douche,,La Croix de Savoie & Spa,Les Carroz d'Arâches,,14
+1691418850-158,27/03/2023,09/04/2023,12/04/2023,372,372,Chambre Lits Jumeaux Standard,,Ibis Styles Sallanches Pays du Mont-Blanc,Sallanches,,14
+1691418850-159,27/03/2023,09/04/2023,12/04/2023,234,234,Chambre Standard avec 1 Lit Double et 1 Lit Simple,,Ibis Hôtel Sallanches,Sallanches,,14
+1691418850-160,27/03/2023,09/04/2023,12/04/2023,571,571,Chambre Double Classique (2 Adultes),,"Chalet-Hôtel La Marmotte, La Tapiaz & SPA, The Originals Relais (Hotel-Chalet de Tradition)",Les Gets,,14
+1691418850-161,27/03/2023,09/04/2023,12/04/2023,215,215,Chambre Triple avec Lit Superposé,,Ibis Budget Sallanches,Sallanches,,14
+1691418850-162,27/03/2023,09/04/2023,12/04/2023,319,319,Chambre Double ou Lits Jumeaux Classique,,Chamois d'Or Hotel,Les Gets,,14
+1691418850-163,27/03/2023,09/04/2023,12/04/2023,343,343,Chambre Lit Queen-Size Standard - Non-Fumeurs,,Auberge de l'Orangerie - Sure Hotel Collection by Best Western,Sallanches,,14
+1691418850-164,27/03/2023,09/04/2023,12/04/2023,212,212,Chambre Double - Vue sur Montagne,,HOTEL Le TOURISME,Passy,,14
+1691418850-165,27/03/2023,09/04/2023,12/04/2023,621,621,Chambre Lits Jumeaux,,Hotel Igloo,Morzine,,14
+1691418850-166,27/03/2023,09/04/2023,12/04/2023,408,408,Petite Chambre Double,,Hotel Rhodos Morzine,Morzine,,14
+1691418850-167,27/03/2023,09/04/2023,12/04/2023,315,315,Chambre Triple - Aravis,,Chalet Les Rhodos,Cordon,,14
+1691418850-168,27/03/2023,09/04/2023,12/04/2023,311,311,Chambre Double,,Bonne Valette,Morzine,,14
+1691418850-169,27/03/2023,09/04/2023,12/04/2023,431,431,Chambre Lits Jumeaux Économique,,The Nant,Morzine,,14
+1691418850-170,27/03/2023,09/04/2023,12/04/2023,363,363,Chambre Double,,Hotel Club Le Crêt,Morzine,,14
+1691418850-171,27/03/2023,09/04/2023,12/04/2023,727,727,Chambre Double,,Alpen Roc,Morzine,,14
+1691418850-172,27/03/2023,09/04/2023,12/04/2023,363,310,Chambre Double Économique,,Chalet Hôtel des 2 Gares,Saint-Gervais-les-Bains,,14
+1691418850-173,27/03/2023,09/04/2023,12/04/2023,283,283,Chambre Lits Jumeaux,,Hotel Terminus,Saint-Gervais-les-Bains,,14
+1691418850-174,27/03/2023,09/04/2023,12/04/2023,591,591,Chambre Double ou Lits Jumeaux,,Hôtel et Chalet Au Coin Du Feu Chilly Powder,Morzine,,14
+1691418850-175,27/03/2023,09/04/2023,12/04/2023,579,579,Chambre Double,,Aux Ducs de Savoie,Combloux,,14
+1691418850-176,27/03/2023,09/04/2023,12/04/2023,560,560,Hébergement Double Nord,,Madame Vacances Hôtel Ibiza,Les Deux Alpes,,14
+1691418850-177,27/03/2023,09/04/2023,12/04/2023,444,444,Chambre Double ou Lits Jumeaux,,Hotel Les Flocons,Les Deux Alpes,,14
+1691418850-178,27/03/2023,09/04/2023,12/04/2023,996,996,Chambre Double - Club,,Hôtel Daria-I Nor by Les Etincelles,L'Alpe-d'Huez,,14
+1691418850-179,27/03/2023,09/04/2023,12/04/2023,610,610,Chambre Double - Vue sur Montagne,,Hotel Base Camp Lodge - Les 2 Alpes,Les Deux Alpes,,14
+1691418850-180,27/03/2023,09/04/2023,12/04/2023,398,398,Chambre Lits Jumeaux Standard,,Hotel Le Beau Site,Auris,,14
+1691418850-181,27/03/2023,09/04/2023,12/04/2023,329,329,Chambre Triple avec Salle de Bains,,Villages Clubs du Soleil - LES 2 ALPES,Les Deux Alpes,,14
+1691418850-182,27/03/2023,09/04/2023,12/04/2023,451,451,Chambre Double - Vue sur Montagne,,Hotel Les Lutins,Les Deux Alpes,,14
+1691418850-183,27/03/2023,09/04/2023,12/04/2023,462,462,Chambre Lits Jumeaux,,Chamois Lodge,Les Deux Alpes,,14
+1691418850-184,27/03/2023,09/04/2023,12/04/2023,346,346,Chambre Double avec petit balcon,,Hotel Les Bruyères,L'Alpe-d'Huez,,14
+1691418850-185,27/03/2023,09/04/2023,12/04/2023,352,352,Chambre Double ou Lits Jumeaux Standard,,HOTEL TURAN,Les Deux Alpes,,14
+1691418850-186,27/03/2023,09/04/2023,12/04/2023,327,327,Chambre Double,,Hotel Le Cairn,Les Deux Alpes,,14
+1691418850-187,27/03/2023,09/04/2023,12/04/2023,543,543,Chambre Double (2 Adultes),,Hôtel Les 2 Alpes L'Orée Des Pistes,Les Deux Alpes,,14
+1691418850-188,27/03/2023,09/04/2023,12/04/2023,468,468,Chambre Double ou Lits Jumeaux Standard,,Hôtel Serre Palas,Les Deux Alpes,,14
+1691418850-189,27/03/2023,09/04/2023,12/04/2023,274,274,Chambre Familiale,,The People - Les 2 Alpes,Les Deux Alpes,,14
+1691418850-190,27/03/2023,09/04/2023,12/04/2023,767,767,Chambre Double ou Lits Jumeaux Panoramique,,Hôtel Grandes Rousses,L'Alpe-d'Huez,,14
+1691418850-191,27/03/2023,09/04/2023,12/04/2023,280,280,Chambre Lits Jumeaux Standard,,Hôtel Eliova Le Chaix,L'Alpe-d'Huez,,14
+1691418850-192,27/03/2023,09/04/2023,12/04/2023,378,302,Chambre Lits Jumeaux Standard,,TERRESENS - HOTEL ESCAPADE,L'Alpe-d'Huez,,14
+1691418850-193,27/03/2023,09/04/2023,12/04/2023,460,460,Chambre Double ou Lits Jumeaux - Vue sur Montagnes,,HOTEL LE CRET,Les Deux Alpes,,14
+1691418850-194,27/03/2023,09/04/2023,12/04/2023,321,321,Chambre Double Économique,,Alp'azur,L'Alpe-d'Huez,,14
+1691418850-195,27/03/2023,09/04/2023,12/04/2023,262,262,Chambre Double ou Lits Jumeaux avec Douche et Vue au Nord ,,Le Castillan,L'Alpe-d'Huez,,14
+1691418850-196,27/03/2023,09/04/2023,12/04/2023,417,417,Appartement 1 Chambre N° 701 avec Terrasse Privative - Vue sur Glacier,,Cosy Apartment & Chalet rental - Panoramic Village - La Grave,La Grave,,14
+1691418850-197,27/03/2023,09/04/2023,12/04/2023,350,350,Chambre Double ou Lits Jumeaux,,La Belle Etoile,Les Deux Alpes,,14
+1691418850-198,27/03/2023,09/04/2023,12/04/2023,549,549,Chambre Double Supérieure,,Le Pic Blanc,L'Alpe-d'Huez,,14
+1691418850-199,27/03/2023,09/04/2023,12/04/2023,260,234,Chambre Double Standard,,Auberge La Douce Montagne,Allemont,,14
+1691418850-200,27/03/2023,09/04/2023,12/04/2023,320,320,Petite Chambre Double,,Auberge De La Foret,Auris,,14
+1691418850-201,27/03/2023,09/04/2023,12/04/2023,560,560,Hébergement Double Nord,,Madame Vacances Hôtel Ibiza,Les Deux Alpes,,14
+1691418850-202,27/03/2023,09/04/2023,12/04/2023,444,444,Chambre Double ou Lits Jumeaux,,Hotel Les Flocons,Les Deux Alpes,,14
+1691418850-203,27/03/2023,09/04/2023,12/04/2023,996,996,Chambre Double - Club,,Hôtel Daria-I Nor by Les Etincelles,L'Alpe-d'Huez,,14
+1691418850-204,27/03/2023,09/04/2023,12/04/2023,610,610,Chambre Double - Vue sur Montagne,,Hotel Base Camp Lodge - Les 2 Alpes,Les Deux Alpes,,14
+1691418850-205,27/03/2023,09/04/2023,12/04/2023,398,398,Chambre Lits Jumeaux Standard,,Hotel Le Beau Site,Auris,,14
+1691418850-206,27/03/2023,09/04/2023,12/04/2023,329,329,Chambre Triple avec Salle de Bains,,Villages Clubs du Soleil - LES 2 ALPES,Les Deux Alpes,,14
+1691418850-207,27/03/2023,09/04/2023,12/04/2023,451,451,Chambre Double - Vue sur Montagne,,Hotel Les Lutins,Les Deux Alpes,,14
+1691418850-208,27/03/2023,09/04/2023,12/04/2023,462,462,Chambre Lits Jumeaux,,Chamois Lodge,Les Deux Alpes,,14
+1691418850-209,27/03/2023,09/04/2023,12/04/2023,346,346,Chambre Double avec petit balcon,,Hotel Les Bruyères,L'Alpe-d'Huez,,14
+1691418850-210,27/03/2023,09/04/2023,12/04/2023,352,352,Chambre Double ou Lits Jumeaux Standard,,HOTEL TURAN,Les Deux Alpes,,14
+1691418850-211,27/03/2023,09/04/2023,12/04/2023,327,327,Chambre Double,,Hotel Le Cairn,Les Deux Alpes,,14
+1691418850-212,27/03/2023,09/04/2023,12/04/2023,543,543,Chambre Double (2 Adultes),,Hôtel Les 2 Alpes L'Orée Des Pistes,Les Deux Alpes,,14
+1691418850-213,27/03/2023,09/04/2023,12/04/2023,468,468,Chambre Double ou Lits Jumeaux Standard,,Hôtel Serre Palas,Les Deux Alpes,,14
+1691418850-214,27/03/2023,09/04/2023,12/04/2023,274,274,Chambre Familiale,,The People - Les 2 Alpes,Les Deux Alpes,,14
+1691418850-215,27/03/2023,09/04/2023,12/04/2023,767,767,Chambre Double ou Lits Jumeaux Panoramique,,Hôtel Grandes Rousses,L'Alpe-d'Huez,,14
+1691418850-216,27/03/2023,09/04/2023,12/04/2023,280,280,Chambre Lits Jumeaux Standard,,Hôtel Eliova Le Chaix,L'Alpe-d'Huez,,14
+1691418850-217,27/03/2023,09/04/2023,12/04/2023,378,302,Chambre Lits Jumeaux Standard,,TERRESENS - HOTEL ESCAPADE,L'Alpe-d'Huez,,14
+1691418850-218,27/03/2023,09/04/2023,12/04/2023,460,460,Chambre Double ou Lits Jumeaux - Vue sur Montagnes,,HOTEL LE CRET,Les Deux Alpes,,14
+1691418850-219,27/03/2023,09/04/2023,12/04/2023,321,321,Chambre Double Économique,,Alp'azur,L'Alpe-d'Huez,,14
+1691418850-220,27/03/2023,09/04/2023,12/04/2023,262,262,Chambre Double ou Lits Jumeaux avec Douche et Vue au Nord ,,Le Castillan,L'Alpe-d'Huez,,14
+1691418850-221,27/03/2023,09/04/2023,12/04/2023,417,417,Appartement 1 Chambre N° 701 avec Terrasse Privative - Vue sur Glacier,,Cosy Apartment & Chalet rental - Panoramic Village - La Grave,La Grave,,14
+1691418850-222,27/03/2023,09/04/2023,12/04/2023,350,350,Chambre Double ou Lits Jumeaux,,La Belle Etoile,Les Deux Alpes,,14
+1691418850-223,27/03/2023,09/04/2023,12/04/2023,549,549,Chambre Double Supérieure,,Le Pic Blanc,L'Alpe-d'Huez,,14
+1691418850-224,27/03/2023,09/04/2023,12/04/2023,260,234,Chambre Double Standard,,Auberge La Douce Montagne,Allemont,,14
+1691418850-225,27/03/2023,09/04/2023,12/04/2023,320,320,Petite Chambre Double,,Auberge De La Foret,Auris,,14
+1691418850-226,27/03/2023,09/04/2023,12/04/2023,317,317,Chambre Double Deluxe,,Auberge De La Croix Perrin,Lans-en-Vercors,,14
+1691418850-227,27/03/2023,09/04/2023,12/04/2023,206,206,Chambre Double,,Le Saint Domingue,Die,,14
+1691418850-228,27/03/2023,09/04/2023,12/04/2023,202,202,Chambre Double,,Hotel des Alpes,Die,,14
+1691418850-229,27/03/2023,09/04/2023,12/04/2023,394,394,Chambre Familiale (4 Adultes) ,,La Ferme du Bois Barbu,Villard-de-Lans,,14
+1691418850-230,27/03/2023,09/04/2023,12/04/2023,284,284,Chambre Double,,La Saleine,Crest,,14
+1691418850-231,27/03/2023,09/04/2023,12/04/2023,275,275,Chambre Double,,Hotel Restaurant La Martiniere,Montélier,,14
+1691418850-232,27/03/2023,09/04/2023,12/04/2023,364,364,Chambre Double Deluxe,,H85,Chatte,,14
+1691418850-233,27/03/2023,09/04/2023,12/04/2023,243,243,Chambre Lits Jumeaux,,Le Piroulet,Vassieux-en-Vercors,,14
+1691418850-234,27/03/2023,09/04/2023,12/04/2023,346,346,Chambre Double,,Le Castel Fleuri,Saint-Jean-en-Royans,,14
+1691418850-235,27/03/2023,09/04/2023,12/04/2023,264,264,Chambre Double ou Triple,,Hôtel Valery,Montélier,,14
+1691418850-236,27/03/2023,09/04/2023,12/04/2023,224,224,Chambre Double Économique avec Toilettes Communes,,Les 4 Montagnes,Villard-de-Lans,,14
+1691418850-237,27/03/2023,09/04/2023,12/04/2023,516,516,Chambre Double ou Lits Jumeaux Supérieure,,Hotel Du Lac,Montriond,,14
+1691418850-238,27/03/2023,09/04/2023,12/04/2023,717,717,Chambre Double avec Vue (2 Adultes),,Belambra Clubs Avoriaz - Les Cimes du Soleil,Avoriaz,,14
+1691418850-239,27/03/2023,09/04/2023,12/04/2023,1193,1193,Chambre Deluxe avec Balcon - Vue sur Montagne,,Hôtel National Resort & Spa,Champéry,,14
+1691418850-240,27/03/2023,09/04/2023,12/04/2023,571,571,Chambre Double Classique (2 Adultes),,"Chalet-Hôtel La Marmotte, La Tapiaz & SPA, The Originals Relais (Hotel-Chalet de Tradition)",Les Gets,,14
+1691418850-241,27/03/2023,09/04/2023,12/04/2023,437,437,Chambre Double Standard,,Le White,Champéry,,14
+1691418850-242,27/03/2023,09/04/2023,12/04/2023,311,311,Chambre Double,,Bonne Valette,Morzine,,14
+1691418850-243,27/03/2023,09/04/2023,12/04/2023,317,317,Chambre Double,,Le Choucas,Châtel,,14
+1691418850-244,27/03/2023,09/04/2023,12/04/2023,431,431,Chambre Lits Jumeaux Économique,,The Nant,Morzine,,14
+1691418850-262,27/03/2023,09/04/2023,12/04/2023,516,516,Chambre Double ou Lits Jumeaux Supérieure,,Hotel Du Lac,Montriond,,14
+1691418850-263,27/03/2023,09/04/2023,12/04/2023,717,717,Chambre Double avec Vue (2 Adultes),,Belambra Clubs Avoriaz - Les Cimes du Soleil,Avoriaz,,14
+1691418850-264,27/03/2023,09/04/2023,12/04/2023,1193,1193,Chambre Deluxe avec Balcon - Vue sur Montagne,,Hôtel National Resort & Spa,Champéry,,14
+1691418850-265,27/03/2023,09/04/2023,12/04/2023,571,571,Chambre Double Classique (2 Adultes),,"Chalet-Hôtel La Marmotte, La Tapiaz & SPA, The Originals Relais (Hotel-Chalet de Tradition)",Les Gets,,14
+1691418850-266,27/03/2023,09/04/2023,12/04/2023,437,437,Chambre Double Standard,,Le White,Champéry,,14
+1691418850-267,27/03/2023,09/04/2023,12/04/2023,311,311,Chambre Double,,Bonne Valette,Morzine,,14
+1691418850-268,27/03/2023,09/04/2023,12/04/2023,317,317,Chambre Double,,Le Choucas,Châtel,,14
+1691418850-269,27/03/2023,09/04/2023,12/04/2023,431,431,Chambre Lits Jumeaux Économique,,The Nant,Morzine,,14
+1691418850-287,27/03/2023,09/04/2023,12/04/2023,516,516,Chambre Double ou Lits Jumeaux Supérieure,,Hotel Du Lac,Montriond,,14
+1691418850-288,27/03/2023,09/04/2023,12/04/2023,717,717,Chambre Double avec Vue (2 Adultes),,Belambra Clubs Avoriaz - Les Cimes du Soleil,Avoriaz,,14
+1691418850-289,27/03/2023,09/04/2023,12/04/2023,1193,1193,Chambre Deluxe avec Balcon - Vue sur Montagne,,Hôtel National Resort & Spa,Champéry,,14
+1691418850-290,27/03/2023,09/04/2023,12/04/2023,571,571,Chambre Double Classique (2 Adultes),,"Chalet-Hôtel La Marmotte, La Tapiaz & SPA, The Originals Relais (Hotel-Chalet de Tradition)",Les Gets,,14
+1691418850-291,27/03/2023,09/04/2023,12/04/2023,437,437,Chambre Double Standard,,Le White,Champéry,,14
+1691418850-292,27/03/2023,09/04/2023,12/04/2023,311,311,Chambre Double,,Bonne Valette,Morzine,,14
+1691418850-293,27/03/2023,09/04/2023,12/04/2023,317,317,Chambre Double,,Le Choucas,Châtel,,14
+1691418850-294,27/03/2023,09/04/2023,12/04/2023,431,431,Chambre Lits Jumeaux Économique,,The Nant,Morzine,,14
+1691418850-312,27/03/2023,09/04/2023,12/04/2023,268,268,Chambre Lits Jumeaux,,Hotel Du Commerce,Thônes,,14
+1691418850-313,27/03/2023,09/04/2023,12/04/2023,305,305,Chambre Double Économique,,Hotel La Montagne,La Clusaz,,14
+1691418850-314,27/03/2023,09/04/2023,12/04/2023,392,336,Chambre Double ou Lits Jumeaux,,St-Alban Hotel & Spa,La Clusaz,,14
+1691418850-315,27/03/2023,09/04/2023,12/04/2023,315,315,Chambre Double Économique,,Alp'Hotel,La Clusaz,,14
+1691418850-316,27/03/2023,09/04/2023,12/04/2023,294,294,Chambre Double,,Hotel Christiania,La Clusaz,,14
+1691418850-317,27/03/2023,09/04/2023,12/04/2023,245,245,Chambre Lits Jumeaux,,Village vacances Le Savoy,Le Grand-Bornand,,14
+1691418850-318,27/03/2023,09/04/2023,12/04/2023,401,401,Chambre Double Standard,,Les Airelles,La Clusaz,,14
+1691418850-319,27/03/2023,09/04/2023,12/04/2023,330,330,Chambre Double ou Lits Jumeaux Orientée Nord,,Beaulieu,La Clusaz,,14
+1691418850-320,27/03/2023,09/04/2023,12/04/2023,371,371,Petite Chambre Double ou Lits Jumeaux avec Balcon,,Hotel Beauregard,La Clusaz,,14
+1691418850-321,27/03/2023,09/04/2023,12/04/2023,261,261,Chambre Double,,Fasthotel Thones,Thônes,,14
+1691418850-322,27/03/2023,09/04/2023,12/04/2023,590,590,Chambre Double,,La Ferme,La Clusaz,,14
+1691418850-323,27/03/2023,09/04/2023,12/04/2023,372,372,Chambre Double Économique,,Hotel les Sapins,La Clusaz,,14
+1691418850-324,27/03/2023,09/04/2023,12/04/2023,1068,1068,Suite,,Chalet-Hôtel Inarpa,La Clusaz,,14
+1691418850-325,27/03/2023,09/04/2023,12/04/2023,342,342,Petite Chambre Double - Sans Vue,,Carlina,La Clusaz,,14
+1691418850-326,27/03/2023,09/04/2023,12/04/2023,506,506,Chambre Double Économique,,Chalet-Hôtel Les Cimes,Le Grand-Bornand,,14
+1691418850-327,27/03/2023,09/04/2023,12/04/2023,486,486,Chambre Double,,AUBERGE DES GLIERES,Thorens-Glières,,14
+1691418850-328,27/03/2023,09/04/2023,12/04/2023,266,266,Chambre Triple,,Chalet Les Pieux,Crest-Voland,,14
+1691418850-329,27/03/2023,09/04/2023,12/04/2023,315,315,Chambre Triple - Aravis,,Chalet Les Rhodos,Cordon,,14
+1691418850-330,27/03/2023,09/04/2023,12/04/2023,248,248,Chambre Double Standard,,Logis La Chaumière Saint-Maurice,Thorens-Glières,,14
+1691418850-331,27/03/2023,09/04/2023,12/04/2023,645,645,Appartement (4-6 Adultes),,Les Chalets de La Griyotire,Praz-sur-Arly,,14
+1691418850-332,27/03/2023,09/04/2023,12/04/2023,633,633,Chambre Standard avec Spa et Accès Privé à la Plage,,Hôtel Beau Site Talloires B SPA,Talloires,,14
+1691418850-333,27/03/2023,09/04/2023,12/04/2023,1411,1411,Chambre Double Supérieure - Vue sur Jardin,,Abbaye de Talloires,Talloires,,14
+1691418850-334,27/03/2023,09/04/2023,12/04/2023,1513,1513,Chambre Double Supérieure,,Auberge Du Père Bise - Jean Sulpice,Talloires,,14
+1691418850-335,27/03/2023,09/04/2023,12/04/2023,414,414,Chambre Double Standard,,Au Coin Du Feu,Megève,,14
+1691418850-336,27/03/2023,09/04/2023,12/04/2023,745,745,Chambre Double Mansardée - Vue sur Lac,,Le Palace De Menthon,Menthon-Saint-Bernard,,14
+1691418850-337,27/03/2023,09/04/2023,12/04/2023,268,268,Chambre Lits Jumeaux,,Hotel Du Commerce,Thônes,,14
+1691418850-338,27/03/2023,09/04/2023,12/04/2023,305,305,Chambre Double Économique,,Hotel La Montagne,La Clusaz,,14
+1691418850-339,27/03/2023,09/04/2023,12/04/2023,392,336,Chambre Double ou Lits Jumeaux,,St-Alban Hotel & Spa,La Clusaz,,14
+1691418850-340,27/03/2023,09/04/2023,12/04/2023,315,315,Chambre Double Économique,,Alp'Hotel,La Clusaz,,14
+1691418850-341,27/03/2023,09/04/2023,12/04/2023,294,294,Chambre Double,,Hotel Christiania,La Clusaz,,14
+1691418850-342,27/03/2023,09/04/2023,12/04/2023,245,245,Chambre Lits Jumeaux,,Village vacances Le Savoy,Le Grand-Bornand,,14
+1691418850-343,27/03/2023,09/04/2023,12/04/2023,401,401,Chambre Double Standard,,Les Airelles,La Clusaz,,14
+1691418850-344,27/03/2023,09/04/2023,12/04/2023,330,330,Chambre Double ou Lits Jumeaux Orientée Nord,,Beaulieu,La Clusaz,,14
+1691418850-345,27/03/2023,09/04/2023,12/04/2023,371,371,Petite Chambre Double ou Lits Jumeaux avec Balcon,,Hotel Beauregard,La Clusaz,,14
+1691418850-346,27/03/2023,09/04/2023,12/04/2023,261,261,Chambre Double,,Fasthotel Thones,Thônes,,14
+1691418850-347,27/03/2023,09/04/2023,12/04/2023,590,590,Chambre Double,,La Ferme,La Clusaz,,14
+1691418850-348,27/03/2023,09/04/2023,12/04/2023,372,372,Chambre Double Économique,,Hotel les Sapins,La Clusaz,,14
+1691418850-349,27/03/2023,09/04/2023,12/04/2023,1068,1068,Suite,,Chalet-Hôtel Inarpa,La Clusaz,,14
+1691418850-350,27/03/2023,09/04/2023,12/04/2023,342,342,Petite Chambre Double - Sans Vue,,Carlina,La Clusaz,,14
+1691418850-351,27/03/2023,09/04/2023,12/04/2023,506,506,Chambre Double Économique,,Chalet-Hôtel Les Cimes,Le Grand-Bornand,,14
+1691418850-352,27/03/2023,09/04/2023,12/04/2023,486,486,Chambre Double,,AUBERGE DES GLIERES,Thorens-Glières,,14
+1691418850-353,27/03/2023,09/04/2023,12/04/2023,266,266,Chambre Triple,,Chalet Les Pieux,Crest-Voland,,14
+1691418850-354,27/03/2023,09/04/2023,12/04/2023,315,315,Chambre Triple - Aravis,,Chalet Les Rhodos,Cordon,,14
+1691418850-355,27/03/2023,09/04/2023,12/04/2023,248,248,Chambre Double Standard,,Logis La Chaumière Saint-Maurice,Thorens-Glières,,14
+1691418850-356,27/03/2023,09/04/2023,12/04/2023,645,645,Appartement (4-6 Adultes),,Les Chalets de La Griyotire,Praz-sur-Arly,,14
+1691418850-357,27/03/2023,09/04/2023,12/04/2023,633,633,Chambre Standard avec Spa et Accès Privé à la Plage,,Hôtel Beau Site Talloires B SPA,Talloires,,14
+1691418850-358,27/03/2023,09/04/2023,12/04/2023,1411,1411,Chambre Double Supérieure - Vue sur Jardin,,Abbaye de Talloires,Talloires,,14
+1691418850-359,27/03/2023,09/04/2023,12/04/2023,1513,1513,Chambre Double Supérieure,,Auberge Du Père Bise - Jean Sulpice,Talloires,,14
+1691418850-360,27/03/2023,09/04/2023,12/04/2023,414,414,Chambre Double Standard,,Au Coin Du Feu,Megève,,14
+1691418850-361,27/03/2023,09/04/2023,12/04/2023,745,745,Chambre Double Mansardée - Vue sur Lac,,Le Palace De Menthon,Menthon-Saint-Bernard,,14
+1691418850-362,27/03/2023,09/04/2023,12/04/2023,268,268,Chambre Lits Jumeaux,,Hotel Du Commerce,Thônes,,14
+1691418850-363,27/03/2023,09/04/2023,12/04/2023,305,305,Chambre Double Économique,,Hotel La Montagne,La Clusaz,,14
+1691418850-364,27/03/2023,09/04/2023,12/04/2023,392,336,Chambre Double ou Lits Jumeaux,,St-Alban Hotel & Spa,La Clusaz,,14
+1691418850-365,27/03/2023,09/04/2023,12/04/2023,315,315,Chambre Double Économique,,Alp'Hotel,La Clusaz,,14
+1691418850-366,27/03/2023,09/04/2023,12/04/2023,294,294,Chambre Double,,Hotel Christiania,La Clusaz,,14
+1691418850-367,27/03/2023,09/04/2023,12/04/2023,245,245,Chambre Lits Jumeaux,,Village vacances Le Savoy,Le Grand-Bornand,,14
+1691418850-368,27/03/2023,09/04/2023,12/04/2023,401,401,Chambre Double Standard,,Les Airelles,La Clusaz,,14
+1691418850-369,27/03/2023,09/04/2023,12/04/2023,330,330,Chambre Double ou Lits Jumeaux Orientée Nord,,Beaulieu,La Clusaz,,14
+1691418850-370,27/03/2023,09/04/2023,12/04/2023,371,371,Petite Chambre Double ou Lits Jumeaux avec Balcon,,Hotel Beauregard,La Clusaz,,14
+1691418850-371,27/03/2023,09/04/2023,12/04/2023,261,261,Chambre Double,,Fasthotel Thones,Thônes,,14
+1691418850-372,27/03/2023,09/04/2023,12/04/2023,590,590,Chambre Double,,La Ferme,La Clusaz,,14
+1691418850-373,27/03/2023,09/04/2023,12/04/2023,372,372,Chambre Double Économique,,Hotel les Sapins,La Clusaz,,14
+1691418850-374,27/03/2023,09/04/2023,12/04/2023,1068,1068,Suite,,Chalet-Hôtel Inarpa,La Clusaz,,14
+1691418850-375,27/03/2023,09/04/2023,12/04/2023,342,342,Petite Chambre Double - Sans Vue,,Carlina,La Clusaz,,14
+1691418850-376,27/03/2023,09/04/2023,12/04/2023,506,506,Chambre Double Économique,,Chalet-Hôtel Les Cimes,Le Grand-Bornand,,14
+1691418850-377,27/03/2023,09/04/2023,12/04/2023,486,486,Chambre Double,,AUBERGE DES GLIERES,Thorens-Glières,,14
+1691418850-378,27/03/2023,09/04/2023,12/04/2023,266,266,Chambre Triple,,Chalet Les Pieux,Crest-Voland,,14
+1691418850-379,27/03/2023,09/04/2023,12/04/2023,315,315,Chambre Triple - Aravis,,Chalet Les Rhodos,Cordon,,14
+1691418850-380,27/03/2023,09/04/2023,12/04/2023,248,248,Chambre Double Standard,,Logis La Chaumière Saint-Maurice,Thorens-Glières,,14
+1691418850-381,27/03/2023,09/04/2023,12/04/2023,645,645,Appartement (4-6 Adultes),,Les Chalets de La Griyotire,Praz-sur-Arly,,14
+1691418850-382,27/03/2023,09/04/2023,12/04/2023,633,633,Chambre Standard avec Spa et Accès Privé à la Plage,,Hôtel Beau Site Talloires B SPA,Talloires,,14
+1691418850-383,27/03/2023,09/04/2023,12/04/2023,1411,1411,Chambre Double Supérieure - Vue sur Jardin,,Abbaye de Talloires,Talloires,,14
+1691418850-384,27/03/2023,09/04/2023,12/04/2023,1513,1513,Chambre Double Supérieure,,Auberge Du Père Bise - Jean Sulpice,Talloires,,14
+1691418850-385,27/03/2023,09/04/2023,12/04/2023,414,414,Chambre Double Standard,,Au Coin Du Feu,Megève,,14
+1691418850-386,27/03/2023,09/04/2023,12/04/2023,745,745,Chambre Double Mansardée - Vue sur Lac,,Le Palace De Menthon,Menthon-Saint-Bernard,,14
+1691418850-387,27/03/2023,09/04/2023,12/04/2023,268,268,Chambre Lits Jumeaux,,Hotel Du Commerce,Thônes,,14
+1691418850-388,27/03/2023,09/04/2023,12/04/2023,305,305,Chambre Double Économique,,Hotel La Montagne,La Clusaz,,14
+1691418850-389,27/03/2023,09/04/2023,12/04/2023,392,336,Chambre Double ou Lits Jumeaux,,St-Alban Hotel & Spa,La Clusaz,,14
+1691418850-390,27/03/2023,09/04/2023,12/04/2023,315,315,Chambre Double Économique,,Alp'Hotel,La Clusaz,,14
+1691418850-391,27/03/2023,09/04/2023,12/04/2023,294,294,Chambre Double,,Hotel Christiania,La Clusaz,,14
+1691418850-392,27/03/2023,09/04/2023,12/04/2023,245,245,Chambre Lits Jumeaux,,Village vacances Le Savoy,Le Grand-Bornand,,14
+1691418850-393,27/03/2023,09/04/2023,12/04/2023,401,401,Chambre Double Standard,,Les Airelles,La Clusaz,,14
+1691418850-394,27/03/2023,09/04/2023,12/04/2023,330,330,Chambre Double ou Lits Jumeaux Orientée Nord,,Beaulieu,La Clusaz,,14
+1691418850-395,27/03/2023,09/04/2023,12/04/2023,371,371,Petite Chambre Double ou Lits Jumeaux avec Balcon,,Hotel Beauregard,La Clusaz,,14
+1691418850-396,27/03/2023,09/04/2023,12/04/2023,261,261,Chambre Double,,Fasthotel Thones,Thônes,,14
+1691418850-397,27/03/2023,09/04/2023,12/04/2023,590,590,Chambre Double,,La Ferme,La Clusaz,,14
+1691418850-398,27/03/2023,09/04/2023,12/04/2023,372,372,Chambre Double Économique,,Hotel les Sapins,La Clusaz,,14
+1691418850-399,27/03/2023,09/04/2023,12/04/2023,1068,1068,Suite,,Chalet-Hôtel Inarpa,La Clusaz,,14
+1691418850-400,27/03/2023,09/04/2023,12/04/2023,342,342,Petite Chambre Double - Sans Vue,,Carlina,La Clusaz,,14
+1691418850-401,27/03/2023,09/04/2023,12/04/2023,506,506,Chambre Double Économique,,Chalet-Hôtel Les Cimes,Le Grand-Bornand,,14
+1691418850-402,27/03/2023,09/04/2023,12/04/2023,486,486,Chambre Double,,AUBERGE DES GLIERES,Thorens-Glières,,14
+1691418850-403,27/03/2023,09/04/2023,12/04/2023,266,266,Chambre Triple,,Chalet Les Pieux,Crest-Voland,,14
+1691418850-404,27/03/2023,09/04/2023,12/04/2023,315,315,Chambre Triple - Aravis,,Chalet Les Rhodos,Cordon,,14
+1691418850-405,27/03/2023,09/04/2023,12/04/2023,248,248,Chambre Double Standard,,Logis La Chaumière Saint-Maurice,Thorens-Glières,,14
+1691418850-406,27/03/2023,09/04/2023,12/04/2023,645,645,Appartement (4-6 Adultes),,Les Chalets de La Griyotire,Praz-sur-Arly,,14
+1691418850-407,27/03/2023,09/04/2023,12/04/2023,633,633,Chambre Standard avec Spa et Accès Privé à la Plage,,Hôtel Beau Site Talloires B SPA,Talloires,,14
+1691418850-408,27/03/2023,09/04/2023,12/04/2023,1411,1411,Chambre Double Supérieure - Vue sur Jardin,,Abbaye de Talloires,Talloires,,14
+1691418850-409,27/03/2023,09/04/2023,12/04/2023,1513,1513,Chambre Double Supérieure,,Auberge Du Père Bise - Jean Sulpice,Talloires,,14
+1691418850-410,27/03/2023,09/04/2023,12/04/2023,414,414,Chambre Double Standard,,Au Coin Du Feu,Megève,,14
+1691418850-411,27/03/2023,09/04/2023,12/04/2023,745,745,Chambre Double Mansardée - Vue sur Lac,,Le Palace De Menthon,Menthon-Saint-Bernard,,14
+1691418850-412,27/03/2023,09/04/2023,12/04/2023,720,720,Chambre Double Premium,,La Folie Douce Hotels Chamonix,"Chamonix City Centre, Chamonix-Mont-Blanc",,14
+1691418850-413,27/03/2023,09/04/2023,12/04/2023,229,229,Chambre Double ou Lits Jumeaux Standard,,RockyPop Chamonix - Les Houches,Les Houches,,14
+1691418850-414,27/03/2023,09/04/2023,12/04/2023,452,452, Chambre Double ou Lits Jumeaux - Vue sur Ville - 16 m²,,Alpina Eclectic Hotel,"Chamonix City Centre, Chamonix-Mont-Blanc",,14
+1691418850-415,27/03/2023,09/04/2023,12/04/2023,440,440,Chambre Quadruple avec Terrasse - Côté Mont Blanc,,Le Saint Antoine,Les Houches,,14
+1691418850-416,27/03/2023,09/04/2023,12/04/2023,188,188,Chambre Double - Côté Forêt,,Les Campanules,Les Houches,,14
+1691418850-417,27/03/2023,09/04/2023,12/04/2023,473,473,Chambre Double Sans Vue,,Heliopic Hotel & Spa,"Chamonix City Centre, Chamonix-Mont-Blanc",,14
+1691418850-418,27/03/2023,09/04/2023,12/04/2023,540,482,Chambre Quadruple,,Plan B Hotel - Living Chamonix,"Chamonix City Centre, Chamonix-Mont-Blanc",,14
+1691418850-419,27/03/2023,09/04/2023,12/04/2023,464,464,Chambre Double ou Lits Jumeaux Standard,,Hôtel Le Refuge des Aiglons,"Chamonix City Centre, Chamonix-Mont-Blanc",,14
+1691418850-420,27/03/2023,09/04/2023,12/04/2023,483,483,Chambre Double Standard,,Hotel Le Morgane,"Chamonix City Centre, Chamonix-Mont-Blanc",,14
+1691418850-421,27/03/2023,09/04/2023,12/04/2023,315,315,Chambre Triple - Aravis,,Chalet Les Rhodos,Cordon,,14
+1691418850-422,27/03/2023,09/04/2023,12/04/2023,469,469,Chambre Lits Jumeaux Standard - Accès Gratuit au Spa,,Park Hotel Suisse & Spa,"Chamonix City Centre, Chamonix-Mont-Blanc",,14
+1691418850-423,27/03/2023,09/04/2023,12/04/2023,234,234,Chambre Standard avec 1 Lit Double et 1 Lit Simple,,Ibis Hôtel Sallanches,Sallanches,,14
+1691418850-424,27/03/2023,09/04/2023,12/04/2023,203,203,Chambre Lits Jumeaux Standard,,Vert Lodge Chamonix,Chamonix-Mont-Blanc,,14
+1691418850-425,27/03/2023,09/04/2023,12/04/2023,499,499,Chambre Classique avec Balcon,,Mercure Chamonix Centre,"Chamonix City Centre, Chamonix-Mont-Blanc",,14
+1691418850-426,27/03/2023,09/04/2023,12/04/2023,319,319,Chambre Double Standard,,Hôtel de L'Arve,"Chamonix City Centre, Chamonix-Mont-Blanc",,14
+1691418850-427,27/03/2023,09/04/2023,12/04/2023,313,313,Chambre Double Classique,,Excelsior Chamonix Hôtel & Spa,"Les Tines, Chamonix-Mont-Blanc",,14
+1691418850-428,27/03/2023,09/04/2023,12/04/2023,415,375,Chambre Classique Wanderlust,,Wanderlust Motels Chamonix,"Les Bossons, Chamonix-Mont-Blanc",,14
+1691418850-429,27/03/2023,09/04/2023,12/04/2023,414,414,Chambre Double Standard,,Au Coin Du Feu,Megève,,14
+1691418850-430,27/03/2023,09/04/2023,12/04/2023,366,366,Chambre Lits Jumeaux ou Double avec Balcon - Vue sur Montagne,,Pointe Isabelle,"Chamonix City Centre, Chamonix-Mont-Blanc",,14
+1691418850-431,27/03/2023,09/04/2023,12/04/2023,453,453,Chambre Lits Jumeaux Supérieure,,Langley Hotel Gustavia,"Chamonix City Centre, Chamonix-Mont-Blanc",,14
+1691418850-432,27/03/2023,09/04/2023,12/04/2023,215,215,Chambre Triple avec Lit Superposé,,Ibis Budget Sallanches,Sallanches,,14
+1691418850-433,27/03/2023,09/04/2023,12/04/2023,449,449,Chambre Double Standard,,Le Faucigny - Hotel de Charme,"Chamonix City Centre, Chamonix-Mont-Blanc",,14
+1691418850-434,27/03/2023,09/04/2023,12/04/2023,429,429,Chambre Double ou Lits Jumeaux avec Vue sur le Mont Blanc,,Chalet Hôtel Le Prieuré,"Chamonix City Centre, Chamonix-Mont-Blanc",,14
+1691418850-435,27/03/2023,09/04/2023,12/04/2023,693,693,Chambre Supérieure Double ou Twin avec Terrasse et Vue sur le Mont d'Arbois et le Mont-Blanc,,Hôtel Arbois Bettex,Saint-Gervais-les-Bains,,14
+1691418850-436,27/03/2023,09/04/2023,12/04/2023,276,276,Chambre Double avec Balcon,,Hotel Le Christiania,Les Contamines-Montjoie,,14
+1691418850-437,27/03/2023,09/04/2023,12/04/2023,720,720,Chambre Double Premium,,La Folie Douce Hotels Chamonix,"Chamonix City Centre, Chamonix-Mont-Blanc",,14
+1691418850-438,27/03/2023,09/04/2023,12/04/2023,229,229,Chambre Double ou Lits Jumeaux Standard,,RockyPop Chamonix - Les Houches,Les Houches,,14
+1691418850-439,27/03/2023,09/04/2023,12/04/2023,452,452, Chambre Double ou Lits Jumeaux - Vue sur Ville - 16 m²,,Alpina Eclectic Hotel,"Chamonix City Centre, Chamonix-Mont-Blanc",,14
+1691418850-440,27/03/2023,09/04/2023,12/04/2023,440,440,Chambre Quadruple avec Terrasse - Côté Mont Blanc,,Le Saint Antoine,Les Houches,,14
+1691418850-441,27/03/2023,09/04/2023,12/04/2023,188,188,Chambre Double - Côté Forêt,,Les Campanules,Les Houches,,14
+1691418850-442,27/03/2023,09/04/2023,12/04/2023,473,473,Chambre Double Sans Vue,,Heliopic Hotel & Spa,"Chamonix City Centre, Chamonix-Mont-Blanc",,14
+1691418850-443,27/03/2023,09/04/2023,12/04/2023,540,482,Chambre Quadruple,,Plan B Hotel - Living Chamonix,"Chamonix City Centre, Chamonix-Mont-Blanc",,14
+1691418850-444,27/03/2023,09/04/2023,12/04/2023,464,464,Chambre Double ou Lits Jumeaux Standard,,Hôtel Le Refuge des Aiglons,"Chamonix City Centre, Chamonix-Mont-Blanc",,14
+1691418850-445,27/03/2023,09/04/2023,12/04/2023,483,483,Chambre Double Standard,,Hotel Le Morgane,"Chamonix City Centre, Chamonix-Mont-Blanc",,14
+1691418850-446,27/03/2023,09/04/2023,12/04/2023,315,315,Chambre Triple - Aravis,,Chalet Les Rhodos,Cordon,,14
+1691418850-447,27/03/2023,09/04/2023,12/04/2023,469,469,Chambre Lits Jumeaux Standard - Accès Gratuit au Spa,,Park Hotel Suisse & Spa,"Chamonix City Centre, Chamonix-Mont-Blanc",,14
+1691418850-448,27/03/2023,09/04/2023,12/04/2023,234,234,Chambre Standard avec 1 Lit Double et 1 Lit Simple,,Ibis Hôtel Sallanches,Sallanches,,14
+1691418850-449,27/03/2023,09/04/2023,12/04/2023,203,203,Chambre Lits Jumeaux Standard,,Vert Lodge Chamonix,Chamonix-Mont-Blanc,,14
+1691418850-450,27/03/2023,09/04/2023,12/04/2023,499,499,Chambre Classique avec Balcon,,Mercure Chamonix Centre,"Chamonix City Centre, Chamonix-Mont-Blanc",,14
+1691418850-451,27/03/2023,09/04/2023,12/04/2023,319,319,Chambre Double Standard,,Hôtel de L'Arve,"Chamonix City Centre, Chamonix-Mont-Blanc",,14
+1691418850-452,27/03/2023,09/04/2023,12/04/2023,313,313,Chambre Double Classique,,Excelsior Chamonix Hôtel & Spa,"Les Tines, Chamonix-Mont-Blanc",,14
+1691418850-453,27/03/2023,09/04/2023,12/04/2023,415,375,Chambre Classique Wanderlust,,Wanderlust Motels Chamonix,"Les Bossons, Chamonix-Mont-Blanc",,14
+1691418850-454,27/03/2023,09/04/2023,12/04/2023,414,414,Chambre Double Standard,,Au Coin Du Feu,Megève,,14
+1691418850-455,27/03/2023,09/04/2023,12/04/2023,366,366,Chambre Lits Jumeaux ou Double avec Balcon - Vue sur Montagne,,Pointe Isabelle,"Chamonix City Centre, Chamonix-Mont-Blanc",,14
+1691418850-456,27/03/2023,09/04/2023,12/04/2023,453,453,Chambre Lits Jumeaux Supérieure,,Langley Hotel Gustavia,"Chamonix City Centre, Chamonix-Mont-Blanc",,14
+1691418850-457,27/03/2023,09/04/2023,12/04/2023,215,215,Chambre Triple avec Lit Superposé,,Ibis Budget Sallanches,Sallanches,,14
+1691418850-458,27/03/2023,09/04/2023,12/04/2023,449,449,Chambre Double Standard,,Le Faucigny - Hotel de Charme,"Chamonix City Centre, Chamonix-Mont-Blanc",,14
+1691418850-459,27/03/2023,09/04/2023,12/04/2023,429,429,Chambre Double ou Lits Jumeaux avec Vue sur le Mont Blanc,,Chalet Hôtel Le Prieuré,"Chamonix City Centre, Chamonix-Mont-Blanc",,14
+1691418850-460,27/03/2023,09/04/2023,12/04/2023,693,693,Chambre Supérieure Double ou Twin avec Terrasse et Vue sur le Mont d'Arbois et le Mont-Blanc,,Hôtel Arbois Bettex,Saint-Gervais-les-Bains,,14
+1691418850-461,27/03/2023,09/04/2023,12/04/2023,276,276,Chambre Double avec Balcon,,Hotel Le Christiania,Les Contamines-Montjoie,,14
+1691418850-462,27/03/2023,09/04/2023,12/04/2023,720,720,Chambre Double Premium,,La Folie Douce Hotels Chamonix,"Chamonix City Centre, Chamonix-Mont-Blanc",,14
+1691418850-463,27/03/2023,09/04/2023,12/04/2023,229,229,Chambre Double ou Lits Jumeaux Standard,,RockyPop Chamonix - Les Houches,Les Houches,,14
+1691418850-464,27/03/2023,09/04/2023,12/04/2023,452,452, Chambre Double ou Lits Jumeaux - Vue sur Ville - 16 m²,,Alpina Eclectic Hotel,"Chamonix City Centre, Chamonix-Mont-Blanc",,14
+1691418850-465,27/03/2023,09/04/2023,12/04/2023,440,440,Chambre Quadruple avec Terrasse - Côté Mont Blanc,,Le Saint Antoine,Les Houches,,14
+1691418850-466,27/03/2023,09/04/2023,12/04/2023,188,188,Chambre Double - Côté Forêt,,Les Campanules,Les Houches,,14
+1691418850-467,27/03/2023,09/04/2023,12/04/2023,473,473,Chambre Double Sans Vue,,Heliopic Hotel & Spa,"Chamonix City Centre, Chamonix-Mont-Blanc",,14
+1691418850-468,27/03/2023,09/04/2023,12/04/2023,540,482,Chambre Quadruple,,Plan B Hotel - Living Chamonix,"Chamonix City Centre, Chamonix-Mont-Blanc",,14
+1691418850-469,27/03/2023,09/04/2023,12/04/2023,464,464,Chambre Double ou Lits Jumeaux Standard,,Hôtel Le Refuge des Aiglons,"Chamonix City Centre, Chamonix-Mont-Blanc",,14
+1691418850-470,27/03/2023,09/04/2023,12/04/2023,483,483,Chambre Double Standard,,Hotel Le Morgane,"Chamonix City Centre, Chamonix-Mont-Blanc",,14
+1691418850-471,27/03/2023,09/04/2023,12/04/2023,315,315,Chambre Triple - Aravis,,Chalet Les Rhodos,Cordon,,14
+1691418850-472,27/03/2023,09/04/2023,12/04/2023,469,469,Chambre Lits Jumeaux Standard - Accès Gratuit au Spa,,Park Hotel Suisse & Spa,"Chamonix City Centre, Chamonix-Mont-Blanc",,14
+1691418850-473,27/03/2023,09/04/2023,12/04/2023,234,234,Chambre Standard avec 1 Lit Double et 1 Lit Simple,,Ibis Hôtel Sallanches,Sallanches,,14
+1691418850-474,27/03/2023,09/04/2023,12/04/2023,203,203,Chambre Lits Jumeaux Standard,,Vert Lodge Chamonix,Chamonix-Mont-Blanc,,14
+1691418850-475,27/03/2023,09/04/2023,12/04/2023,499,499,Chambre Classique avec Balcon,,Mercure Chamonix Centre,"Chamonix City Centre, Chamonix-Mont-Blanc",,14
+1691418850-476,27/03/2023,09/04/2023,12/04/2023,319,319,Chambre Double Standard,,Hôtel de L'Arve,"Chamonix City Centre, Chamonix-Mont-Blanc",,14
+1691418850-477,27/03/2023,09/04/2023,12/04/2023,313,313,Chambre Double Classique,,Excelsior Chamonix Hôtel & Spa,"Les Tines, Chamonix-Mont-Blanc",,14
+1691418850-478,27/03/2023,09/04/2023,12/04/2023,415,375,Chambre Classique Wanderlust,,Wanderlust Motels Chamonix,"Les Bossons, Chamonix-Mont-Blanc",,14
+1691418850-479,27/03/2023,09/04/2023,12/04/2023,414,414,Chambre Double Standard,,Au Coin Du Feu,Megève,,14
+1691418850-480,27/03/2023,09/04/2023,12/04/2023,366,366,Chambre Lits Jumeaux ou Double avec Balcon - Vue sur Montagne,,Pointe Isabelle,"Chamonix City Centre, Chamonix-Mont-Blanc",,14
+1691418850-481,27/03/2023,09/04/2023,12/04/2023,453,453,Chambre Lits Jumeaux Supérieure,,Langley Hotel Gustavia,"Chamonix City Centre, Chamonix-Mont-Blanc",,14
+1691418850-482,27/03/2023,09/04/2023,12/04/2023,215,215,Chambre Triple avec Lit Superposé,,Ibis Budget Sallanches,Sallanches,,14
+1691418850-483,27/03/2023,09/04/2023,12/04/2023,449,449,Chambre Double Standard,,Le Faucigny - Hotel de Charme,"Chamonix City Centre, Chamonix-Mont-Blanc",,14
+1691418850-484,27/03/2023,09/04/2023,12/04/2023,429,429,Chambre Double ou Lits Jumeaux avec Vue sur le Mont Blanc,,Chalet Hôtel Le Prieuré,"Chamonix City Centre, Chamonix-Mont-Blanc",,14
+1691418850-485,27/03/2023,09/04/2023,12/04/2023,693,693,Chambre Supérieure Double ou Twin avec Terrasse et Vue sur le Mont d'Arbois et le Mont-Blanc,,Hôtel Arbois Bettex,Saint-Gervais-les-Bains,,14
+1691418850-486,27/03/2023,09/04/2023,12/04/2023,276,276,Chambre Double avec Balcon,,Hotel Le Christiania,Les Contamines-Montjoie,,14
+1691418850-487,27/03/2023,09/04/2023,12/04/2023,286,286,Chambre Double,,Hôtel Saint-Georges,Saint-Jean-de-Maurienne,,14
+1691418850-488,27/03/2023,09/04/2023,12/04/2023,365,365,Chambre Quadruple Standard (2 Adultes + 2 Enfants),,Village Le Grand Fourchon,Valmeinier,,14
+1691418850-489,27/03/2023,09/04/2023,12/04/2023,250,250,Chambre Double,,Hôtel de l'Europe,Saint-Jean-de-Maurienne,,14
+1691418850-490,27/03/2023,09/04/2023,12/04/2023,204,204,Chambre Double Standard,,hotel de la gare,Modane,,14
+1691418850-491,27/03/2023,09/04/2023,12/04/2023,213,213,Chambre Double - Non-Fumeurs ,,Hôtel Le Marintan,Saint-Michel-de-Maurienne,,14
+1691418850-492,27/03/2023,09/04/2023,12/04/2023,238,238,Chambre Double,,B&B HOTEL Saint Jean De Maurienne,Sainte-Marie-de-Cuines,,14
+1691418850-493,27/03/2023,09/04/2023,12/04/2023,235,235,Chambre Double ou Lits Jumeaux Supérieure,,Savoy Hotel & Restaurant,Saint-Michel-de-Maurienne,,14
+1691418850-494,27/03/2023,09/04/2023,12/04/2023,264,264,Chambre Double,,ALPAZUR Val Cenis,Lanslebourg-Mont-Cenis,,14
+1691418850-495,27/03/2023,09/04/2023,12/04/2023,198,198,Chambre Double,,Gîte Le Shantoné,Saint-Michel-de-Maurienne,,14
+1691418850-496,27/03/2023,09/04/2023,12/04/2023,392,392,Chambre Double,,La Clé des Champs,Lanslebourg-Mont-Cenis,,14
+1691418850-497,27/03/2023,09/04/2023,12/04/2023,257,257,Chambre Double Standard,,Les Sorbiers,Montricher-le-Bochet,,14
+1691418850-498,27/03/2023,09/04/2023,12/04/2023,697,697,Chambre Double ou Lits Jumeaux,,"Chalet-Hôtel Le Beausoleil, The Originals Relais (Hotel-Chalet de Tradition)",La Toussuire,,14
+1691418850-499,27/03/2023,09/04/2023,12/04/2023,433,433,Chambre Double,,Hotel l'Aigle,Valmeinier,,14
+1691418850-500,27/03/2023,09/04/2023,12/04/2023,317,317,Chambre Lits Jumeaux,,Hôtel Les Mottets,Aussois,,14
+1691418850-501,27/03/2023,09/04/2023,12/04/2023,642,642,Chambre Double,,La Principauté de Comborciere,La Toussuire,,14
+1691418850-502,27/03/2023,09/04/2023,12/04/2023,546,546,Chambre Double ou Lits Jumeaux,,"Hôtel Club ""Les Carrettes""",Valmeinier,,14
+1691418850-503,27/03/2023,09/04/2023,12/04/2023,216,216,Chambre Double,,Bar Hotel Restaurant le Margeriaz,Les Déserts,,14
+1691418850-504,27/03/2023,09/04/2023,12/04/2023,223,223,Chambre Quadruple,,gite de pontgibaud,Lathuile,,14
+1691418850-505,27/03/2023,09/04/2023,12/04/2023,236,236,Chambre Double Standard,,"Hôtel de Genève , Faverges-Seythenex 74210, Haute Savoie",Faverges,,14
+1691418850-506,27/03/2023,09/04/2023,12/04/2023,409,409,Chambre Double Classique,,Hotel Du Parc - Manoir Du Baron Blanc,Faverges,,14
+1691418850-507,27/03/2023,09/04/2023,12/04/2023,290,290,Chambre Double,,Auberge Le Semnoz,Saint-Jorioz,,14
+1691418850-508,27/03/2023,09/04/2023,12/04/2023,294,294,Chambre Double - Accessible aux Personnes à Mobilité Réduite ,,Brit Hotel Florimont,Saint-Ferréol,,14
+1691418850-509,27/03/2023,09/04/2023,12/04/2023,1567,1567,Suite avec Vue sur Lac ,,"Villa Caroline, hôtel santé bien-être Lac d'Annecy, détox et jeûne",Duingt,,14
+1691418850-510,27/03/2023,09/04/2023,12/04/2023,171,171,Chambre Double avec Lit d'Appoint,,ibis budget Aix Les Bains - Grésy,Grésy-sur-Aix,,14
+1691418850-528,27/03/2023,09/04/2023,12/04/2023,216,216,Chambre Double,,Bar Hotel Restaurant le Margeriaz,Les Déserts,,14
+1691418850-529,27/03/2023,09/04/2023,12/04/2023,223,223,Chambre Quadruple,,gite de pontgibaud,Lathuile,,14
+1691418850-530,27/03/2023,09/04/2023,12/04/2023,236,236,Chambre Double Standard,,"Hôtel de Genève , Faverges-Seythenex 74210, Haute Savoie",Faverges,,14
+1691418850-531,27/03/2023,09/04/2023,12/04/2023,409,409,Chambre Double Classique,,Hotel Du Parc - Manoir Du Baron Blanc,Faverges,,14
+1691418850-532,27/03/2023,09/04/2023,12/04/2023,290,290,Chambre Double,,Auberge Le Semnoz,Saint-Jorioz,,14
+1691418850-533,27/03/2023,09/04/2023,12/04/2023,294,294,Chambre Double - Accessible aux Personnes à Mobilité Réduite ,,Brit Hotel Florimont,Saint-Ferréol,,14
+1691418850-534,27/03/2023,09/04/2023,12/04/2023,1567,1567,Suite avec Vue sur Lac ,,"Villa Caroline, hôtel santé bien-être Lac d'Annecy, détox et jeûne",Duingt,,14
+1691418850-535,27/03/2023,09/04/2023,12/04/2023,171,171,Chambre Double avec Lit d'Appoint,,ibis budget Aix Les Bains - Grésy,Grésy-sur-Aix,,14
+1691418850-553,27/03/2023,09/04/2023,12/04/2023,216,216,Chambre Double,,Bar Hotel Restaurant le Margeriaz,Les Déserts,,14
+1691418850-554,27/03/2023,09/04/2023,12/04/2023,223,223,Chambre Quadruple,,gite de pontgibaud,Lathuile,,14
+1691418850-555,27/03/2023,09/04/2023,12/04/2023,236,236,Chambre Double Standard,,"Hôtel de Genève , Faverges-Seythenex 74210, Haute Savoie",Faverges,,14
+1691418850-556,27/03/2023,09/04/2023,12/04/2023,409,409,Chambre Double Classique,,Hotel Du Parc - Manoir Du Baron Blanc,Faverges,,14
+1691418850-557,27/03/2023,09/04/2023,12/04/2023,290,290,Chambre Double,,Auberge Le Semnoz,Saint-Jorioz,,14
+1691418850-558,27/03/2023,09/04/2023,12/04/2023,294,294,Chambre Double - Accessible aux Personnes à Mobilité Réduite ,,Brit Hotel Florimont,Saint-Ferréol,,14
+1691418850-559,27/03/2023,09/04/2023,12/04/2023,1567,1567,Suite avec Vue sur Lac ,,"Villa Caroline, hôtel santé bien-être Lac d'Annecy, détox et jeûne",Duingt,,14
+1691418850-560,27/03/2023,09/04/2023,12/04/2023,171,171,Chambre Double avec Lit d'Appoint,,ibis budget Aix Les Bains - Grésy,Grésy-sur-Aix,,14
+1691418850-578,27/03/2023,09/04/2023,12/04/2023,216,216,Chambre Double,,Bar Hotel Restaurant le Margeriaz,Les Déserts,,14
+1691418850-579,27/03/2023,09/04/2023,12/04/2023,223,223,Chambre Quadruple,,gite de pontgibaud,Lathuile,,14
+1691418850-580,27/03/2023,09/04/2023,12/04/2023,236,236,Chambre Double Standard,,"Hôtel de Genève , Faverges-Seythenex 74210, Haute Savoie",Faverges,,14
+1691418850-581,27/03/2023,09/04/2023,12/04/2023,409,409,Chambre Double Classique,,Hotel Du Parc - Manoir Du Baron Blanc,Faverges,,14
+1691418850-582,27/03/2023,09/04/2023,12/04/2023,290,290,Chambre Double,,Auberge Le Semnoz,Saint-Jorioz,,14
+1691418850-583,27/03/2023,09/04/2023,12/04/2023,294,294,Chambre Double - Accessible aux Personnes à Mobilité Réduite ,,Brit Hotel Florimont,Saint-Ferréol,,14
+1691418850-584,27/03/2023,09/04/2023,12/04/2023,1567,1567,Suite avec Vue sur Lac ,,"Villa Caroline, hôtel santé bien-être Lac d'Annecy, détox et jeûne",Duingt,,14
+1691418850-585,27/03/2023,09/04/2023,12/04/2023,171,171,Chambre Double avec Lit d'Appoint,,ibis budget Aix Les Bains - Grésy,Grésy-sur-Aix,,14
+1691418850-603,27/03/2023,09/04/2023,12/04/2023,565,565,Appartement 1 Chambre (2 Adultes + 1 Enfant),,Hôtel La Plagne Le Terra Nova,La Plagne,,14
+1691418850-604,27/03/2023,09/04/2023,12/04/2023,667,667,Chambre Double,,Hôtel L'Aiguille Percée,"Tignes Le Lac, Tignes",,14
+1691418850-605,27/03/2023,09/04/2023,12/04/2023,581,581, Chambre Deluxe avec Accès au Spa,,Hôtel Alpen Lodge,La Rosière,,14
+1691418850-606,27/03/2023,09/04/2023,12/04/2023,715,715,Chambre Double ou Lits Jumeaux,,Hotel Le Val Chavière,Val Thorens,,14
+1691418850-607,27/03/2023,09/04/2023,12/04/2023,664,664,Chambre Double,,Odalys Chalet Alpina,"Val Claret, Tignes",,14
+1691418850-608,27/03/2023,09/04/2023,12/04/2023,585,585,Chambre Deluxe Double ou Lits Jumeaux,,ho36 La Plagne,La Plagne,,14
+1691418850-609,27/03/2023,09/04/2023,12/04/2023,502,502,Chambre Triple (2 Adultes),,Hôtel Les Menuires Les Bruyères,Les Menuires,,14
+1691418850-628,27/03/2023,09/04/2023,12/04/2023,565,565,Appartement 1 Chambre (2 Adultes + 1 Enfant),,Hôtel La Plagne Le Terra Nova,La Plagne,,14
+1691418850-629,27/03/2023,09/04/2023,12/04/2023,667,667,Chambre Double,,Hôtel L'Aiguille Percée,"Tignes Le Lac, Tignes",,14
+1691418850-630,27/03/2023,09/04/2023,12/04/2023,581,581, Chambre Deluxe avec Accès au Spa,,Hôtel Alpen Lodge,La Rosière,,14
+1691418850-631,27/03/2023,09/04/2023,12/04/2023,715,715,Chambre Double ou Lits Jumeaux,,Hotel Le Val Chavière,Val Thorens,,14
+1691418850-632,27/03/2023,09/04/2023,12/04/2023,664,664,Chambre Double,,Odalys Chalet Alpina,"Val Claret, Tignes",,14
+1691418850-633,27/03/2023,09/04/2023,12/04/2023,585,585,Chambre Deluxe Double ou Lits Jumeaux,,ho36 La Plagne,La Plagne,,14
+1691418850-634,27/03/2023,09/04/2023,12/04/2023,502,502,Chambre Triple (2 Adultes),,Hôtel Les Menuires Les Bruyères,Les Menuires,,14
+1691418850-653,27/03/2023,09/04/2023,12/04/2023,565,565,Appartement 1 Chambre (2 Adultes + 1 Enfant),,Hôtel La Plagne Le Terra Nova,La Plagne,,14
+1691418850-654,27/03/2023,09/04/2023,12/04/2023,667,667,Chambre Double,,Hôtel L'Aiguille Percée,"Tignes Le Lac, Tignes",,14
+1691418850-655,27/03/2023,09/04/2023,12/04/2023,581,581, Chambre Deluxe avec Accès au Spa,,Hôtel Alpen Lodge,La Rosière,,14
+1691418850-656,27/03/2023,09/04/2023,12/04/2023,715,715,Chambre Double ou Lits Jumeaux,,Hotel Le Val Chavière,Val Thorens,,14
+1691418850-657,27/03/2023,09/04/2023,12/04/2023,664,664,Chambre Double,,Odalys Chalet Alpina,"Val Claret, Tignes",,14
+1691418850-658,27/03/2023,09/04/2023,12/04/2023,585,585,Chambre Deluxe Double ou Lits Jumeaux,,ho36 La Plagne,La Plagne,,14
+1691418850-659,27/03/2023,09/04/2023,12/04/2023,502,502,Chambre Triple (2 Adultes),,Hôtel Les Menuires Les Bruyères,Les Menuires,,14
+1691418850-678,27/03/2023,09/04/2023,12/04/2023,565,565,Appartement 1 Chambre (2 Adultes + 1 Enfant),,Hôtel La Plagne Le Terra Nova,La Plagne,,14
+1691418850-679,27/03/2023,09/04/2023,12/04/2023,667,667,Chambre Double,,Hôtel L'Aiguille Percée,"Tignes Le Lac, Tignes",,14
+1691418850-680,27/03/2023,09/04/2023,12/04/2023,581,581, Chambre Deluxe avec Accès au Spa,,Hôtel Alpen Lodge,La Rosière,,14
+1691418850-681,27/03/2023,09/04/2023,12/04/2023,715,715,Chambre Double ou Lits Jumeaux,,Hotel Le Val Chavière,Val Thorens,,14
+1691418850-682,27/03/2023,09/04/2023,12/04/2023,664,664,Chambre Double,,Odalys Chalet Alpina,"Val Claret, Tignes",,14
+1691418850-683,27/03/2023,09/04/2023,12/04/2023,585,585,Chambre Deluxe Double ou Lits Jumeaux,,ho36 La Plagne,La Plagne,,14
+1691418850-684,27/03/2023,09/04/2023,12/04/2023,502,502,Chambre Triple (2 Adultes),,Hôtel Les Menuires Les Bruyères,Les Menuires,,14
+1691418850-703,27/03/2023,09/04/2023,12/04/2023,493,493,Petite Chambre Double,,Hôtel Restaurant Le Monêtier,Le Monêtier-les-Bains,,14
+1691418850-704,27/03/2023,09/04/2023,12/04/2023,200,200,Chambre Double avec Douche,,Hôtel Mont-Brison,Briançon,,14
+1691418850-705,27/03/2023,09/04/2023,12/04/2023,289,261,Chambre Classique,,Suite Home Briancon Serre Chevalier,Briançon,,14
+1691418850-706,27/03/2023,09/04/2023,12/04/2023,237,237,Chambre Double - Vue sur Montagne,,La Souloise,Le Dévoluy,,14
+1691418850-707,27/03/2023,09/04/2023,12/04/2023,222,222,Chambre Lits Jumeaux Économique,,Hôtel Logis La Crémaillère,Saint-Bonnet-en-Champsaur,,14
+1691418850-708,27/03/2023,09/04/2023,12/04/2023,198,198,Chambre Double Standard,,Adonis Gapotel,Gap,,14
+1691418850-709,27/03/2023,09/04/2023,12/04/2023,387,387,Chambre Double - Vue sur Montagne,,Hôtel Vauban Briançon Serre Chevalier,Briançon,,14
+1691418850-710,27/03/2023,09/04/2023,12/04/2023,214,214,Chambre Double ou Lits Jumeaux Mansardée,,Cit'Hotel Avantici Gap,Gap,,14
+1691418850-711,27/03/2023,09/04/2023,12/04/2023,196,196,Chambre Lits Jumeaux Standard,,Logis Havvah Hôtel Gap,Gap,,14
+1691418850-712,27/03/2023,09/04/2023,12/04/2023,303,303,Chambre Double Standard,,Auberge de la Paix,Briançon,,14
+1691418850-713,27/03/2023,09/04/2023,12/04/2023,1088,1088,Appartement avec Accès Piscine - Rez-de-Chaussée,,Rock Noir & Spa,La Salle-Les-Alpes,,14
+1691418850-714,27/03/2023,09/04/2023,12/04/2023,209,209,Chambre Double,,B&B HOTEL Gap,Gap,,14
+1691418850-715,27/03/2023,09/04/2023,12/04/2023,265,265,Chambre Double Standard,,Hôtel Les Flots Bleus,Savines,,14
+1691418850-716,27/03/2023,09/04/2023,12/04/2023,300,201,Chambre Triple avec Vue,,Auberge de la Gravière,Orcières,,14
+1691418850-717,27/03/2023,09/04/2023,12/04/2023,274,274,Chambre Double,,La Maison de Catherine,Puy-Saint-Pierre,,14
+1691418850-718,27/03/2023,09/04/2023,12/04/2023,219,219,Chambre Double avec Toilettes Communes,,Hôtel les Gardettes,"Orcieres Merlette 1850, Orcières",,14
+1691418850-719,27/03/2023,09/04/2023,12/04/2023,275,275,Chambre Double ou Lits Jumeaux Économique,,Les Olivades,Gap,,14
+1691418850-720,27/03/2023,09/04/2023,12/04/2023,350,350,Chambre Double,,Hôtel Alpis Cottia,Montgenèvre,,14
+1691418850-721,27/03/2023,09/04/2023,12/04/2023,217,217,Chambre Double,,Le Catinat Fleuri,Guillestre,,14
+1691418850-722,27/03/2023,09/04/2023,12/04/2023,270,270,Chambre Double Confort,,Fifi Moulin,Serres,,14
+1691418850-728,27/03/2023,09/04/2023,12/04/2023,493,493,Petite Chambre Double,,Hôtel Restaurant Le Monêtier,Le Monêtier-les-Bains,,14
+1691418850-729,27/03/2023,09/04/2023,12/04/2023,200,200,Chambre Double avec Douche,,Hôtel Mont-Brison,Briançon,,14
+1691418850-730,27/03/2023,09/04/2023,12/04/2023,289,261,Chambre Classique,,Suite Home Briancon Serre Chevalier,Briançon,,14
+1691418850-731,27/03/2023,09/04/2023,12/04/2023,237,237,Chambre Double - Vue sur Montagne,,La Souloise,Le Dévoluy,,14
+1691418850-732,27/03/2023,09/04/2023,12/04/2023,222,222,Chambre Lits Jumeaux Économique,,Hôtel Logis La Crémaillère,Saint-Bonnet-en-Champsaur,,14
+1691418850-733,27/03/2023,09/04/2023,12/04/2023,198,198,Chambre Double Standard,,Adonis Gapotel,Gap,,14
+1691418850-734,27/03/2023,09/04/2023,12/04/2023,387,387,Chambre Double - Vue sur Montagne,,Hôtel Vauban Briançon Serre Chevalier,Briançon,,14
+1691418850-735,27/03/2023,09/04/2023,12/04/2023,214,214,Chambre Double ou Lits Jumeaux Mansardée,,Cit'Hotel Avantici Gap,Gap,,14
+1691418850-736,27/03/2023,09/04/2023,12/04/2023,196,196,Chambre Lits Jumeaux Standard,,Logis Havvah Hôtel Gap,Gap,,14
+1691418850-737,27/03/2023,09/04/2023,12/04/2023,303,303,Chambre Double Standard,,Auberge de la Paix,Briançon,,14
+1691418850-738,27/03/2023,09/04/2023,12/04/2023,1088,1088,Appartement avec Accès Piscine - Rez-de-Chaussée,,Rock Noir & Spa,La Salle-Les-Alpes,,14
+1691418850-739,27/03/2023,09/04/2023,12/04/2023,209,209,Chambre Double,,B&B HOTEL Gap,Gap,,14
+1691418850-740,27/03/2023,09/04/2023,12/04/2023,265,265,Chambre Double Standard,,Hôtel Les Flots Bleus,Savines,,14
+1691418850-741,27/03/2023,09/04/2023,12/04/2023,300,201,Chambre Triple avec Vue,,Auberge de la Gravière,Orcières,,14
+1691418850-742,27/03/2023,09/04/2023,12/04/2023,274,274,Chambre Double,,La Maison de Catherine,Puy-Saint-Pierre,,14
+1691418850-743,27/03/2023,09/04/2023,12/04/2023,219,219,Chambre Double avec Toilettes Communes,,Hôtel les Gardettes,"Orcieres Merlette 1850, Orcières",,14
+1691418850-744,27/03/2023,09/04/2023,12/04/2023,275,275,Chambre Double ou Lits Jumeaux Économique,,Les Olivades,Gap,,14
+1691418850-745,27/03/2023,09/04/2023,12/04/2023,350,350,Chambre Double,,Hôtel Alpis Cottia,Montgenèvre,,14
+1691418850-746,27/03/2023,09/04/2023,12/04/2023,217,217,Chambre Double,,Le Catinat Fleuri,Guillestre,,14
+1691418850-747,27/03/2023,09/04/2023,12/04/2023,270,270,Chambre Double Confort,,Fifi Moulin,Serres,,14
+1691418850-753,27/03/2023,09/04/2023,12/04/2023,493,493,Petite Chambre Double,,Hôtel Restaurant Le Monêtier,Le Monêtier-les-Bains,,14
+1691418850-754,27/03/2023,09/04/2023,12/04/2023,200,200,Chambre Double avec Douche,,Hôtel Mont-Brison,Briançon,,14
+1691418850-755,27/03/2023,09/04/2023,12/04/2023,289,261,Chambre Classique,,Suite Home Briancon Serre Chevalier,Briançon,,14
+1691418850-756,27/03/2023,09/04/2023,12/04/2023,237,237,Chambre Double - Vue sur Montagne,,La Souloise,Le Dévoluy,,14
+1691418850-757,27/03/2023,09/04/2023,12/04/2023,222,222,Chambre Lits Jumeaux Économique,,Hôtel Logis La Crémaillère,Saint-Bonnet-en-Champsaur,,14
+1691418850-758,27/03/2023,09/04/2023,12/04/2023,198,198,Chambre Double Standard,,Adonis Gapotel,Gap,,14
+1691418850-759,27/03/2023,09/04/2023,12/04/2023,387,387,Chambre Double - Vue sur Montagne,,Hôtel Vauban Briançon Serre Chevalier,Briançon,,14
+1691418850-760,27/03/2023,09/04/2023,12/04/2023,214,214,Chambre Double ou Lits Jumeaux Mansardée,,Cit'Hotel Avantici Gap,Gap,,14
+1691418850-761,27/03/2023,09/04/2023,12/04/2023,196,196,Chambre Lits Jumeaux Standard,,Logis Havvah Hôtel Gap,Gap,,14
+1691418850-762,27/03/2023,09/04/2023,12/04/2023,303,303,Chambre Double Standard,,Auberge de la Paix,Briançon,,14
+1691418850-763,27/03/2023,09/04/2023,12/04/2023,1088,1088,Appartement avec Accès Piscine - Rez-de-Chaussée,,Rock Noir & Spa,La Salle-Les-Alpes,,14
+1691418850-764,27/03/2023,09/04/2023,12/04/2023,209,209,Chambre Double,,B&B HOTEL Gap,Gap,,14
+1691418850-765,27/03/2023,09/04/2023,12/04/2023,265,265,Chambre Double Standard,,Hôtel Les Flots Bleus,Savines,,14
+1691418850-766,27/03/2023,09/04/2023,12/04/2023,300,201,Chambre Triple avec Vue,,Auberge de la Gravière,Orcières,,14
+1691418850-767,27/03/2023,09/04/2023,12/04/2023,274,274,Chambre Double,,La Maison de Catherine,Puy-Saint-Pierre,,14
+1691418850-768,27/03/2023,09/04/2023,12/04/2023,219,219,Chambre Double avec Toilettes Communes,,Hôtel les Gardettes,"Orcieres Merlette 1850, Orcières",,14
+1691418850-769,27/03/2023,09/04/2023,12/04/2023,275,275,Chambre Double ou Lits Jumeaux Économique,,Les Olivades,Gap,,14
+1691418850-770,27/03/2023,09/04/2023,12/04/2023,350,350,Chambre Double,,Hôtel Alpis Cottia,Montgenèvre,,14
+1691418850-771,27/03/2023,09/04/2023,12/04/2023,217,217,Chambre Double,,Le Catinat Fleuri,Guillestre,,14
+1691418850-772,27/03/2023,09/04/2023,12/04/2023,270,270,Chambre Double Confort,,Fifi Moulin,Serres,,14
+1691418850-778,27/03/2023,09/04/2023,12/04/2023,166,166,Chambre Double avec Lit Superposé,,ibis budget Toulouse Colomiers,Colomiers,,14
+1691418850-779,27/03/2023,09/04/2023,12/04/2023,324,324,Chambre Lit Queen-Size ,,Hampton By Hilton Toulouse Airport,Blagnac,,14
+1691418850-780,27/03/2023,09/04/2023,12/04/2023,241,241,Chambre Double - Accessible aux Personnes à Mobilité Réduite ,,Ace Hôtel Toulouse Blagnac,Cornebarrieu,,14
+1691418850-803,27/03/2023,09/04/2023,12/04/2023,166,166,Chambre Double avec Lit Superposé,,ibis budget Toulouse Colomiers,Colomiers,,14
+1691418850-804,27/03/2023,09/04/2023,12/04/2023,324,324,Chambre Lit Queen-Size ,,Hampton By Hilton Toulouse Airport,Blagnac,,14
+1691418850-805,27/03/2023,09/04/2023,12/04/2023,241,241,Chambre Double - Accessible aux Personnes à Mobilité Réduite ,,Ace Hôtel Toulouse Blagnac,Cornebarrieu,,14
+1691418850-828,27/03/2023,09/04/2023,12/04/2023,166,166,Chambre Double avec Lit Superposé,,ibis budget Toulouse Colomiers,Colomiers,,14
+1691418850-829,27/03/2023,09/04/2023,12/04/2023,324,324,Chambre Lit Queen-Size ,,Hampton By Hilton Toulouse Airport,Blagnac,,14
+1691418850-830,27/03/2023,09/04/2023,12/04/2023,241,241,Chambre Double - Accessible aux Personnes à Mobilité Réduite ,,Ace Hôtel Toulouse Blagnac,Cornebarrieu,,14
+1691418850-853,27/03/2023,09/04/2023,12/04/2023,166,166,Chambre Double avec Lit Superposé,,ibis budget Toulouse Colomiers,Colomiers,,14
+1691418850-854,27/03/2023,09/04/2023,12/04/2023,324,324,Chambre Lit Queen-Size ,,Hampton By Hilton Toulouse Airport,Blagnac,,14
+1691418850-855,27/03/2023,09/04/2023,12/04/2023,241,241,Chambre Double - Accessible aux Personnes à Mobilité Réduite ,,Ace Hôtel Toulouse Blagnac,Cornebarrieu,,14
+1691418850-878,27/03/2023,09/04/2023,12/04/2023,166,166,Chambre Double avec Lit Superposé,,ibis budget Toulouse Colomiers,Colomiers,,14
+1691418850-879,27/03/2023,09/04/2023,12/04/2023,324,324,Chambre Lit Queen-Size ,,Hampton By Hilton Toulouse Airport,Blagnac,,14
+1691418850-880,27/03/2023,09/04/2023,12/04/2023,241,241,Chambre Double - Accessible aux Personnes à Mobilité Réduite ,,Ace Hôtel Toulouse Blagnac,Cornebarrieu,,14
+1691418850-903,27/03/2023,09/04/2023,12/04/2023,166,166,Chambre Double avec Lit Superposé,,ibis budget Toulouse Colomiers,Colomiers,,14
+1691418850-904,27/03/2023,09/04/2023,12/04/2023,324,324,Chambre Lit Queen-Size ,,Hampton By Hilton Toulouse Airport,Blagnac,,14
+1691418850-905,27/03/2023,09/04/2023,12/04/2023,241,241,Chambre Double - Accessible aux Personnes à Mobilité Réduite ,,Ace Hôtel Toulouse Blagnac,Cornebarrieu,,14
+1691418850-928,27/03/2023,09/04/2023,12/04/2023,184,184,Chambre Lits Jumeaux,,"The Originals Access, Hôtel Foix (P'tit Dej-Hotel)",Foix,,14
+1691418850-929,27/03/2023,09/04/2023,12/04/2023,178,178,Chambre Double Standard,,Brit Hotel Confort Foix,Foix,,14
+1691418850-930,27/03/2023,09/04/2023,12/04/2023,243,243,Chambre Lits Jumeaux,,Hôtel Pyrène,Foix,,14
+1691418850-931,27/03/2023,09/04/2023,12/04/2023,270,270,Chambre Double,,Hôtel Terranostra,Tarascon-sur-Ariège,,14
+1691418850-932,27/03/2023,09/04/2023,12/04/2023,197,197,Chambre Double Standard,,Logis Hôtel Restaurant de la Poste,Tarascon-sur-Ariège,,14
+1691418850-933,27/03/2023,09/04/2023,12/04/2023,127,127,Chambre Triple avec 1 Lit Double et 1 Lit Simple,,Hôtel Premiere Classe Pamiers,Pamiers,,14
+1691418850-934,27/03/2023,09/04/2023,12/04/2023,336,336,Chambre Double Prestige,,Hôtel Le Chalet,Ax-les-Thermes,,14
+1691418850-935,27/03/2023,09/04/2023,12/04/2023,183,174,Chambre Double Standard,,Hôtel Confort 09 ou HC-09,Tarascon-sur-Ariège,,14
+1691418850-936,27/03/2023,09/04/2023,12/04/2023,665,665,Suite Prestige - Lits Jumeaux/Double ,,Hotel Logis - Chateau de Beauregard,Saint-Girons,,14
+1691418850-937,27/03/2023,09/04/2023,12/04/2023,289,289,Chambre Lits Jumeaux,,Logis Hôtel restaurant Les Minotiers,Mirepoix,,14
+1691418850-938,27/03/2023,09/04/2023,12/04/2023,159,159,Chambre Double,,Auberge du Haut Salat,Seix,,14
+1691418850-939,27/03/2023,09/04/2023,12/04/2023,302,302,Chambre Double,,Hôtel Le Lons,Foix,,14
+1691418850-940,27/03/2023,09/04/2023,12/04/2023,215,215,Chambre Double,,Hôtel Le Commerce,Mirepoix,,14
+1691418850-941,27/03/2023,09/04/2023,12/04/2023,221,221,Chambre Triple,,Hôtel Le Bellevue,Tarascon-sur-Ariège,,14
+1691418850-942,27/03/2023,09/04/2023,12/04/2023,253,253,Chambre Supérieure Lit Queen-Size,,Hôtel La Rocade,Pamiers,,14
+1691418850-943,27/03/2023,09/04/2023,12/04/2023,254,254,Chambre Double,,Hotel du Lac Foix,Foix,,14
+1691418850-944,27/03/2023,09/04/2023,12/04/2023,237,237,Chambre Double,,Hôtel Le Roi Gourmand,Pamiers,,14
+1691418850-945,27/03/2023,09/04/2023,12/04/2023,190,190,Chambre Double - Vue sur Jardin,,Relais d'Endron,Goulier-et-Olbier,,14
+1691418850-946,27/03/2023,09/04/2023,12/04/2023,250,250,Chambre Lits Jumeaux avec Vue,,Les Rives du Haut Salat,Seix,,14
+1691418850-947,27/03/2023,09/04/2023,12/04/2023,492,492,Chambre Double - Rez-de-Chaussée,,Le Manoir d'Agnès,Tarascon-sur-Ariège,,14
+1691418850-948,27/03/2023,09/04/2023,12/04/2023,246,246,Chambre Lits Jumeaux Standard,,Logis Auberge de l'Isard,Saint-Lary,,14
+1691418850-949,27/03/2023,09/04/2023,12/04/2023,198,198,Chambre Double,,Auberge Les Myrtilles,Couflens,,14
+1691418850-950,27/03/2023,09/04/2023,12/04/2023,172,172,Chambre Double avec Salle de Bains Privative,,Gite d'Etape Ascou La Forge,Ascou,,14
+1691418850-951,27/03/2023,09/04/2023,12/04/2023,416,416,Chambre Double avec Salle de Bains Privative,,Le Clos Cathala,Saint-Paul-de-Jarrat,,14
+1691418850-952,27/03/2023,09/04/2023,12/04/2023,198,198,Chambre Lits Jumeaux,,Les chambres et studios Camping Parc de Paletès,Saint-Girons,,14
+1691418850-953,27/03/2023,09/04/2023,12/04/2023,184,184,Chambre Lits Jumeaux,,"The Originals Access, Hôtel Foix (P'tit Dej-Hotel)",Foix,,14
+1691418850-954,27/03/2023,09/04/2023,12/04/2023,178,178,Chambre Double Standard,,Brit Hotel Confort Foix,Foix,,14
+1691418850-955,27/03/2023,09/04/2023,12/04/2023,243,243,Chambre Lits Jumeaux,,Hôtel Pyrène,Foix,,14
+1691418850-956,27/03/2023,09/04/2023,12/04/2023,270,270,Chambre Double,,Hôtel Terranostra,Tarascon-sur-Ariège,,14
+1691418850-957,27/03/2023,09/04/2023,12/04/2023,197,197,Chambre Double Standard,,Logis Hôtel Restaurant de la Poste,Tarascon-sur-Ariège,,14
+1691418850-958,27/03/2023,09/04/2023,12/04/2023,127,127,Chambre Triple avec 1 Lit Double et 1 Lit Simple,,Hôtel Premiere Classe Pamiers,Pamiers,,14
+1691418850-959,27/03/2023,09/04/2023,12/04/2023,336,336,Chambre Double Prestige,,Hôtel Le Chalet,Ax-les-Thermes,,14
+1691418850-960,27/03/2023,09/04/2023,12/04/2023,183,174,Chambre Double Standard,,Hôtel Confort 09 ou HC-09,Tarascon-sur-Ariège,,14
+1691418850-961,27/03/2023,09/04/2023,12/04/2023,665,665,Suite Prestige - Lits Jumeaux/Double ,,Hotel Logis - Chateau de Beauregard,Saint-Girons,,14
+1691418850-962,27/03/2023,09/04/2023,12/04/2023,289,289,Chambre Lits Jumeaux,,Logis Hôtel restaurant Les Minotiers,Mirepoix,,14
+1691418850-963,27/03/2023,09/04/2023,12/04/2023,159,159,Chambre Double,,Auberge du Haut Salat,Seix,,14
+1691418850-964,27/03/2023,09/04/2023,12/04/2023,302,302,Chambre Double,,Hôtel Le Lons,Foix,,14
+1691418850-965,27/03/2023,09/04/2023,12/04/2023,215,215,Chambre Double,,Hôtel Le Commerce,Mirepoix,,14
+1691418850-966,27/03/2023,09/04/2023,12/04/2023,221,221,Chambre Triple,,Hôtel Le Bellevue,Tarascon-sur-Ariège,,14
+1691418850-967,27/03/2023,09/04/2023,12/04/2023,253,253,Chambre Supérieure Lit Queen-Size,,Hôtel La Rocade,Pamiers,,14
+1691418850-968,27/03/2023,09/04/2023,12/04/2023,254,254,Chambre Double,,Hotel du Lac Foix,Foix,,14
+1691418850-969,27/03/2023,09/04/2023,12/04/2023,237,237,Chambre Double,,Hôtel Le Roi Gourmand,Pamiers,,14
+1691418850-970,27/03/2023,09/04/2023,12/04/2023,190,190,Chambre Double - Vue sur Jardin,,Relais d'Endron,Goulier-et-Olbier,,14
+1691418850-971,27/03/2023,09/04/2023,12/04/2023,250,250,Chambre Lits Jumeaux avec Vue,,Les Rives du Haut Salat,Seix,,14
+1691418850-972,27/03/2023,09/04/2023,12/04/2023,492,492,Chambre Double - Rez-de-Chaussée,,Le Manoir d'Agnès,Tarascon-sur-Ariège,,14
+1691418850-973,27/03/2023,09/04/2023,12/04/2023,246,246,Chambre Lits Jumeaux Standard,,Logis Auberge de l'Isard,Saint-Lary,,14
+1691418850-974,27/03/2023,09/04/2023,12/04/2023,198,198,Chambre Double,,Auberge Les Myrtilles,Couflens,,14
+1691418850-975,27/03/2023,09/04/2023,12/04/2023,172,172,Chambre Double avec Salle de Bains Privative,,Gite d'Etape Ascou La Forge,Ascou,,14
+1691418850-976,27/03/2023,09/04/2023,12/04/2023,416,416,Chambre Double avec Salle de Bains Privative,,Le Clos Cathala,Saint-Paul-de-Jarrat,,14
+1691418850-977,27/03/2023,09/04/2023,12/04/2023,198,198,Chambre Lits Jumeaux,,Les chambres et studios Camping Parc de Paletès,Saint-Girons,,14
+1691418850-978,27/03/2023,09/04/2023,12/04/2023,108,108,Chambre Double Classique avec Lavabo et Toilettes,,Hotel Le Centre,Le Boulou,,14
+1691418850-979,27/03/2023,09/04/2023,12/04/2023,167,167,Chambre Lits Jumeaux Économique,,L'Oree du Bois,Font-Romeu,,14
+1691418850-980,27/03/2023,09/04/2023,12/04/2023,235,235,Chambre Double Standard,,Hôtel De La Loge,Perpignan,,14
+1691418850-981,27/03/2023,09/04/2023,12/04/2023,486,486,Chambre Familiale avec Balcon - Vue sur Mer,,Hotel La Vigie - Face à la mer,Cerbère,,14
+1691418850-982,27/03/2023,09/04/2023,12/04/2023,195,195,Chambre Double,,Hotel les Glycines,Prades,,14
+1691418850-983,27/03/2023,09/04/2023,12/04/2023,208,208,Chambre Double,,Hotel de la Plage - Barcares,Le Barcarès,,14
+1691418850-984,27/03/2023,09/04/2023,12/04/2023,217,217,Chambre Double,,Hotel Celisol Cerdagne,Bourg-Madame,,14
+1691418850-985,27/03/2023,09/04/2023,12/04/2023,174,174,Chambre Double,,HOTEL LE PESCADOU,"Argeles Plage, Argelès-sur-Mer",,14
+1691418850-986,27/03/2023,09/04/2023,12/04/2023,273,273,Chambre Double ou Lits Jumeaux Standard,,Hotel Le Clos Cerdan,Mont-Louis,,14
+1691418850-987,27/03/2023,09/04/2023,12/04/2023,255,255,Chambre Standard avec Balcon,,Hotel Princess,Vernet-les-Bains,,14
+1691418850-988,27/03/2023,09/04/2023,12/04/2023,129,129,Chambre Double,,Première Classe Perpignan Nord,Rivesaltes,,14
+1691418850-989,27/03/2023,09/04/2023,12/04/2023,667,535,Chambre Deluxe,,Villa Duflot Hôtel & Spa Perpignan,Perpignan,,14
+1691418850-990,27/03/2023,09/04/2023,12/04/2023,267,267,Chambre Double Standard,,Nyx Boutique Hotel,Perpignan,,14
+1691418850-991,27/03/2023,09/04/2023,12/04/2023,438,438,Chambre Double avec Terrasse,,Hotel Le Mas Trilles,Céret,,14
+1691418850-992,27/03/2023,09/04/2023,12/04/2023,185,185,Chambre Double ou Lits Jumeaux - Accessible aux Personnes à Mobilité Réduite,,Hôtel Restaurant Mas del Gall,Castelnou,,14
+1691418850-993,27/03/2023,09/04/2023,12/04/2023,247,247,Chambre Double Côté Nord avec Douche,,Hotel des Pyrénées,Font-Romeu,,14
+1691418850-994,27/03/2023,09/04/2023,12/04/2023,710,710,Chambre Double Collection,,Hôtel La Casa Pairal,Collioure,,14
+1691418850-995,27/03/2023,09/04/2023,12/04/2023,980,980,Chambre Double Confort,,Domaine Riberach,Bélesta,,14
+1691418850-996,27/03/2023,09/04/2023,12/04/2023,186,177,Chambre Double,,B&B HOTEL Perpignan Sud Marché International,Perpignan,,14
+1691418850-997,27/03/2023,09/04/2023,12/04/2023,397,397,Chambre Double avec Balcon - Vue sur Pinède,,Grand Hotel Du Golfe,Argelès-sur-Mer,,14
+1691418850-998,27/03/2023,09/04/2023,12/04/2023,184,184,Chambre Double - Vue sur Piscine,,Le Roussillon,Amélie-les-Bains-Palalda,,14
+1691418850-999,27/03/2023,09/04/2023,12/04/2023,502,502,Chambre Double Deluxe - Vue sur Mer,,Les Jardins Du Cèdre,Port-Vendres,,14
+1691418850-1000,27/03/2023,09/04/2023,12/04/2023,126,126,Studio avec Terrasse,,"Hébergements à La Rive, Accueil ouvert tous les jours jusqu'à 20h00 dernier délai, depuis 30 ans ! Réserver ici svp ! Merci ! Aucun règlement à distance accepté, Paiement par CB, Espèces, Chèque ou Chèques-Vacances impérativement à la remise des clefs !",Amélie-les-Bains-Palalda,,14
+1691418850-1001,27/03/2023,09/04/2023,12/04/2023,153,153,Chambre Triple,,Ibis Budget Perpignan Sud,Perpignan,,14
+1691418850-1002,27/03/2023,09/04/2023,12/04/2023,242,242,Chambre Double Confort,,"The Originals City, Hôtel Les Dômes, Perpignan Sud Saleilles",Perpignan,,14
+1691418850-1003,27/03/2023,09/04/2023,12/04/2023,108,108,Chambre Double Classique avec Lavabo et Toilettes,,Hotel Le Centre,Le Boulou,,14
+1691418850-1004,27/03/2023,09/04/2023,12/04/2023,167,167,Chambre Lits Jumeaux Économique,,L'Oree du Bois,Font-Romeu,,14
+1691418850-1005,27/03/2023,09/04/2023,12/04/2023,235,235,Chambre Double Standard,,Hôtel De La Loge,Perpignan,,14
+1691418850-1006,27/03/2023,09/04/2023,12/04/2023,486,486,Chambre Familiale avec Balcon - Vue sur Mer,,Hotel La Vigie - Face à la mer,Cerbère,,14
+1691418850-1007,27/03/2023,09/04/2023,12/04/2023,195,195,Chambre Double,,Hotel les Glycines,Prades,,14
+1691418850-1008,27/03/2023,09/04/2023,12/04/2023,208,208,Chambre Double,,Hotel de la Plage - Barcares,Le Barcarès,,14
+1691418850-1009,27/03/2023,09/04/2023,12/04/2023,217,217,Chambre Double,,Hotel Celisol Cerdagne,Bourg-Madame,,14
+1691418850-1010,27/03/2023,09/04/2023,12/04/2023,174,174,Chambre Double,,HOTEL LE PESCADOU,"Argeles Plage, Argelès-sur-Mer",,14
+1691418850-1011,27/03/2023,09/04/2023,12/04/2023,273,273,Chambre Double ou Lits Jumeaux Standard,,Hotel Le Clos Cerdan,Mont-Louis,,14
+1691418850-1012,27/03/2023,09/04/2023,12/04/2023,255,255,Chambre Standard avec Balcon,,Hotel Princess,Vernet-les-Bains,,14
+1691418850-1013,27/03/2023,09/04/2023,12/04/2023,129,129,Chambre Double,,Première Classe Perpignan Nord,Rivesaltes,,14
+1691418850-1014,27/03/2023,09/04/2023,12/04/2023,667,535,Chambre Deluxe,,Villa Duflot Hôtel & Spa Perpignan,Perpignan,,14
+1691418850-1015,27/03/2023,09/04/2023,12/04/2023,267,267,Chambre Double Standard,,Nyx Boutique Hotel,Perpignan,,14
+1691418850-1016,27/03/2023,09/04/2023,12/04/2023,438,438,Chambre Double avec Terrasse,,Hotel Le Mas Trilles,Céret,,14
+1691418850-1017,27/03/2023,09/04/2023,12/04/2023,185,185,Chambre Double ou Lits Jumeaux - Accessible aux Personnes à Mobilité Réduite,,Hôtel Restaurant Mas del Gall,Castelnou,,14
+1691418850-1018,27/03/2023,09/04/2023,12/04/2023,247,247,Chambre Double Côté Nord avec Douche,,Hotel des Pyrénées,Font-Romeu,,14
+1691418850-1019,27/03/2023,09/04/2023,12/04/2023,710,710,Chambre Double Collection,,Hôtel La Casa Pairal,Collioure,,14
+1691418850-1020,27/03/2023,09/04/2023,12/04/2023,980,980,Chambre Double Confort,,Domaine Riberach,Bélesta,,14
+1691418850-1021,27/03/2023,09/04/2023,12/04/2023,186,177,Chambre Double,,B&B HOTEL Perpignan Sud Marché International,Perpignan,,14
+1691418850-1022,27/03/2023,09/04/2023,12/04/2023,397,397,Chambre Double avec Balcon - Vue sur Pinède,,Grand Hotel Du Golfe,Argelès-sur-Mer,,14
+1691418850-1023,27/03/2023,09/04/2023,12/04/2023,184,184,Chambre Double - Vue sur Piscine,,Le Roussillon,Amélie-les-Bains-Palalda,,14
+1691418850-1024,27/03/2023,09/04/2023,12/04/2023,502,502,Chambre Double Deluxe - Vue sur Mer,,Les Jardins Du Cèdre,Port-Vendres,,14
+1691418850-1025,27/03/2023,09/04/2023,12/04/2023,126,126,Studio avec Terrasse,,"Hébergements à La Rive, Accueil ouvert tous les jours jusqu'à 20h00 dernier délai, depuis 30 ans ! Réserver ici svp ! Merci ! Aucun règlement à distance accepté, Paiement par CB, Espèces, Chèque ou Chèques-Vacances impérativement à la remise des clefs !",Amélie-les-Bains-Palalda,,14
+1691418850-1026,27/03/2023,09/04/2023,12/04/2023,153,153,Chambre Triple,,Ibis Budget Perpignan Sud,Perpignan,,14
+1691418850-1027,27/03/2023,09/04/2023,12/04/2023,242,242,Chambre Double Confort,,"The Originals City, Hôtel Les Dômes, Perpignan Sud Saleilles",Perpignan,,14
+1691418850-1028,27/03/2023,09/04/2023,12/04/2023,108,108,Chambre Double Classique avec Lavabo et Toilettes,,Hotel Le Centre,Le Boulou,,14
+1691418850-1029,27/03/2023,09/04/2023,12/04/2023,167,167,Chambre Lits Jumeaux Économique,,L'Oree du Bois,Font-Romeu,,14
+1691418850-1030,27/03/2023,09/04/2023,12/04/2023,235,235,Chambre Double Standard,,Hôtel De La Loge,Perpignan,,14
+1691418850-1031,27/03/2023,09/04/2023,12/04/2023,486,486,Chambre Familiale avec Balcon - Vue sur Mer,,Hotel La Vigie - Face à la mer,Cerbère,,14
+1691418850-1032,27/03/2023,09/04/2023,12/04/2023,195,195,Chambre Double,,Hotel les Glycines,Prades,,14
+1691418850-1033,27/03/2023,09/04/2023,12/04/2023,208,208,Chambre Double,,Hotel de la Plage - Barcares,Le Barcarès,,14
+1691418850-1034,27/03/2023,09/04/2023,12/04/2023,217,217,Chambre Double,,Hotel Celisol Cerdagne,Bourg-Madame,,14
+1691418850-1035,27/03/2023,09/04/2023,12/04/2023,174,174,Chambre Double,,HOTEL LE PESCADOU,"Argeles Plage, Argelès-sur-Mer",,14
+1691418850-1036,27/03/2023,09/04/2023,12/04/2023,273,273,Chambre Double ou Lits Jumeaux Standard,,Hotel Le Clos Cerdan,Mont-Louis,,14
+1691418850-1037,27/03/2023,09/04/2023,12/04/2023,255,255,Chambre Standard avec Balcon,,Hotel Princess,Vernet-les-Bains,,14
+1691418850-1038,27/03/2023,09/04/2023,12/04/2023,129,129,Chambre Double,,Première Classe Perpignan Nord,Rivesaltes,,14
+1691418850-1039,27/03/2023,09/04/2023,12/04/2023,667,535,Chambre Deluxe,,Villa Duflot Hôtel & Spa Perpignan,Perpignan,,14
+1691418850-1040,27/03/2023,09/04/2023,12/04/2023,267,267,Chambre Double Standard,,Nyx Boutique Hotel,Perpignan,,14
+1691418850-1041,27/03/2023,09/04/2023,12/04/2023,438,438,Chambre Double avec Terrasse,,Hotel Le Mas Trilles,Céret,,14
+1691418850-1042,27/03/2023,09/04/2023,12/04/2023,185,185,Chambre Double ou Lits Jumeaux - Accessible aux Personnes à Mobilité Réduite,,Hôtel Restaurant Mas del Gall,Castelnou,,14
+1691418850-1043,27/03/2023,09/04/2023,12/04/2023,247,247,Chambre Double Côté Nord avec Douche,,Hotel des Pyrénées,Font-Romeu,,14
+1691418850-1044,27/03/2023,09/04/2023,12/04/2023,710,710,Chambre Double Collection,,Hôtel La Casa Pairal,Collioure,,14
+1691418850-1045,27/03/2023,09/04/2023,12/04/2023,980,980,Chambre Double Confort,,Domaine Riberach,Bélesta,,14
+1691418850-1046,27/03/2023,09/04/2023,12/04/2023,186,177,Chambre Double,,B&B HOTEL Perpignan Sud Marché International,Perpignan,,14
+1691418850-1047,27/03/2023,09/04/2023,12/04/2023,397,397,Chambre Double avec Balcon - Vue sur Pinède,,Grand Hotel Du Golfe,Argelès-sur-Mer,,14
+1691418850-1048,27/03/2023,09/04/2023,12/04/2023,184,184,Chambre Double - Vue sur Piscine,,Le Roussillon,Amélie-les-Bains-Palalda,,14
+1691418850-1049,27/03/2023,09/04/2023,12/04/2023,502,502,Chambre Double Deluxe - Vue sur Mer,,Les Jardins Du Cèdre,Port-Vendres,,14
+1691418850-1050,27/03/2023,09/04/2023,12/04/2023,126,126,Studio avec Terrasse,,"Hébergements à La Rive, Accueil ouvert tous les jours jusqu'à 20h00 dernier délai, depuis 30 ans ! Réserver ici svp ! Merci ! Aucun règlement à distance accepté, Paiement par CB, Espèces, Chèque ou Chèques-Vacances impérativement à la remise des clefs !",Amélie-les-Bains-Palalda,,14
+1691418850-1051,27/03/2023,09/04/2023,12/04/2023,153,153,Chambre Triple,,Ibis Budget Perpignan Sud,Perpignan,,14
+1691418850-1052,27/03/2023,09/04/2023,12/04/2023,242,242,Chambre Double Confort,,"The Originals City, Hôtel Les Dômes, Perpignan Sud Saleilles",Perpignan,,14
+1691418850-1053,27/03/2023,09/04/2023,12/04/2023,108,108,Chambre Double Classique avec Lavabo et Toilettes,,Hotel Le Centre,Le Boulou,,14
+1691418850-1054,27/03/2023,09/04/2023,12/04/2023,167,167,Chambre Lits Jumeaux Économique,,L'Oree du Bois,Font-Romeu,,14
+1691418850-1055,27/03/2023,09/04/2023,12/04/2023,235,235,Chambre Double Standard,,Hôtel De La Loge,Perpignan,,14
+1691418850-1056,27/03/2023,09/04/2023,12/04/2023,486,486,Chambre Familiale avec Balcon - Vue sur Mer,,Hotel La Vigie - Face à la mer,Cerbère,,14
+1691418850-1057,27/03/2023,09/04/2023,12/04/2023,195,195,Chambre Double,,Hotel les Glycines,Prades,,14
+1691418850-1058,27/03/2023,09/04/2023,12/04/2023,208,208,Chambre Double,,Hotel de la Plage - Barcares,Le Barcarès,,14
+1691418850-1059,27/03/2023,09/04/2023,12/04/2023,217,217,Chambre Double,,Hotel Celisol Cerdagne,Bourg-Madame,,14
+1691418850-1060,27/03/2023,09/04/2023,12/04/2023,174,174,Chambre Double,,HOTEL LE PESCADOU,"Argeles Plage, Argelès-sur-Mer",,14
+1691418850-1061,27/03/2023,09/04/2023,12/04/2023,273,273,Chambre Double ou Lits Jumeaux Standard,,Hotel Le Clos Cerdan,Mont-Louis,,14
+1691418850-1062,27/03/2023,09/04/2023,12/04/2023,255,255,Chambre Standard avec Balcon,,Hotel Princess,Vernet-les-Bains,,14
+1691418850-1063,27/03/2023,09/04/2023,12/04/2023,129,129,Chambre Double,,Première Classe Perpignan Nord,Rivesaltes,,14
+1691418850-1064,27/03/2023,09/04/2023,12/04/2023,667,535,Chambre Deluxe,,Villa Duflot Hôtel & Spa Perpignan,Perpignan,,14
+1691418850-1065,27/03/2023,09/04/2023,12/04/2023,267,267,Chambre Double Standard,,Nyx Boutique Hotel,Perpignan,,14
+1691418850-1066,27/03/2023,09/04/2023,12/04/2023,438,438,Chambre Double avec Terrasse,,Hotel Le Mas Trilles,Céret,,14
+1691418850-1067,27/03/2023,09/04/2023,12/04/2023,185,185,Chambre Double ou Lits Jumeaux - Accessible aux Personnes à Mobilité Réduite,,Hôtel Restaurant Mas del Gall,Castelnou,,14
+1691418850-1068,27/03/2023,09/04/2023,12/04/2023,247,247,Chambre Double Côté Nord avec Douche,,Hotel des Pyrénées,Font-Romeu,,14
+1691418850-1069,27/03/2023,09/04/2023,12/04/2023,710,710,Chambre Double Collection,,Hôtel La Casa Pairal,Collioure,,14
+1691418850-1070,27/03/2023,09/04/2023,12/04/2023,980,980,Chambre Double Confort,,Domaine Riberach,Bélesta,,14
+1691418850-1071,27/03/2023,09/04/2023,12/04/2023,186,177,Chambre Double,,B&B HOTEL Perpignan Sud Marché International,Perpignan,,14
+1691418850-1072,27/03/2023,09/04/2023,12/04/2023,397,397,Chambre Double avec Balcon - Vue sur Pinède,,Grand Hotel Du Golfe,Argelès-sur-Mer,,14
+1691418850-1073,27/03/2023,09/04/2023,12/04/2023,184,184,Chambre Double - Vue sur Piscine,,Le Roussillon,Amélie-les-Bains-Palalda,,14
+1691418850-1074,27/03/2023,09/04/2023,12/04/2023,502,502,Chambre Double Deluxe - Vue sur Mer,,Les Jardins Du Cèdre,Port-Vendres,,14
+1691418850-1075,27/03/2023,09/04/2023,12/04/2023,126,126,Studio avec Terrasse,,"Hébergements à La Rive, Accueil ouvert tous les jours jusqu'à 20h00 dernier délai, depuis 30 ans ! Réserver ici svp ! Merci ! Aucun règlement à distance accepté, Paiement par CB, Espèces, Chèque ou Chèques-Vacances impérativement à la remise des clefs !",Amélie-les-Bains-Palalda,,14
+1691418850-1076,27/03/2023,09/04/2023,12/04/2023,153,153,Chambre Triple,,Ibis Budget Perpignan Sud,Perpignan,,14
+1691418850-1077,27/03/2023,09/04/2023,12/04/2023,242,242,Chambre Double Confort,,"The Originals City, Hôtel Les Dômes, Perpignan Sud Saleilles",Perpignan,,14
+1691418850-1078,27/03/2023,09/04/2023,12/04/2023,301,301,Chambre Triple Classique,,Hôtel Le Méditerranée,Lourdes,,14
+1691418850-1079,27/03/2023,09/04/2023,12/04/2023,278,256,Chambre Double ou Lits Jumeaux,,Hôtel Paradis,Lourdes,,14
+1691418850-1080,27/03/2023,09/04/2023,12/04/2023,328,328,Chambre Double,,Hôtel Eliseo,Lourdes,,14
+1691418850-1081,27/03/2023,09/04/2023,12/04/2023,174,174,Chambre Double ou Lits Jumeaux,,Hôtel Alliance,Lourdes,,14
+1691418850-1082,27/03/2023,09/04/2023,12/04/2023,310,310,Chambre Lits Jumeaux,,Hôtel Alba,Lourdes,,14
+1691418850-1083,27/03/2023,09/04/2023,12/04/2023,230,230,Chambre Double,,Nex Hôtel,Tarbes,,14
+1691418850-1084,27/03/2023,09/04/2023,12/04/2023,159,159,Chambre Lits Jumeaux,,Hôtel La Source,Lourdes,,14
+1691418850-1085,27/03/2023,09/04/2023,12/04/2023,194,194,Chambre Double Standard,,Le Nex2,Tarbes,,14
+1691418850-1086,27/03/2023,09/04/2023,12/04/2023,174,174,Offre Spéciale - Chambre Double ou Lits Jumeaux,,Hôtel Angelic,Lourdes,,14
+1691418850-1087,27/03/2023,09/04/2023,12/04/2023,365,365,Chambre Lits Jumeaux Exécutive,,Le Rex Hôtel,Tarbes,,14
+1691418850-1088,27/03/2023,09/04/2023,12/04/2023,291,291,Chambre Double Standard,,Grand Hôtel de France,Pierrefitte-Nestalas,,14
+1691418850-1089,27/03/2023,09/04/2023,12/04/2023,189,189,Chambre Double Confort avec Douche,,Hôtel Saint Etienne,Lourdes,,14
+1691418850-1090,27/03/2023,09/04/2023,12/04/2023,183,183,Chambre Lits Jumeaux,,L'Auberge Everhotel de Tarbes-Ibos,Tarbes,,14
+1691418850-1091,27/03/2023,09/04/2023,12/04/2023,149,149,Chambre Double avec Douche,,Hôtel Kennedy Parc des Expositions,Tarbes,,14
+1691418850-1092,27/03/2023,09/04/2023,12/04/2023,178,178,Chambre Lits Jumeaux - Vue sur Patio,,Hôtel Notre Dame de la Sarte,Lourdes,,14
+1691418850-1093,27/03/2023,09/04/2023,12/04/2023,298,298,Chambre Double Confort,,Hôtel Roissy,Lourdes,,14
+1691418850-1094,27/03/2023,09/04/2023,12/04/2023,155,155,Chambre Lits Jumeaux,,Hôtel Lutetia,Lourdes,,14
+1691418850-1095,27/03/2023,09/04/2023,12/04/2023,223,223,Chambre Double,,Hôtel Le Picors,Aucun,,14
+1691418850-1096,27/03/2023,09/04/2023,12/04/2023,496,496,Chambre Double Supérieure,,Grand Hôtel Gallia & Londres Spa NUXE,Lourdes,,14
+1691418850-1097,27/03/2023,09/04/2023,12/04/2023,375,338,Chambre Double Standard,,"The Originals City, Hôtel Astoria Vatican, Lourdes (Inter-Hotel)",Lourdes,,14
+1691418850-1098,27/03/2023,09/04/2023,12/04/2023,319,319,Chambre Double Standard,,Helgon Hotel - Lourdes Pyrénées,Lourdes,,14
+1691418850-1099,27/03/2023,09/04/2023,12/04/2023,219,219,Chambre Double,,Hôtel Esplanade Eden,Lourdes,,14
+1691418850-1100,27/03/2023,09/04/2023,12/04/2023,320,320,Chambre Quadruple - Vue sur Jardin,,Hôtel Montfort,Lourdes,,14
+1691418850-1101,27/03/2023,09/04/2023,12/04/2023,140,140,Chambre Double,,Hôtel Croix des Nordistes,Lourdes,,14
+1691418850-1102,27/03/2023,09/04/2023,12/04/2023,311,311,Chambre Double Confort Grand Lit ou Twin,,Best Western Beauséjour,Lourdes,,14
+1691418850-1103,27/03/2023,09/04/2023,12/04/2023,301,301,Chambre Triple Classique,,Hôtel Le Méditerranée,Lourdes,,14
+1691418850-1104,27/03/2023,09/04/2023,12/04/2023,278,256,Chambre Double ou Lits Jumeaux,,Hôtel Paradis,Lourdes,,14
+1691418850-1105,27/03/2023,09/04/2023,12/04/2023,328,328,Chambre Double,,Hôtel Eliseo,Lourdes,,14
+1691418850-1106,27/03/2023,09/04/2023,12/04/2023,174,174,Chambre Double ou Lits Jumeaux,,Hôtel Alliance,Lourdes,,14
+1691418850-1107,27/03/2023,09/04/2023,12/04/2023,310,310,Chambre Lits Jumeaux,,Hôtel Alba,Lourdes,,14
+1691418850-1108,27/03/2023,09/04/2023,12/04/2023,230,230,Chambre Double,,Nex Hôtel,Tarbes,,14
+1691418850-1109,27/03/2023,09/04/2023,12/04/2023,159,159,Chambre Lits Jumeaux,,Hôtel La Source,Lourdes,,14
+1691418850-1110,27/03/2023,09/04/2023,12/04/2023,194,194,Chambre Double Standard,,Le Nex2,Tarbes,,14
+1691418850-1111,27/03/2023,09/04/2023,12/04/2023,174,174,Offre Spéciale - Chambre Double ou Lits Jumeaux,,Hôtel Angelic,Lourdes,,14
+1691418850-1112,27/03/2023,09/04/2023,12/04/2023,365,365,Chambre Lits Jumeaux Exécutive,,Le Rex Hôtel,Tarbes,,14
+1691418850-1113,27/03/2023,09/04/2023,12/04/2023,291,291,Chambre Double Standard,,Grand Hôtel de France,Pierrefitte-Nestalas,,14
+1691418850-1114,27/03/2023,09/04/2023,12/04/2023,189,189,Chambre Double Confort avec Douche,,Hôtel Saint Etienne,Lourdes,,14
+1691418850-1115,27/03/2023,09/04/2023,12/04/2023,183,183,Chambre Lits Jumeaux,,L'Auberge Everhotel de Tarbes-Ibos,Tarbes,,14
+1691418850-1116,27/03/2023,09/04/2023,12/04/2023,149,149,Chambre Double avec Douche,,Hôtel Kennedy Parc des Expositions,Tarbes,,14
+1691418850-1117,27/03/2023,09/04/2023,12/04/2023,178,178,Chambre Lits Jumeaux - Vue sur Patio,,Hôtel Notre Dame de la Sarte,Lourdes,,14
+1691418850-1118,27/03/2023,09/04/2023,12/04/2023,298,298,Chambre Double Confort,,Hôtel Roissy,Lourdes,,14
+1691418850-1119,27/03/2023,09/04/2023,12/04/2023,155,155,Chambre Lits Jumeaux,,Hôtel Lutetia,Lourdes,,14
+1691418850-1120,27/03/2023,09/04/2023,12/04/2023,223,223,Chambre Double,,Hôtel Le Picors,Aucun,,14
+1691418850-1121,27/03/2023,09/04/2023,12/04/2023,496,496,Chambre Double Supérieure,,Grand Hôtel Gallia & Londres Spa NUXE,Lourdes,,14
+1691418850-1122,27/03/2023,09/04/2023,12/04/2023,375,338,Chambre Double Standard,,"The Originals City, Hôtel Astoria Vatican, Lourdes (Inter-Hotel)",Lourdes,,14
+1691418850-1123,27/03/2023,09/04/2023,12/04/2023,319,319,Chambre Double Standard,,Helgon Hotel - Lourdes Pyrénées,Lourdes,,14
+1691418850-1124,27/03/2023,09/04/2023,12/04/2023,219,219,Chambre Double,,Hôtel Esplanade Eden,Lourdes,,14
+1691418850-1125,27/03/2023,09/04/2023,12/04/2023,320,320,Chambre Quadruple - Vue sur Jardin,,Hôtel Montfort,Lourdes,,14
+1691418850-1126,27/03/2023,09/04/2023,12/04/2023,140,140,Chambre Double,,Hôtel Croix des Nordistes,Lourdes,,14
+1691418850-1127,27/03/2023,09/04/2023,12/04/2023,311,311,Chambre Double Confort Grand Lit ou Twin,,Best Western Beauséjour,Lourdes,,14
+1691418850-1128,27/03/2023,09/04/2023,12/04/2023,301,301,Chambre Triple Classique,,Hôtel Le Méditerranée,Lourdes,,14
+1691418850-1129,27/03/2023,09/04/2023,12/04/2023,278,256,Chambre Double ou Lits Jumeaux,,Hôtel Paradis,Lourdes,,14
+1691418850-1130,27/03/2023,09/04/2023,12/04/2023,328,328,Chambre Double,,Hôtel Eliseo,Lourdes,,14
+1691418850-1131,27/03/2023,09/04/2023,12/04/2023,174,174,Chambre Double ou Lits Jumeaux,,Hôtel Alliance,Lourdes,,14
+1691418850-1132,27/03/2023,09/04/2023,12/04/2023,310,310,Chambre Lits Jumeaux,,Hôtel Alba,Lourdes,,14
+1691418850-1133,27/03/2023,09/04/2023,12/04/2023,230,230,Chambre Double,,Nex Hôtel,Tarbes,,14
+1691418850-1134,27/03/2023,09/04/2023,12/04/2023,159,159,Chambre Lits Jumeaux,,Hôtel La Source,Lourdes,,14
+1691418850-1135,27/03/2023,09/04/2023,12/04/2023,194,194,Chambre Double Standard,,Le Nex2,Tarbes,,14
+1691418850-1136,27/03/2023,09/04/2023,12/04/2023,174,174,Offre Spéciale - Chambre Double ou Lits Jumeaux,,Hôtel Angelic,Lourdes,,14
+1691418850-1137,27/03/2023,09/04/2023,12/04/2023,365,365,Chambre Lits Jumeaux Exécutive,,Le Rex Hôtel,Tarbes,,14
+1691418850-1138,27/03/2023,09/04/2023,12/04/2023,291,291,Chambre Double Standard,,Grand Hôtel de France,Pierrefitte-Nestalas,,14
+1691418850-1139,27/03/2023,09/04/2023,12/04/2023,189,189,Chambre Double Confort avec Douche,,Hôtel Saint Etienne,Lourdes,,14
+1691418850-1140,27/03/2023,09/04/2023,12/04/2023,183,183,Chambre Lits Jumeaux,,L'Auberge Everhotel de Tarbes-Ibos,Tarbes,,14
+1691418850-1141,27/03/2023,09/04/2023,12/04/2023,149,149,Chambre Double avec Douche,,Hôtel Kennedy Parc des Expositions,Tarbes,,14
+1691418850-1142,27/03/2023,09/04/2023,12/04/2023,178,178,Chambre Lits Jumeaux - Vue sur Patio,,Hôtel Notre Dame de la Sarte,Lourdes,,14
+1691418850-1143,27/03/2023,09/04/2023,12/04/2023,298,298,Chambre Double Confort,,Hôtel Roissy,Lourdes,,14
+1691418850-1144,27/03/2023,09/04/2023,12/04/2023,155,155,Chambre Lits Jumeaux,,Hôtel Lutetia,Lourdes,,14
+1691418850-1145,27/03/2023,09/04/2023,12/04/2023,223,223,Chambre Double,,Hôtel Le Picors,Aucun,,14
+1691418850-1146,27/03/2023,09/04/2023,12/04/2023,496,496,Chambre Double Supérieure,,Grand Hôtel Gallia & Londres Spa NUXE,Lourdes,,14
+1691418850-1147,27/03/2023,09/04/2023,12/04/2023,375,338,Chambre Double Standard,,"The Originals City, Hôtel Astoria Vatican, Lourdes (Inter-Hotel)",Lourdes,,14
+1691418850-1148,27/03/2023,09/04/2023,12/04/2023,319,319,Chambre Double Standard,,Helgon Hotel - Lourdes Pyrénées,Lourdes,,14
+1691418850-1149,27/03/2023,09/04/2023,12/04/2023,219,219,Chambre Double,,Hôtel Esplanade Eden,Lourdes,,14
+1691418850-1150,27/03/2023,09/04/2023,12/04/2023,320,320,Chambre Quadruple - Vue sur Jardin,,Hôtel Montfort,Lourdes,,14
+1691418850-1151,27/03/2023,09/04/2023,12/04/2023,140,140,Chambre Double,,Hôtel Croix des Nordistes,Lourdes,,14
+1691418850-1152,27/03/2023,09/04/2023,12/04/2023,311,311,Chambre Double Confort Grand Lit ou Twin,,Best Western Beauséjour,Lourdes,,14
+1691418850-1153,27/03/2023,09/04/2023,12/04/2023,301,301,Chambre Triple Classique,,Hôtel Le Méditerranée,Lourdes,,14
+1691418850-1154,27/03/2023,09/04/2023,12/04/2023,278,256,Chambre Double ou Lits Jumeaux,,Hôtel Paradis,Lourdes,,14
+1691418850-1155,27/03/2023,09/04/2023,12/04/2023,328,328,Chambre Double,,Hôtel Eliseo,Lourdes,,14
+1691418850-1156,27/03/2023,09/04/2023,12/04/2023,174,174,Chambre Double ou Lits Jumeaux,,Hôtel Alliance,Lourdes,,14
+1691418850-1157,27/03/2023,09/04/2023,12/04/2023,310,310,Chambre Lits Jumeaux,,Hôtel Alba,Lourdes,,14
+1691418850-1158,27/03/2023,09/04/2023,12/04/2023,230,230,Chambre Double,,Nex Hôtel,Tarbes,,14
+1691418850-1159,27/03/2023,09/04/2023,12/04/2023,159,159,Chambre Lits Jumeaux,,Hôtel La Source,Lourdes,,14
+1691418850-1160,27/03/2023,09/04/2023,12/04/2023,194,194,Chambre Double Standard,,Le Nex2,Tarbes,,14
+1691418850-1161,27/03/2023,09/04/2023,12/04/2023,174,174,Offre Spéciale - Chambre Double ou Lits Jumeaux,,Hôtel Angelic,Lourdes,,14
+1691418850-1162,27/03/2023,09/04/2023,12/04/2023,365,365,Chambre Lits Jumeaux Exécutive,,Le Rex Hôtel,Tarbes,,14
+1691418850-1163,27/03/2023,09/04/2023,12/04/2023,291,291,Chambre Double Standard,,Grand Hôtel de France,Pierrefitte-Nestalas,,14
+1691418850-1164,27/03/2023,09/04/2023,12/04/2023,189,189,Chambre Double Confort avec Douche,,Hôtel Saint Etienne,Lourdes,,14
+1691418850-1165,27/03/2023,09/04/2023,12/04/2023,183,183,Chambre Lits Jumeaux,,L'Auberge Everhotel de Tarbes-Ibos,Tarbes,,14
+1691418850-1166,27/03/2023,09/04/2023,12/04/2023,149,149,Chambre Double avec Douche,,Hôtel Kennedy Parc des Expositions,Tarbes,,14
+1691418850-1167,27/03/2023,09/04/2023,12/04/2023,178,178,Chambre Lits Jumeaux - Vue sur Patio,,Hôtel Notre Dame de la Sarte,Lourdes,,14
+1691418850-1168,27/03/2023,09/04/2023,12/04/2023,298,298,Chambre Double Confort,,Hôtel Roissy,Lourdes,,14
+1691418850-1169,27/03/2023,09/04/2023,12/04/2023,155,155,Chambre Lits Jumeaux,,Hôtel Lutetia,Lourdes,,14
+1691418850-1170,27/03/2023,09/04/2023,12/04/2023,223,223,Chambre Double,,Hôtel Le Picors,Aucun,,14
+1691418850-1171,27/03/2023,09/04/2023,12/04/2023,496,496,Chambre Double Supérieure,,Grand Hôtel Gallia & Londres Spa NUXE,Lourdes,,14
+1691418850-1172,27/03/2023,09/04/2023,12/04/2023,375,338,Chambre Double Standard,,"The Originals City, Hôtel Astoria Vatican, Lourdes (Inter-Hotel)",Lourdes,,14
+1691418850-1173,27/03/2023,09/04/2023,12/04/2023,319,319,Chambre Double Standard,,Helgon Hotel - Lourdes Pyrénées,Lourdes,,14
+1691418850-1174,27/03/2023,09/04/2023,12/04/2023,219,219,Chambre Double,,Hôtel Esplanade Eden,Lourdes,,14
+1691418850-1175,27/03/2023,09/04/2023,12/04/2023,320,320,Chambre Quadruple - Vue sur Jardin,,Hôtel Montfort,Lourdes,,14
+1691418850-1176,27/03/2023,09/04/2023,12/04/2023,140,140,Chambre Double,,Hôtel Croix des Nordistes,Lourdes,,14
+1691418850-1177,27/03/2023,09/04/2023,12/04/2023,311,311,Chambre Double Confort Grand Lit ou Twin,,Best Western Beauséjour,Lourdes,,14
+1691418850-1178,27/03/2023,09/04/2023,12/04/2023,301,301,Chambre Triple Classique,,Hôtel Le Méditerranée,Lourdes,,14
+1691418850-1179,27/03/2023,09/04/2023,12/04/2023,278,256,Chambre Double ou Lits Jumeaux,,Hôtel Paradis,Lourdes,,14
+1691418850-1180,27/03/2023,09/04/2023,12/04/2023,328,328,Chambre Double,,Hôtel Eliseo,Lourdes,,14
+1691418850-1181,27/03/2023,09/04/2023,12/04/2023,174,174,Chambre Double ou Lits Jumeaux,,Hôtel Alliance,Lourdes,,14
+1691418850-1182,27/03/2023,09/04/2023,12/04/2023,310,310,Chambre Lits Jumeaux,,Hôtel Alba,Lourdes,,14
+1691418850-1183,27/03/2023,09/04/2023,12/04/2023,230,230,Chambre Double,,Nex Hôtel,Tarbes,,14
+1691418850-1184,27/03/2023,09/04/2023,12/04/2023,159,159,Chambre Lits Jumeaux,,Hôtel La Source,Lourdes,,14
+1691418850-1185,27/03/2023,09/04/2023,12/04/2023,194,194,Chambre Double Standard,,Le Nex2,Tarbes,,14
+1691418850-1186,27/03/2023,09/04/2023,12/04/2023,174,174,Offre Spéciale - Chambre Double ou Lits Jumeaux,,Hôtel Angelic,Lourdes,,14
+1691418850-1187,27/03/2023,09/04/2023,12/04/2023,365,365,Chambre Lits Jumeaux Exécutive,,Le Rex Hôtel,Tarbes,,14
+1691418850-1188,27/03/2023,09/04/2023,12/04/2023,291,291,Chambre Double Standard,,Grand Hôtel de France,Pierrefitte-Nestalas,,14
+1691418850-1189,27/03/2023,09/04/2023,12/04/2023,189,189,Chambre Double Confort avec Douche,,Hôtel Saint Etienne,Lourdes,,14
+1691418850-1190,27/03/2023,09/04/2023,12/04/2023,183,183,Chambre Lits Jumeaux,,L'Auberge Everhotel de Tarbes-Ibos,Tarbes,,14
+1691418850-1191,27/03/2023,09/04/2023,12/04/2023,149,149,Chambre Double avec Douche,,Hôtel Kennedy Parc des Expositions,Tarbes,,14
+1691418850-1192,27/03/2023,09/04/2023,12/04/2023,178,178,Chambre Lits Jumeaux - Vue sur Patio,,Hôtel Notre Dame de la Sarte,Lourdes,,14
+1691418850-1193,27/03/2023,09/04/2023,12/04/2023,298,298,Chambre Double Confort,,Hôtel Roissy,Lourdes,,14
+1691418850-1194,27/03/2023,09/04/2023,12/04/2023,155,155,Chambre Lits Jumeaux,,Hôtel Lutetia,Lourdes,,14
+1691418850-1195,27/03/2023,09/04/2023,12/04/2023,223,223,Chambre Double,,Hôtel Le Picors,Aucun,,14
+1691418850-1196,27/03/2023,09/04/2023,12/04/2023,496,496,Chambre Double Supérieure,,Grand Hôtel Gallia & Londres Spa NUXE,Lourdes,,14
+1691418850-1197,27/03/2023,09/04/2023,12/04/2023,375,338,Chambre Double Standard,,"The Originals City, Hôtel Astoria Vatican, Lourdes (Inter-Hotel)",Lourdes,,14
+1691418850-1198,27/03/2023,09/04/2023,12/04/2023,319,319,Chambre Double Standard,,Helgon Hotel - Lourdes Pyrénées,Lourdes,,14
+1691418850-1199,27/03/2023,09/04/2023,12/04/2023,219,219,Chambre Double,,Hôtel Esplanade Eden,Lourdes,,14
+1691418850-1200,27/03/2023,09/04/2023,12/04/2023,320,320,Chambre Quadruple - Vue sur Jardin,,Hôtel Montfort,Lourdes,,14
+1691418850-1201,27/03/2023,09/04/2023,12/04/2023,140,140,Chambre Double,,Hôtel Croix des Nordistes,Lourdes,,14
+1691418850-1202,27/03/2023,09/04/2023,12/04/2023,311,311,Chambre Double Confort Grand Lit ou Twin,,Best Western Beauséjour,Lourdes,,14

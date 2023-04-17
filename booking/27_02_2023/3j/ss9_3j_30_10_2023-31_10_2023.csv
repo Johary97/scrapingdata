@@ -1,0 +1,1232 @@
+web-scraper-order,date_price,date_debut,date_fin,prix_init,prix_actuel,typologie,n_offre,nom,localite,date_debut-jour,Nb semaines
+,02/03/2023,30/10/2023,02/11/2023,1155,1155,Chambre Double Supérieure,,Flocons de Sel,Megève,,44
+,02/03/2023,30/10/2023,02/11/2023,344,344,Chambre Lits Jumeaux Standard,,ibis Styles Albertville,Albertville,,44
+,02/03/2023,30/10/2023,02/11/2023,606,606,Chambre Double Confort,,Coeur de Megève,Megève,,44
+,02/03/2023,30/10/2023,02/11/2023,371,371,Chambre Double Classique avec Canapé-Lit,,Novotel Megève Mont-Blanc,Megève,,44
+,02/03/2023,30/10/2023,02/11/2023,279,279,Chambre Double,,Albert 1er,Albertville,,44
+,02/03/2023,30/10/2023,02/11/2023,1383,1383,Chambre Double Club,,Les Fermes de Marie,Megève,,44
+,02/03/2023,30/10/2023,02/11/2023,187,187,Chambre Triple,,ibis budget Albertville,Gilly-sur-Isère,,44
+,02/03/2023,30/10/2023,02/11/2023,271,271,Chambre Double - Accessible aux Personnes à Mobilité Réduite ,,Brit Hotel Florimont,Saint-Ferréol,,44
+,02/03/2023,30/10/2023,02/11/2023,384,384,Chambre Double - Vue sur Montagnes - 4,,Le Coin Savoyard,Combloux,,44
+,02/03/2023,30/10/2023,02/11/2023,236,236,Chambre Double Standard,,"Hôtel de Genève , Faverges-Seythenex 74210, Haute Savoie",Faverges,,44
+,02/03/2023,30/10/2023,02/11/2023,299,299,Petite Chambre Double ou Lits Jumeaux avec Balcon,,Hotel Beauregard,La Clusaz,,44
+,02/03/2023,30/10/2023,02/11/2023,188,188,Chambre Double Économique,,Hotel La Montagne,La Clusaz,,44
+,02/03/2023,30/10/2023,02/11/2023,234,234,Chambre Double Économique,,Hotel Christiania,La Clusaz,,44
+,02/03/2023,30/10/2023,02/11/2023,221,221,Chambre Double Standard,,Les Airelles,La Clusaz,,44
+,02/03/2023,30/10/2023,02/11/2023,554,554,Chambre Double ou Lits Jumeaux,,Hôtel Restaurant La Ferme de Cupelin,Saint-Gervais-les-Bains,,44
+,02/03/2023,30/10/2023,02/11/2023,480,480,Chambre Double Supérieure,,Les Roches Fleuries,Cordon,,44
+,02/03/2023,30/10/2023,02/11/2023,242,242,Chambre Double,,Hôtel Les Dômes de Miage,Saint-Gervais-les-Bains,,44
+,02/03/2023,30/10/2023,02/11/2023,394,394,Chambre Lits Jumeaux avec Accès Spa,,Hôtel Restaurant La Tourmaline,Aime-La-Plagne,,44
+,02/03/2023,30/10/2023,02/11/2023,344,344,Chambre Double Supérieure,,Le Saint Gervais Hotel & Spa Handwritten Collection,Saint-Gervais-les-Bains,,44
+,02/03/2023,30/10/2023,02/11/2023,672,672,Petite Chambre Double,,Coeur des Neiges,Saint-Gervais-les-Bains,,44
+,02/03/2023,30/10/2023,02/11/2023,326,326,Chambre Double,,Le Charvet,Cordon,,44
+,02/03/2023,30/10/2023,02/11/2023,473,473,Chambre Double - Versant Nord,,Base Camp Lodge Hotels,Bourg-Saint-Maurice,,44
+,02/03/2023,30/10/2023,02/11/2023,293,293,Chambre Double Standard avec Salle de Bains Privative et Toilettes Communes ,,Hôtel La Petite Auberge,Bourg-Saint-Maurice,,44
+,02/03/2023,30/10/2023,02/11/2023,306,306,Chambre Double avec Salle de Bains Privative,,Hôtel Restaurant Angival - Chambres et Appartement,Bourg-Saint-Maurice,,44
+,02/03/2023,30/10/2023,02/11/2023,213,213,Chambre Lits Jumeaux,,Hotel Terminus,Saint-Gervais-les-Bains,,44
+,02/03/2023,30/10/2023,02/11/2023,261,261,Chambre Double,,Fasthotel Thones,Thônes,,44
+,02/03/2023,30/10/2023,02/11/2023,203,203,Chambre Standard avec 1 Lit Double et 1 Lit Simple,,Ibis Hôtel Sallanches,Sallanches,,44
+,02/03/2023,30/10/2023,02/11/2023,209,209,Chambre Triple avec Lit Superposé,,Ibis Budget Sallanches,Sallanches,,44
+,02/03/2023,30/10/2023,02/11/2023,327,327,Chambre Double ou Lits Jumeaux,,Hotel L'alpin,Landry,,44
+,02/03/2023,30/10/2023,02/11/2023,242,242,Chambre Double,,Hôtel National,Cluses,,44
+,02/03/2023,30/10/2023,02/11/2023,310,310,Chambre Double Standard,,"The Originals City, Hôtel du Faucigny, Cluses Ouest",Scionzier,,44
+,02/03/2023,30/10/2023,02/11/2023,282,282,Chambre Double Confort,,Hôtel 4C,Cluses,,44
+,02/03/2023,30/10/2023,02/11/2023,312,312,Chambre Double Économique,,Le Relais Du Mont Blanc,Magland,,44
+,02/03/2023,30/10/2023,02/11/2023,207,207,Chambre Double,,Hotel Edelweiss,Magland,,44
+,02/03/2023,30/10/2023,02/11/2023,493,493,Chambre Double Supérieure,,La Ferme Du Lac,Thyez,,44
+,02/03/2023,30/10/2023,02/11/2023,478,478,Chambre Double Supérieure avec Douche,,La Croix de Savoie & Spa,Les Carroz d'Arâches,,44
+,02/03/2023,30/10/2023,02/11/2023,348,348,Chambre Lits Jumeaux Standard,,Ibis Styles Sallanches Pays du Mont-Blanc,Sallanches,,44
+,02/03/2023,30/10/2023,02/11/2023,203,203,Chambre Standard avec 1 Lit Double et 1 Lit Simple,,Ibis Hôtel Sallanches,Sallanches,,44
+,02/03/2023,30/10/2023,02/11/2023,571,571,Chambre Double Supérieure (2 Adultes),,"Chalet-Hôtel La Marmotte, La Tapiaz & SPA, The Originals Relais (Hotel-Chalet de Tradition)",Les Gets,,44
+,02/03/2023,30/10/2023,02/11/2023,209,209,Chambre Triple avec Lit Superposé,,Ibis Budget Sallanches,Sallanches,,44
+,02/03/2023,30/10/2023,02/11/2023,469,469,Chambre Double ou Lits Jumeaux Classique Plus,,Chamois d'Or Hotel,Les Gets,,44
+,02/03/2023,30/10/2023,02/11/2023,513,513,Chambre Double Supérieure,,Bellevue,Les Gets,,44
+,02/03/2023,30/10/2023,02/11/2023,435,435,Chambre Lits Jumeaux,,Hotel Igloo,Morzine,,44
+,02/03/2023,30/10/2023,02/11/2023,330,330,Petite Chambre Double,,Hotel Rhodos Morzine,Morzine,,44
+,02/03/2023,30/10/2023,02/11/2023,326,326,Chambre Double,,Le Charvet,Cordon,,44
+,02/03/2023,30/10/2023,02/11/2023,431,431,Chambre Lits Jumeaux Économique,,The Nant,Morzine,,44
+,02/03/2023,30/10/2023,02/11/2023,480,480,Chambre Double Supérieure,,Les Roches Fleuries,Cordon,,44
+,02/03/2023,30/10/2023,02/11/2023,324,324,Chambre Double,,Auberge Les Gorges De La Diosaz,Servoz,,44
+,02/03/2023,30/10/2023,02/11/2023,213,213,Chambre Lits Jumeaux,,Hotel Terminus,Saint-Gervais-les-Bains,,44
+,02/03/2023,30/10/2023,02/11/2023,384,384,Chambre Double - Vue sur Montagnes - 4,,Le Coin Savoyard,Combloux,,44
+,02/03/2023,30/10/2023,02/11/2023,344,344,Chambre Double Supérieure,,Le Saint Gervais Hotel & Spa Handwritten Collection,Saint-Gervais-les-Bains,,44
+,02/03/2023,30/10/2023,02/11/2023,554,554,Chambre Double ou Lits Jumeaux,,Hôtel Restaurant La Ferme de Cupelin,Saint-Gervais-les-Bains,,44
+,02/03/2023,30/10/2023,02/11/2023,672,672,Petite Chambre Double,,Coeur des Neiges,Saint-Gervais-les-Bains,,44
+,02/03/2023,30/10/2023,02/11/2023,606,606,Chambre Double,,Hôtel des Portes du Soleil,Les Crosets,,44
+,02/03/2023,30/10/2023,02/11/2023,520,520,Cottage,,Guest House du Grand Paradis,Champéry,,44
+,02/03/2023,30/10/2023,02/11/2023,397,397,Chambre Double,,Hotel Télécabine,Les Crosets,,44
+,02/03/2023,30/10/2023,02/11/2023,551,551,Chambre Double - Vue sur Hameau ,,Hotel L'Etable,Les Crosets,,44
+,02/03/2023,30/10/2023,02/11/2023,251,251,Chambre Lits Jumeaux Côté Vallée,,Le Saint Antoine,Les Houches,,44
+,02/03/2023,30/10/2023,02/11/2023,238,238,Double Room with One Double Bed or Two Single Beds,,ibis Styles Les Houches Chamonix,Les Houches,,44
+,02/03/2023,30/10/2023,02/11/2023,242,242,Chambre Double,,Hôtel Les Dômes de Miage,Saint-Gervais-les-Bains,,44
+,02/03/2023,30/10/2023,02/11/2023,376,376,Hébergement Économique 2 Personnes,,La Folie Douce Hotels Chamonix,"Chamonix City Centre, Chamonix-Mont-Blanc",,44
+,02/03/2023,30/10/2023,02/11/2023,207,207,Chambre Double ou Lits Jumeaux Standard,,RockyPop Chamonix - Les Houches,Les Houches,,44
+,02/03/2023,30/10/2023,02/11/2023,353,353, Chambre Double ou Lits Jumeaux - Vue sur Ville - 16 m²,,Alpina Eclectic Hotel,"Chamonix City Centre, Chamonix-Mont-Blanc",,44
+,02/03/2023,30/10/2023,02/11/2023,365,365,Chambre Double - Vue sur Montagne,,Plan B Hotel - Living Chamonix,"Chamonix City Centre, Chamonix-Mont-Blanc",,44
+,02/03/2023,30/10/2023,02/11/2023,242,242,Chambre Double,,Hôtel National,Cluses,,44
+,02/03/2023,30/10/2023,02/11/2023,310,310,Chambre Double Standard,,"The Originals City, Hôtel du Faucigny, Cluses Ouest",Scionzier,,44
+,02/03/2023,30/10/2023,02/11/2023,282,282,Chambre Double Confort,,Hôtel 4C,Cluses,,44
+,02/03/2023,30/10/2023,02/11/2023,312,312,Chambre Double Économique,,Le Relais Du Mont Blanc,Magland,,44
+,02/03/2023,30/10/2023,02/11/2023,207,207,Chambre Double,,Hotel Edelweiss,Magland,,44
+,02/03/2023,30/10/2023,02/11/2023,493,493,Chambre Double Supérieure,,La Ferme Du Lac,Thyez,,44
+,02/03/2023,30/10/2023,02/11/2023,478,478,Chambre Double Supérieure avec Douche,,La Croix de Savoie & Spa,Les Carroz d'Arâches,,44
+,02/03/2023,30/10/2023,02/11/2023,348,348,Chambre Lits Jumeaux Standard,,Ibis Styles Sallanches Pays du Mont-Blanc,Sallanches,,44
+,02/03/2023,30/10/2023,02/11/2023,203,203,Chambre Standard avec 1 Lit Double et 1 Lit Simple,,Ibis Hôtel Sallanches,Sallanches,,44
+,02/03/2023,30/10/2023,02/11/2023,571,571,Chambre Double Supérieure (2 Adultes),,"Chalet-Hôtel La Marmotte, La Tapiaz & SPA, The Originals Relais (Hotel-Chalet de Tradition)",Les Gets,,44
+,02/03/2023,30/10/2023,02/11/2023,209,209,Chambre Triple avec Lit Superposé,,Ibis Budget Sallanches,Sallanches,,44
+,02/03/2023,30/10/2023,02/11/2023,469,469,Chambre Double ou Lits Jumeaux Classique Plus,,Chamois d'Or Hotel,Les Gets,,44
+,02/03/2023,30/10/2023,02/11/2023,513,513,Chambre Double Supérieure,,Bellevue,Les Gets,,44
+,02/03/2023,30/10/2023,02/11/2023,435,435,Chambre Lits Jumeaux,,Hotel Igloo,Morzine,,44
+,02/03/2023,30/10/2023,02/11/2023,330,330,Petite Chambre Double,,Hotel Rhodos Morzine,Morzine,,44
+,02/03/2023,30/10/2023,02/11/2023,326,326,Chambre Double,,Le Charvet,Cordon,,44
+,02/03/2023,30/10/2023,02/11/2023,431,431,Chambre Lits Jumeaux Économique,,The Nant,Morzine,,44
+,02/03/2023,30/10/2023,02/11/2023,480,480,Chambre Double Supérieure,,Les Roches Fleuries,Cordon,,44
+,02/03/2023,30/10/2023,02/11/2023,324,324,Chambre Double,,Auberge Les Gorges De La Diosaz,Servoz,,44
+,02/03/2023,30/10/2023,02/11/2023,213,213,Chambre Lits Jumeaux,,Hotel Terminus,Saint-Gervais-les-Bains,,44
+,02/03/2023,30/10/2023,02/11/2023,384,384,Chambre Double - Vue sur Montagnes - 4,,Le Coin Savoyard,Combloux,,44
+,02/03/2023,30/10/2023,02/11/2023,344,344,Chambre Double Supérieure,,Le Saint Gervais Hotel & Spa Handwritten Collection,Saint-Gervais-les-Bains,,44
+,02/03/2023,30/10/2023,02/11/2023,554,554,Chambre Double ou Lits Jumeaux,,Hôtel Restaurant La Ferme de Cupelin,Saint-Gervais-les-Bains,,44
+,02/03/2023,30/10/2023,02/11/2023,672,672,Petite Chambre Double,,Coeur des Neiges,Saint-Gervais-les-Bains,,44
+,02/03/2023,30/10/2023,02/11/2023,606,606,Chambre Double,,Hôtel des Portes du Soleil,Les Crosets,,44
+,02/03/2023,30/10/2023,02/11/2023,520,520,Cottage,,Guest House du Grand Paradis,Champéry,,44
+,02/03/2023,30/10/2023,02/11/2023,397,397,Chambre Double,,Hotel Télécabine,Les Crosets,,44
+,02/03/2023,30/10/2023,02/11/2023,551,551,Chambre Double - Vue sur Hameau ,,Hotel L'Etable,Les Crosets,,44
+,02/03/2023,30/10/2023,02/11/2023,251,251,Chambre Lits Jumeaux Côté Vallée,,Le Saint Antoine,Les Houches,,44
+,02/03/2023,30/10/2023,02/11/2023,238,238,Double Room with One Double Bed or Two Single Beds,,ibis Styles Les Houches Chamonix,Les Houches,,44
+,02/03/2023,30/10/2023,02/11/2023,242,242,Chambre Double,,Hôtel Les Dômes de Miage,Saint-Gervais-les-Bains,,44
+,02/03/2023,30/10/2023,02/11/2023,376,376,Hébergement Économique 2 Personnes,,La Folie Douce Hotels Chamonix,"Chamonix City Centre, Chamonix-Mont-Blanc",,44
+,02/03/2023,30/10/2023,02/11/2023,207,207,Chambre Double ou Lits Jumeaux Standard,,RockyPop Chamonix - Les Houches,Les Houches,,44
+,02/03/2023,30/10/2023,02/11/2023,353,353, Chambre Double ou Lits Jumeaux - Vue sur Ville - 16 m²,,Alpina Eclectic Hotel,"Chamonix City Centre, Chamonix-Mont-Blanc",,44
+,02/03/2023,30/10/2023,02/11/2023,365,365,Chambre Double - Vue sur Montagne,,Plan B Hotel - Living Chamonix,"Chamonix City Centre, Chamonix-Mont-Blanc",,44
+,02/03/2023,30/10/2023,02/11/2023,3007,3007,Chambre Familiale avec Balcon,,HOTEL TURAN,Les Deux Alpes,,44
+,02/03/2023,30/10/2023,02/11/2023,310,310,Chambre Double ou Lits Jumeaux,,The People - Les 2 Alpes,Les Deux Alpes,,44
+,02/03/2023,30/10/2023,02/11/2023,518,518,Chambre Double ou Lits Jumeaux Classique,,Hôtel Grandes Rousses,L'Alpe-d'Huez,,44
+,02/03/2023,30/10/2023,02/11/2023,362,362,Chambre Double Standard,,Madame Vacances Hotel Les Cimes,Vaujany,,44
+,02/03/2023,30/10/2023,02/11/2023,198,198,Chambre Double ou Lits Jumeaux - Vue sur Montagnes,,Le Relais des Ecrins,Saint-Christophe-en-Oisans,,44
+,02/03/2023,30/10/2023,02/11/2023,252,252,Chambre Double ou Lits Jumeaux Confort ,,Hôtel du Musée de l'Eau,Pont-en-Royans,,44
+,02/03/2023,30/10/2023,02/11/2023,478,478,Chambre Double,,Hotel Christiania,Villard-de-Lans,,44
+,02/03/2023,30/10/2023,02/11/2023,266,266,Chambre Double,,Auberge De La Croix Perrin,Lans-en-Vercors,,44
+,02/03/2023,30/10/2023,02/11/2023,206,206,Chambre Lits Jumeaux,,Le Saint Domingue,Die,,44
+,02/03/2023,30/10/2023,02/11/2023,202,202,Chambre Double,,Hotel des Alpes,Die,,44
+,02/03/2023,30/10/2023,02/11/2023,215,215,Chambre Lits Jumeaux Standard,,Hotel Beau Rivage,Pont-en-Royans,,44
+,02/03/2023,30/10/2023,02/11/2023,364,364,Chambre Double Standard,,H85,Chatte,,44
+,02/03/2023,30/10/2023,02/11/2023,244,244,Chambre Lits Jumeaux,,Le CARNOT,Die,,44
+,02/03/2023,30/10/2023,02/11/2023,220,220,Chambre Double,,Auberge le Sabot de Vénus,Méaudre,,44
+,02/03/2023,30/10/2023,02/11/2023,270,270,Chambre Double avec Baignoire,,Brun,Saint-Lattier,,44
+,02/03/2023,30/10/2023,02/11/2023,254,254,Chambre Double ou Triple,,Hôtel Valery,Montélier,,44
+,02/03/2023,30/10/2023,02/11/2023,571,571,Chambre Double Supérieure (2 Adultes),,"Chalet-Hôtel La Marmotte, La Tapiaz & SPA, The Originals Relais (Hotel-Chalet de Tradition)",Les Gets,,44
+,02/03/2023,30/10/2023,02/11/2023,298,298,Chambre Double Standard,,Le White,Champéry,,44
+,02/03/2023,30/10/2023,02/11/2023,637,637,Chambre Standard,,Hôtel National Resort & Spa,Champéry,,44
+,02/03/2023,30/10/2023,02/11/2023,431,431,Chambre Lits Jumeaux Économique,,The Nant,Morzine,,44
+,02/03/2023,30/10/2023,02/11/2023,397,397,Chambre Double,,Hotel Télécabine,Les Crosets,,44
+,02/03/2023,30/10/2023,02/11/2023,551,551,Chambre Double - Vue sur Hameau ,,Hotel L'Etable,Les Crosets,,44
+,02/03/2023,30/10/2023,02/11/2023,469,469,Chambre Double ou Lits Jumeaux Classique Plus,,Chamois d'Or Hotel,Les Gets,,44
+,02/03/2023,30/10/2023,02/11/2023,435,435,Chambre Lits Jumeaux,,Hotel Igloo,Morzine,,44
+,02/03/2023,30/10/2023,02/11/2023,509,509,Chambre Double Économique - Vue sur Village,,Hotel Suisse,Champéry,,44
+,02/03/2023,30/10/2023,02/11/2023,555,555,Chambre Double,,Helvetia hotel,Morgins,,44
+,02/03/2023,30/10/2023,02/11/2023,606,606,Chambre Double,,Hôtel des Portes du Soleil,Les Crosets,,44
+,02/03/2023,30/10/2023,02/11/2023,513,513,Chambre Double Supérieure,,Bellevue,Les Gets,,44
+,02/03/2023,30/10/2023,02/11/2023,219,219,Chambre Double,,Hôtel Le Mont Jorat,Abondance,,44
+,02/03/2023,30/10/2023,02/11/2023,520,520,Cottage,,Guest House du Grand Paradis,Champéry,,44
+,02/03/2023,30/10/2023,02/11/2023,571,571,Chambre Double Supérieure (2 Adultes),,"Chalet-Hôtel La Marmotte, La Tapiaz & SPA, The Originals Relais (Hotel-Chalet de Tradition)",Les Gets,,44
+,02/03/2023,30/10/2023,02/11/2023,298,298,Chambre Double Standard,,Le White,Champéry,,44
+,02/03/2023,30/10/2023,02/11/2023,637,637,Chambre Standard,,Hôtel National Resort & Spa,Champéry,,44
+,02/03/2023,30/10/2023,02/11/2023,431,431,Chambre Lits Jumeaux Économique,,The Nant,Morzine,,44
+,02/03/2023,30/10/2023,02/11/2023,397,397,Chambre Double,,Hotel Télécabine,Les Crosets,,44
+,02/03/2023,30/10/2023,02/11/2023,551,551,Chambre Double - Vue sur Hameau ,,Hotel L'Etable,Les Crosets,,44
+,02/03/2023,30/10/2023,02/11/2023,469,469,Chambre Double ou Lits Jumeaux Classique Plus,,Chamois d'Or Hotel,Les Gets,,44
+,02/03/2023,30/10/2023,02/11/2023,435,435,Chambre Lits Jumeaux,,Hotel Igloo,Morzine,,44
+,02/03/2023,30/10/2023,02/11/2023,509,509,Chambre Double Économique - Vue sur Village,,Hotel Suisse,Champéry,,44
+,02/03/2023,30/10/2023,02/11/2023,555,555,Chambre Double,,Helvetia hotel,Morgins,,44
+,02/03/2023,30/10/2023,02/11/2023,606,606,Chambre Double,,Hôtel des Portes du Soleil,Les Crosets,,44
+,02/03/2023,30/10/2023,02/11/2023,513,513,Chambre Double Supérieure,,Bellevue,Les Gets,,44
+,02/03/2023,30/10/2023,02/11/2023,219,219,Chambre Double,,Hôtel Le Mont Jorat,Abondance,,44
+,02/03/2023,30/10/2023,02/11/2023,520,520,Cottage,,Guest House du Grand Paradis,Champéry,,44
+,02/03/2023,30/10/2023,02/11/2023,299,299,Petite Chambre Double ou Lits Jumeaux avec Balcon,,Hotel Beauregard,La Clusaz,,44
+,02/03/2023,30/10/2023,02/11/2023,188,188,Chambre Double Économique,,Hotel La Montagne,La Clusaz,,44
+,02/03/2023,30/10/2023,02/11/2023,234,234,Chambre Double Économique,,Hotel Christiania,La Clusaz,,44
+,02/03/2023,30/10/2023,02/11/2023,221,221,Chambre Double Standard,,Les Airelles,La Clusaz,,44
+,02/03/2023,30/10/2023,02/11/2023,261,261,Chambre Double,,Fasthotel Thones,Thônes,,44
+,02/03/2023,30/10/2023,02/11/2023,480,480,Chambre Double Supérieure,,Les Roches Fleuries,Cordon,,44
+,02/03/2023,30/10/2023,02/11/2023,248,248,Chambre Double Standard,,Logis La Chaumière Saint-Maurice,Thorens-Glières,,44
+,02/03/2023,30/10/2023,02/11/2023,537,537,Chambre Double Économique avec Accès Gratuit au Spa - Vue sur Rue,,Hôtel Beau Site Talloires B SPA,Talloires,,44
+,02/03/2023,30/10/2023,02/11/2023,1229,1229,Suite avec Vue sur Lac ,,Abbaye de Talloires,Talloires,,44
+,02/03/2023,30/10/2023,02/11/2023,326,326,Chambre Double,,Le Charvet,Cordon,,44
+,02/03/2023,30/10/2023,02/11/2023,508,508,Chambre Double Confort avec Vue sur la Forêt,,Le Palace De Menthon,Menthon-Saint-Bernard,,44
+,02/03/2023,30/10/2023,02/11/2023,606,606,Chambre Double Confort,,Coeur de Megève,Megève,,44
+,02/03/2023,30/10/2023,02/11/2023,371,371,Chambre Double Classique avec Canapé-Lit,,Novotel Megève Mont-Blanc,Megève,,44
+,02/03/2023,30/10/2023,02/11/2023,271,271,Chambre Double - Accessible aux Personnes à Mobilité Réduite ,,Brit Hotel Florimont,Saint-Ferréol,,44
+,02/03/2023,30/10/2023,02/11/2023,1383,1383,Chambre Double Club,,Les Fermes de Marie,Megève,,44
+,02/03/2023,30/10/2023,02/11/2023,1155,1155,Chambre Double Supérieure,,Flocons de Sel,Megève,,44
+,02/03/2023,30/10/2023,02/11/2023,304,304,Chambre Double Standard - Bâtiment Principal,,Hôtel Les Muses,Annecy,,44
+,02/03/2023,30/10/2023,02/11/2023,203,203,Chambre Standard avec 1 Lit Double et 1 Lit Simple,,Ibis Hôtel Sallanches,Sallanches,,44
+,02/03/2023,30/10/2023,02/11/2023,384,384,Chambre Double - Vue sur Montagnes - 4,,Le Coin Savoyard,Combloux,,44
+,02/03/2023,30/10/2023,02/11/2023,209,209,Chambre Triple avec Lit Superposé,,Ibis Budget Sallanches,Sallanches,,44
+,02/03/2023,30/10/2023,02/11/2023,295,295,Chambre Double - Accessible aux Personnes à Mobilité Réduite ,,Le Bel Abri,Annecy,,44
+,02/03/2023,30/10/2023,02/11/2023,348,348,Chambre Lits Jumeaux Standard,,Ibis Styles Sallanches Pays du Mont-Blanc,Sallanches,,44
+,02/03/2023,30/10/2023,02/11/2023,290,290,Chambre Lits Jumeaux Classique,,Mont Blanc Hotel,Saint Pierre en Faucigny,,44
+,02/03/2023,30/10/2023,02/11/2023,753,753,Chambre Supérieure avec Balcon - Accès Gratuit au Spa,,Rivage Hôtel & Spa Annecy,Annecy,,44
+,02/03/2023,30/10/2023,02/11/2023,334,334,Chambre Double Mansardée,,Hôtel Catalpa,Annecy,,44
+,02/03/2023,30/10/2023,02/11/2023,312,312,Chambre Double,,Les Afforêts,La Roche-sur-Foron,,44
+,02/03/2023,30/10/2023,02/11/2023,236,236,Chambre Double Standard,,"Hôtel de Genève , Faverges-Seythenex 74210, Haute Savoie",Faverges,,44
+,02/03/2023,30/10/2023,02/11/2023,477,477,Chambre Double ou Lits Jumeaux Classique,,Le Pélican,Annecy,,44
+,02/03/2023,30/10/2023,02/11/2023,121,121,Chambre Tandem,,hotelF1 Annecy Argonay,Argonay,,44
+,02/03/2023,30/10/2023,02/11/2023,421,421,Chambre Double Supérieure - Vue sur Forêt et Parking ,,"Hôtel Beauregard, The Originals Relais (Inter-Hotel)",Sévrier,,44
+,02/03/2023,30/10/2023,02/11/2023,506,506,Chambre Double/Twin Tradition,,Les Trésoms Lake and Spa Resort,Annecy,,44
+,02/03/2023,30/10/2023,02/11/2023,778,778,Chambre Double,,Le Boutik Hotel,"Centre-ville d'Annecy, Annecy",,44
+,02/03/2023,30/10/2023,02/11/2023,312,312,Chambre Double Économique,,Le Relais Du Mont Blanc,Magland,,44
+,02/03/2023,30/10/2023,02/11/2023,332,332,Chambre Double,,Hotel Novel Restaurant La Mamma,Annecy,,44
+,02/03/2023,30/10/2023,02/11/2023,345,345,Chambre Économique,,Allobroges Park Hôtel,"Centre-ville d'Annecy, Annecy",,44
+,02/03/2023,30/10/2023,02/11/2023,299,299,Petite Chambre Double ou Lits Jumeaux avec Balcon,,Hotel Beauregard,La Clusaz,,44
+,02/03/2023,30/10/2023,02/11/2023,188,188,Chambre Double Économique,,Hotel La Montagne,La Clusaz,,44
+,02/03/2023,30/10/2023,02/11/2023,234,234,Chambre Double Économique,,Hotel Christiania,La Clusaz,,44
+,02/03/2023,30/10/2023,02/11/2023,221,221,Chambre Double Standard,,Les Airelles,La Clusaz,,44
+,02/03/2023,30/10/2023,02/11/2023,261,261,Chambre Double,,Fasthotel Thones,Thônes,,44
+,02/03/2023,30/10/2023,02/11/2023,480,480,Chambre Double Supérieure,,Les Roches Fleuries,Cordon,,44
+,02/03/2023,30/10/2023,02/11/2023,248,248,Chambre Double Standard,,Logis La Chaumière Saint-Maurice,Thorens-Glières,,44
+,02/03/2023,30/10/2023,02/11/2023,537,537,Chambre Double Économique avec Accès Gratuit au Spa - Vue sur Rue,,Hôtel Beau Site Talloires B SPA,Talloires,,44
+,02/03/2023,30/10/2023,02/11/2023,1229,1229,Suite avec Vue sur Lac ,,Abbaye de Talloires,Talloires,,44
+,02/03/2023,30/10/2023,02/11/2023,326,326,Chambre Double,,Le Charvet,Cordon,,44
+,02/03/2023,30/10/2023,02/11/2023,508,508,Chambre Double Confort avec Vue sur la Forêt,,Le Palace De Menthon,Menthon-Saint-Bernard,,44
+,02/03/2023,30/10/2023,02/11/2023,606,606,Chambre Double Confort,,Coeur de Megève,Megève,,44
+,02/03/2023,30/10/2023,02/11/2023,371,371,Chambre Double Classique avec Canapé-Lit,,Novotel Megève Mont-Blanc,Megève,,44
+,02/03/2023,30/10/2023,02/11/2023,271,271,Chambre Double - Accessible aux Personnes à Mobilité Réduite ,,Brit Hotel Florimont,Saint-Ferréol,,44
+,02/03/2023,30/10/2023,02/11/2023,1383,1383,Chambre Double Club,,Les Fermes de Marie,Megève,,44
+,02/03/2023,30/10/2023,02/11/2023,1155,1155,Chambre Double Supérieure,,Flocons de Sel,Megève,,44
+,02/03/2023,30/10/2023,02/11/2023,304,304,Chambre Double Standard - Bâtiment Principal,,Hôtel Les Muses,Annecy,,44
+,02/03/2023,30/10/2023,02/11/2023,203,203,Chambre Standard avec 1 Lit Double et 1 Lit Simple,,Ibis Hôtel Sallanches,Sallanches,,44
+,02/03/2023,30/10/2023,02/11/2023,384,384,Chambre Double - Vue sur Montagnes - 4,,Le Coin Savoyard,Combloux,,44
+,02/03/2023,30/10/2023,02/11/2023,209,209,Chambre Triple avec Lit Superposé,,Ibis Budget Sallanches,Sallanches,,44
+,02/03/2023,30/10/2023,02/11/2023,295,295,Chambre Double - Accessible aux Personnes à Mobilité Réduite ,,Le Bel Abri,Annecy,,44
+,02/03/2023,30/10/2023,02/11/2023,348,348,Chambre Lits Jumeaux Standard,,Ibis Styles Sallanches Pays du Mont-Blanc,Sallanches,,44
+,02/03/2023,30/10/2023,02/11/2023,290,290,Chambre Lits Jumeaux Classique,,Mont Blanc Hotel,Saint Pierre en Faucigny,,44
+,02/03/2023,30/10/2023,02/11/2023,753,753,Chambre Supérieure avec Balcon - Accès Gratuit au Spa,,Rivage Hôtel & Spa Annecy,Annecy,,44
+,02/03/2023,30/10/2023,02/11/2023,334,334,Chambre Double Mansardée,,Hôtel Catalpa,Annecy,,44
+,02/03/2023,30/10/2023,02/11/2023,312,312,Chambre Double,,Les Afforêts,La Roche-sur-Foron,,44
+,02/03/2023,30/10/2023,02/11/2023,236,236,Chambre Double Standard,,"Hôtel de Genève , Faverges-Seythenex 74210, Haute Savoie",Faverges,,44
+,02/03/2023,30/10/2023,02/11/2023,477,477,Chambre Double ou Lits Jumeaux Classique,,Le Pélican,Annecy,,44
+,02/03/2023,30/10/2023,02/11/2023,121,121,Chambre Tandem,,hotelF1 Annecy Argonay,Argonay,,44
+,02/03/2023,30/10/2023,02/11/2023,421,421,Chambre Double Supérieure - Vue sur Forêt et Parking ,,"Hôtel Beauregard, The Originals Relais (Inter-Hotel)",Sévrier,,44
+,02/03/2023,30/10/2023,02/11/2023,506,506,Chambre Double/Twin Tradition,,Les Trésoms Lake and Spa Resort,Annecy,,44
+,02/03/2023,30/10/2023,02/11/2023,778,778,Chambre Double,,Le Boutik Hotel,"Centre-ville d'Annecy, Annecy",,44
+,02/03/2023,30/10/2023,02/11/2023,312,312,Chambre Double Économique,,Le Relais Du Mont Blanc,Magland,,44
+,02/03/2023,30/10/2023,02/11/2023,332,332,Chambre Double,,Hotel Novel Restaurant La Mamma,Annecy,,44
+,02/03/2023,30/10/2023,02/11/2023,345,345,Chambre Économique,,Allobroges Park Hôtel,"Centre-ville d'Annecy, Annecy",,44
+,02/03/2023,30/10/2023,02/11/2023,376,376,Hébergement Économique 2 Personnes,,La Folie Douce Hotels Chamonix,"Chamonix City Centre, Chamonix-Mont-Blanc",,44
+,02/03/2023,30/10/2023,02/11/2023,207,207,Chambre Double ou Lits Jumeaux Standard,,RockyPop Chamonix - Les Houches,Les Houches,,44
+,02/03/2023,30/10/2023,02/11/2023,353,353, Chambre Double ou Lits Jumeaux - Vue sur Ville - 16 m²,,Alpina Eclectic Hotel,"Chamonix City Centre, Chamonix-Mont-Blanc",,44
+,02/03/2023,30/10/2023,02/11/2023,263,263,Chambre Double - Accessible aux Personnes à Mobilité Réduite ,,Hôtel Le Refuge des Aiglons,"Chamonix City Centre, Chamonix-Mont-Blanc",,44
+,02/03/2023,30/10/2023,02/11/2023,203,203,Chambre Standard avec 1 Lit Double et 1 Lit Simple,,Ibis Hôtel Sallanches,Sallanches,,44
+,02/03/2023,30/10/2023,02/11/2023,365,365,Chambre Double - Vue sur Montagne,,Plan B Hotel - Living Chamonix,"Chamonix City Centre, Chamonix-Mont-Blanc",,44
+,02/03/2023,30/10/2023,02/11/2023,340,340,Chambre Classique Wanderlust,,Wanderlust Motels Chamonix,"Les Bossons, Chamonix-Mont-Blanc",,44
+,02/03/2023,30/10/2023,02/11/2023,284,284,Chambre Double - Accessible aux Personnes à Mobilité Réduite ,,Hotel Le Morgane,"Chamonix City Centre, Chamonix-Mont-Blanc",,44
+,02/03/2023,30/10/2023,02/11/2023,430,430,Chambre Lits Jumeaux Économique,,Vert Lodge Chamonix,Chamonix-Mont-Blanc,,44
+,02/03/2023,30/10/2023,02/11/2023,549,549,Chambre Double Standard,,Hôtel de L'Arve,"Chamonix City Centre, Chamonix-Mont-Blanc",,44
+,02/03/2023,30/10/2023,02/11/2023,248,248,Chambre Double Classique,,Excelsior Chamonix Hôtel & Spa,"Les Tines, Chamonix-Mont-Blanc",,44
+,02/03/2023,30/10/2023,02/11/2023,384,384,Chambre Double - Vue sur Montagnes - 4,,Le Coin Savoyard,Combloux,,44
+,02/03/2023,30/10/2023,02/11/2023,252,252,Chambre Double Standard,,Le Faucigny - Hotel de Charme,"Chamonix City Centre, Chamonix-Mont-Blanc",,44
+,02/03/2023,30/10/2023,02/11/2023,209,209,Chambre Triple avec Lit Superposé,,Ibis Budget Sallanches,Sallanches,,44
+,02/03/2023,30/10/2023,02/11/2023,294,294,Chambre Double ou Lits Jumeaux avec Vue sur le Mont Blanc,,Chalet Hôtel Le Prieuré,"Chamonix City Centre, Chamonix-Mont-Blanc",,44
+,02/03/2023,30/10/2023,02/11/2023,375,375,Chambre Double,,Chalet hôtel le Whymper,"Chamonix City Centre, Chamonix-Mont-Blanc",,44
+,02/03/2023,30/10/2023,02/11/2023,554,554,Chambre Double ou Lits Jumeaux,,Hôtel Restaurant La Ferme de Cupelin,Saint-Gervais-les-Bains,,44
+,02/03/2023,30/10/2023,02/11/2023,251,251,Chambre Lits Jumeaux Côté Vallée,,Le Saint Antoine,Les Houches,,44
+,02/03/2023,30/10/2023,02/11/2023,480,480,Chambre Double Supérieure,,Les Roches Fleuries,Cordon,,44
+,02/03/2023,30/10/2023,02/11/2023,348,348,Chambre Lits Jumeaux Standard,,Ibis Styles Sallanches Pays du Mont-Blanc,Sallanches,,44
+,02/03/2023,30/10/2023,02/11/2023,248,248,Chambre Lits Jumeaux/Double Standard,,La Croix Blanche,"Chamonix City Centre, Chamonix-Mont-Blanc",,44
+,02/03/2023,30/10/2023,02/11/2023,238,238,Double Room with One Double Bed or Two Single Beds,,ibis Styles Les Houches Chamonix,Les Houches,,44
+,02/03/2023,30/10/2023,02/11/2023,606,606,Chambre Double Confort,,Coeur de Megève,Megève,,44
+,02/03/2023,30/10/2023,02/11/2023,371,371,Chambre Double Classique avec Canapé-Lit,,Novotel Megève Mont-Blanc,Megève,,44
+,02/03/2023,30/10/2023,02/11/2023,311,311,Chambre Double,,Hôtel Vallée Blanche,"Chamonix City Centre, Chamonix-Mont-Blanc",,44
+,02/03/2023,30/10/2023,02/11/2023,344,344,Chambre Double Supérieure,,Le Saint Gervais Hotel & Spa Handwritten Collection,Saint-Gervais-les-Bains,,44
+,02/03/2023,30/10/2023,02/11/2023,215,215,Chambre Double,,Hotel Le Chamonix,"Chamonix City Centre, Chamonix-Mont-Blanc",,44
+,02/03/2023,30/10/2023,02/11/2023,308,308,Chambre Double Standard - Premier Étage,,Hotel Du Clocher,"Chamonix City Centre, Chamonix-Mont-Blanc",,44
+,02/03/2023,30/10/2023,02/11/2023,828,828,Chambre Double Standard,,Hôtel Mont-Blanc Chamonix,"Chamonix City Centre, Chamonix-Mont-Blanc",,44
+,02/03/2023,30/10/2023,02/11/2023,242,242,Chambre Double,,Hôtel Les Dômes de Miage,Saint-Gervais-les-Bains,,44
+,02/03/2023,30/10/2023,02/11/2023,1383,1383,Chambre Double Club,,Les Fermes de Marie,Megève,,44
+,02/03/2023,30/10/2023,02/11/2023,324,324,Chambre Double,,Auberge Les Gorges De La Diosaz,Servoz,,44
+,02/03/2023,30/10/2023,02/11/2023,672,672,Petite Chambre Double,,Coeur des Neiges,Saint-Gervais-les-Bains,,44
+,02/03/2023,30/10/2023,02/11/2023,213,213,Chambre Lits Jumeaux,,Hotel Terminus,Saint-Gervais-les-Bains,,44
+,02/03/2023,30/10/2023,02/11/2023,810,810,Chambre Double ou Lits Jumeaux - Vue sur Montagnes,,Refuge du Montenvers,Chamonix-Mont-Blanc,,44
+,02/03/2023,30/10/2023,02/11/2023,376,376,Hébergement Économique 2 Personnes,,La Folie Douce Hotels Chamonix,"Chamonix City Centre, Chamonix-Mont-Blanc",,44
+,02/03/2023,30/10/2023,02/11/2023,207,207,Chambre Double ou Lits Jumeaux Standard,,RockyPop Chamonix - Les Houches,Les Houches,,44
+,02/03/2023,30/10/2023,02/11/2023,353,353, Chambre Double ou Lits Jumeaux - Vue sur Ville - 16 m²,,Alpina Eclectic Hotel,"Chamonix City Centre, Chamonix-Mont-Blanc",,44
+,02/03/2023,30/10/2023,02/11/2023,263,263,Chambre Double - Accessible aux Personnes à Mobilité Réduite ,,Hôtel Le Refuge des Aiglons,"Chamonix City Centre, Chamonix-Mont-Blanc",,44
+,02/03/2023,30/10/2023,02/11/2023,203,203,Chambre Standard avec 1 Lit Double et 1 Lit Simple,,Ibis Hôtel Sallanches,Sallanches,,44
+,02/03/2023,30/10/2023,02/11/2023,365,365,Chambre Double - Vue sur Montagne,,Plan B Hotel - Living Chamonix,"Chamonix City Centre, Chamonix-Mont-Blanc",,44
+,02/03/2023,30/10/2023,02/11/2023,340,340,Chambre Classique Wanderlust,,Wanderlust Motels Chamonix,"Les Bossons, Chamonix-Mont-Blanc",,44
+,02/03/2023,30/10/2023,02/11/2023,284,284,Chambre Double - Accessible aux Personnes à Mobilité Réduite ,,Hotel Le Morgane,"Chamonix City Centre, Chamonix-Mont-Blanc",,44
+,02/03/2023,30/10/2023,02/11/2023,430,430,Chambre Lits Jumeaux Économique,,Vert Lodge Chamonix,Chamonix-Mont-Blanc,,44
+,02/03/2023,30/10/2023,02/11/2023,549,549,Chambre Double Standard,,Hôtel de L'Arve,"Chamonix City Centre, Chamonix-Mont-Blanc",,44
+,02/03/2023,30/10/2023,02/11/2023,248,248,Chambre Double Classique,,Excelsior Chamonix Hôtel & Spa,"Les Tines, Chamonix-Mont-Blanc",,44
+,02/03/2023,30/10/2023,02/11/2023,384,384,Chambre Double - Vue sur Montagnes - 4,,Le Coin Savoyard,Combloux,,44
+,02/03/2023,30/10/2023,02/11/2023,252,252,Chambre Double Standard,,Le Faucigny - Hotel de Charme,"Chamonix City Centre, Chamonix-Mont-Blanc",,44
+,02/03/2023,30/10/2023,02/11/2023,209,209,Chambre Triple avec Lit Superposé,,Ibis Budget Sallanches,Sallanches,,44
+,02/03/2023,30/10/2023,02/11/2023,294,294,Chambre Double ou Lits Jumeaux avec Vue sur le Mont Blanc,,Chalet Hôtel Le Prieuré,"Chamonix City Centre, Chamonix-Mont-Blanc",,44
+,02/03/2023,30/10/2023,02/11/2023,375,375,Chambre Double,,Chalet hôtel le Whymper,"Chamonix City Centre, Chamonix-Mont-Blanc",,44
+,02/03/2023,30/10/2023,02/11/2023,554,554,Chambre Double ou Lits Jumeaux,,Hôtel Restaurant La Ferme de Cupelin,Saint-Gervais-les-Bains,,44
+,02/03/2023,30/10/2023,02/11/2023,251,251,Chambre Lits Jumeaux Côté Vallée,,Le Saint Antoine,Les Houches,,44
+,02/03/2023,30/10/2023,02/11/2023,480,480,Chambre Double Supérieure,,Les Roches Fleuries,Cordon,,44
+,02/03/2023,30/10/2023,02/11/2023,348,348,Chambre Lits Jumeaux Standard,,Ibis Styles Sallanches Pays du Mont-Blanc,Sallanches,,44
+,02/03/2023,30/10/2023,02/11/2023,248,248,Chambre Lits Jumeaux/Double Standard,,La Croix Blanche,"Chamonix City Centre, Chamonix-Mont-Blanc",,44
+,02/03/2023,30/10/2023,02/11/2023,238,238,Double Room with One Double Bed or Two Single Beds,,ibis Styles Les Houches Chamonix,Les Houches,,44
+,02/03/2023,30/10/2023,02/11/2023,606,606,Chambre Double Confort,,Coeur de Megève,Megève,,44
+,02/03/2023,30/10/2023,02/11/2023,371,371,Chambre Double Classique avec Canapé-Lit,,Novotel Megève Mont-Blanc,Megève,,44
+,02/03/2023,30/10/2023,02/11/2023,311,311,Chambre Double,,Hôtel Vallée Blanche,"Chamonix City Centre, Chamonix-Mont-Blanc",,44
+,02/03/2023,30/10/2023,02/11/2023,344,344,Chambre Double Supérieure,,Le Saint Gervais Hotel & Spa Handwritten Collection,Saint-Gervais-les-Bains,,44
+,02/03/2023,30/10/2023,02/11/2023,215,215,Chambre Double,,Hotel Le Chamonix,"Chamonix City Centre, Chamonix-Mont-Blanc",,44
+,02/03/2023,30/10/2023,02/11/2023,308,308,Chambre Double Standard - Premier Étage,,Hotel Du Clocher,"Chamonix City Centre, Chamonix-Mont-Blanc",,44
+,02/03/2023,30/10/2023,02/11/2023,828,828,Chambre Double Standard,,Hôtel Mont-Blanc Chamonix,"Chamonix City Centre, Chamonix-Mont-Blanc",,44
+,02/03/2023,30/10/2023,02/11/2023,242,242,Chambre Double,,Hôtel Les Dômes de Miage,Saint-Gervais-les-Bains,,44
+,02/03/2023,30/10/2023,02/11/2023,1383,1383,Chambre Double Club,,Les Fermes de Marie,Megève,,44
+,02/03/2023,30/10/2023,02/11/2023,324,324,Chambre Double,,Auberge Les Gorges De La Diosaz,Servoz,,44
+,02/03/2023,30/10/2023,02/11/2023,672,672,Petite Chambre Double,,Coeur des Neiges,Saint-Gervais-les-Bains,,44
+,02/03/2023,30/10/2023,02/11/2023,213,213,Chambre Lits Jumeaux,,Hotel Terminus,Saint-Gervais-les-Bains,,44
+,02/03/2023,30/10/2023,02/11/2023,810,810,Chambre Double ou Lits Jumeaux - Vue sur Montagnes,,Refuge du Montenvers,Chamonix-Mont-Blanc,,44
+,02/03/2023,30/10/2023,02/11/2023,298,298,Chambre Double,,Hôtel Saint-Georges,Saint-Jean-de-Maurienne,,44
+,02/03/2023,30/10/2023,02/11/2023,250,250,Chambre Double,,Hôtel de l'Europe,Saint-Jean-de-Maurienne,,44
+,02/03/2023,30/10/2023,02/11/2023,199,199,Chambre Double Standard,,hotel de la gare,Modane,,44
+,02/03/2023,30/10/2023,02/11/2023,175,175,Chambre Double,,B&B HOTEL Saint Jean De Maurienne,Sainte-Marie-de-Cuines,,44
+,02/03/2023,30/10/2023,02/11/2023,258,258,Chambre Double avec Salle de Bains Privative,,Chalet 1200,Saint-François-Longchamp,,44
+,02/03/2023,30/10/2023,02/11/2023,218,218,Chambre Double ou Lits Jumeaux Standard,,Savoy Hotel & Restaurant,Saint-Michel-de-Maurienne,,44
+,02/03/2023,30/10/2023,02/11/2023,594,594,Chambre Double,,Hotel l'Aigle,Valmeinier,,44
+,02/03/2023,30/10/2023,02/11/2023,236,236,Chambre Double Standard,,"Hôtel de Genève , Faverges-Seythenex 74210, Haute Savoie",Faverges,,44
+,02/03/2023,30/10/2023,02/11/2023,269,269,Chambre Double ou Lits Jumeaux Économique ,,Hotel Le Bellevue,Trévignin,,44
+,02/03/2023,30/10/2023,02/11/2023,271,271,Chambre Double - Accessible aux Personnes à Mobilité Réduite ,,Brit Hotel Florimont,Saint-Ferréol,,44
+,02/03/2023,30/10/2023,02/11/2023,131,131,Chambre Double avec Lit d'Appoint,,ibis budget Aix Les Bains - Grésy,Grésy-sur-Aix,,44
+,02/03/2023,30/10/2023,02/11/2023,236,236,Chambre Double Standard,,"Hôtel de Genève , Faverges-Seythenex 74210, Haute Savoie",Faverges,,44
+,02/03/2023,30/10/2023,02/11/2023,269,269,Chambre Double ou Lits Jumeaux Économique ,,Hotel Le Bellevue,Trévignin,,44
+,02/03/2023,30/10/2023,02/11/2023,271,271,Chambre Double - Accessible aux Personnes à Mobilité Réduite ,,Brit Hotel Florimont,Saint-Ferréol,,44
+,02/03/2023,30/10/2023,02/11/2023,131,131,Chambre Double avec Lit d'Appoint,,ibis budget Aix Les Bains - Grésy,Grésy-sur-Aix,,44
+,02/03/2023,30/10/2023,02/11/2023,473,473,Chambre Double - Versant Nord,,Base Camp Lodge Hotels,Bourg-Saint-Maurice,,44
+,02/03/2023,30/10/2023,02/11/2023,272,272,Chambre Double,,ho36 Les Menuires,Les Menuires,,44
+,02/03/2023,30/10/2023,02/11/2023,293,293,Chambre Double Standard avec Salle de Bains Privative et Toilettes Communes ,,Hôtel La Petite Auberge,Bourg-Saint-Maurice,,44
+,02/03/2023,30/10/2023,02/11/2023,394,394,Chambre Lits Jumeaux avec Accès Spa,,Hôtel Restaurant La Tourmaline,Aime-La-Plagne,,44
+,02/03/2023,30/10/2023,02/11/2023,190,190,Chambre Double ou Lits Jumeaux Standard,,Hotel Inn Design Moutiers,Moutiers,,44
+,02/03/2023,30/10/2023,02/11/2023,306,306,Chambre Double avec Salle de Bains Privative,,Hôtel Restaurant Angival - Chambres et Appartement,Bourg-Saint-Maurice,,44
+,02/03/2023,30/10/2023,02/11/2023,327,327,Chambre Double ou Lits Jumeaux,,Hotel L'alpin,Landry,,44
+,02/03/2023,30/10/2023,02/11/2023,380,380,Chambre Lits Jumeaux,,La Taverne,Méribel,,44
+,02/03/2023,30/10/2023,02/11/2023,322,322,Chambre Double,,Hotel Radiana,La Léchère,,44
+,02/03/2023,30/10/2023,02/11/2023,272,272,Petite Chambre Double,,Hôtel Restaurant Le Monêtier,Le Monêtier-les-Bains,,44
+,02/03/2023,30/10/2023,02/11/2023,294,266,Chambre Classique,,Suite Home Briancon Serre Chevalier,Briançon,,44
+,02/03/2023,30/10/2023,02/11/2023,428,428,Chambre Double - Vue sur Montagne,,Hôtel Vauban Briançon Serre Chevalier,Briançon,,44
+,02/03/2023,30/10/2023,02/11/2023,200,200,Chambre Double,,Hôtel Le Michelet,Gap,,44
+,02/03/2023,30/10/2023,02/11/2023,212,212,Chambre Double Économique,,Hôtel Logis La Crémaillère,Saint-Bonnet-en-Champsaur,,44
+,02/03/2023,30/10/2023,02/11/2023,221,221,Chambre Double ou Lits Jumeaux Mansardée,,Cit'Hotel Avantici Gap,Gap,,44
+,02/03/2023,30/10/2023,02/11/2023,303,303,Chambre Double Standard,,Auberge de la Paix,Briançon,,44
+,02/03/2023,30/10/2023,02/11/2023,258,258,Chambre Lits Jumeaux Classique,,Logis Havvah Hôtel Gap,Gap,,44
+,02/03/2023,30/10/2023,02/11/2023,246,246,Chambre Double Standard,,Adonis Gapotel,Gap,,44
+,02/03/2023,30/10/2023,02/11/2023,176,176,Chambre Double,,B&B HOTEL Gap,Gap,,44
+,02/03/2023,30/10/2023,02/11/2023,397,397,Chambre Double ou Lits Jumeaux Supérieure,,Hôtel Restaurant & Spa Les Autanes,Ancelle,,44
+,02/03/2023,30/10/2023,02/11/2023,173,173,Chambre Double avec Salle de Bains Privative,,Hotel De La Poste,Espinasses,,44
+,02/03/2023,30/10/2023,02/11/2023,294,294,Chambre Double ou Lits Jumeaux,,Logis - Hotel De La Mairie,Embrun,,44
+,02/03/2023,30/10/2023,02/11/2023,222,222,Chambre Double,,Hôtel & Restaurant Azur,La Freissinouse,,44
+,02/03/2023,30/10/2023,02/11/2023,275,275,Chambre Double ou Lits Jumeaux Économique,,Les Olivades,Gap,,44
+,02/03/2023,30/10/2023,02/11/2023,339,339,Chambre Lits Jumeaux,,Ax Hôtel Spa & Restaurant,Chorges,,44
+,02/03/2023,30/10/2023,02/11/2023,272,272,Petite Chambre Double,,Hôtel Restaurant Le Monêtier,Le Monêtier-les-Bains,,44
+,02/03/2023,30/10/2023,02/11/2023,294,266,Chambre Classique,,Suite Home Briancon Serre Chevalier,Briançon,,44
+,02/03/2023,30/10/2023,02/11/2023,428,428,Chambre Double - Vue sur Montagne,,Hôtel Vauban Briançon Serre Chevalier,Briançon,,44
+,02/03/2023,30/10/2023,02/11/2023,200,200,Chambre Double,,Hôtel Le Michelet,Gap,,44
+,02/03/2023,30/10/2023,02/11/2023,212,212,Chambre Double Économique,,Hôtel Logis La Crémaillère,Saint-Bonnet-en-Champsaur,,44
+,02/03/2023,30/10/2023,02/11/2023,221,221,Chambre Double ou Lits Jumeaux Mansardée,,Cit'Hotel Avantici Gap,Gap,,44
+,02/03/2023,30/10/2023,02/11/2023,303,303,Chambre Double Standard,,Auberge de la Paix,Briançon,,44
+,02/03/2023,30/10/2023,02/11/2023,258,258,Chambre Lits Jumeaux Classique,,Logis Havvah Hôtel Gap,Gap,,44
+,02/03/2023,30/10/2023,02/11/2023,246,246,Chambre Double Standard,,Adonis Gapotel,Gap,,44
+,02/03/2023,30/10/2023,02/11/2023,176,176,Chambre Double,,B&B HOTEL Gap,Gap,,44
+,02/03/2023,30/10/2023,02/11/2023,397,397,Chambre Double ou Lits Jumeaux Supérieure,,Hôtel Restaurant & Spa Les Autanes,Ancelle,,44
+,02/03/2023,30/10/2023,02/11/2023,173,173,Chambre Double avec Salle de Bains Privative,,Hotel De La Poste,Espinasses,,44
+,02/03/2023,30/10/2023,02/11/2023,294,294,Chambre Double ou Lits Jumeaux,,Logis - Hotel De La Mairie,Embrun,,44
+,02/03/2023,30/10/2023,02/11/2023,222,222,Chambre Double,,Hôtel & Restaurant Azur,La Freissinouse,,44
+,02/03/2023,30/10/2023,02/11/2023,275,275,Chambre Double ou Lits Jumeaux Économique,,Les Olivades,Gap,,44
+,02/03/2023,30/10/2023,02/11/2023,339,339,Chambre Lits Jumeaux,,Ax Hôtel Spa & Restaurant,Chorges,,44
+,02/03/2023,30/10/2023,02/11/2023,160,160,Chambre Lits Jumeaux,,"The Originals Access, Hôtel Foix (P'tit Dej-Hotel)",Foix,,44
+,02/03/2023,30/10/2023,02/11/2023,208,208,Chambre Double,,Domaine de Garabaud,Mazères,,44
+,02/03/2023,30/10/2023,02/11/2023,218,218,Chambre Double,,Hôtel Pyrène,Foix,,44
+,02/03/2023,30/10/2023,02/11/2023,186,186,Chambre Double Économique,,Hôtel Restaurant Le Bellevue,Ax-les-Thermes,,44
+,02/03/2023,30/10/2023,02/11/2023,270,270,Chambre Double,,Hôtel Terranostra,Tarascon-sur-Ariège,,44
+,02/03/2023,30/10/2023,02/11/2023,127,127,Chambre Double Basique,,Hôtel de la Paix,Luzenac,,44
+,02/03/2023,30/10/2023,02/11/2023,167,167,Chambre Double Standard,,Brit Hotel Confort Foix,Foix,,44
+,02/03/2023,30/10/2023,02/11/2023,230,230,Chambre Double Standard,,Hostellerie de la Poste,Tarascon-sur-Ariège,,44
+,02/03/2023,30/10/2023,02/11/2023,127,127,Chambre Triple,,Hôtel Premiere Classe Pamiers,Pamiers,,44
+,02/03/2023,30/10/2023,02/11/2023,282,282,Chambre Double,,Logis Auberge de l'Isard,Saint-Lary,,44
+,02/03/2023,30/10/2023,02/11/2023,378,378,Chambre Double,,Logis Hôtel De France Pamiers 3 étoiles,Pamiers,,44
+,02/03/2023,30/10/2023,02/11/2023,211,211,Chambre Double Standard,,Hôtel Confort 09 ou HC-09,Tarascon-sur-Ariège,,44
+,02/03/2023,30/10/2023,02/11/2023,159,159,Chambre Double,,Auberge du Haut Salat,Seix,,44
+,02/03/2023,30/10/2023,02/11/2023,198,198,Chambre Double,,Auberge Les Myrtilles,Couflens,,44
+,02/03/2023,30/10/2023,02/11/2023,279,279,Chambre Double Standard,,Logis Hôtel restaurant Les Minotiers,Mirepoix,,44
+,02/03/2023,30/10/2023,02/11/2023,196,196,Chambre Double,,Hôtel Le Bellevue,Tarascon-sur-Ariège,,44
+,02/03/2023,30/10/2023,02/11/2023,201,201,Petite Chambre Double,,Hotel La Casa,Le Barcarès,,44
+,02/03/2023,30/10/2023,02/11/2023,821,821,Chambre Double - Vue sur Mer,,Les Roches Brunes,Collioure,,44
+,02/03/2023,30/10/2023,02/11/2023,323,323,Chambre Double Classique,,"The Originals City, Relax'Otel, Le Barcarès",Le Barcarès,,44
+,02/03/2023,30/10/2023,02/11/2023,171,171,Chambre Double,,Kyriad Direct Perpignan - Aeroport,Rivesaltes,,44
+,02/03/2023,30/10/2023,02/11/2023,778,778,Chambre Double ou Lits Jumeaux avec Accès Gratuit au Spa  - Vue sur Jardin,,Grand Hôtel Les Flamants Roses Thalasso & Spa,Canet-en-Roussillon,,44
+,02/03/2023,30/10/2023,02/11/2023,287,287,Chambre Standard avec Vue sur la Ville,,Best Western Plus Hotel Canet-Plage,Canet-en-Roussillon,,44
+,02/03/2023,30/10/2023,02/11/2023,229,229,Chambre Double Économique,,"Hotel Saint Georges, Face à la mer",Canet-en-Roussillon,,44
+,02/03/2023,30/10/2023,02/11/2023,463,463,Chambre Double Standard,,La Frégate,Collioure,,44
+,02/03/2023,30/10/2023,02/11/2023,361,361,Chambre Standard,,Le Madeloc Hôtel & Spa,Collioure,,44
+,02/03/2023,30/10/2023,02/11/2023,270,270,Chambre Double,,Hôtel Les Sables - Urban Style,Canet-en-Roussillon,,44
+,02/03/2023,30/10/2023,02/11/2023,362,362,Chambre Lits Jumeaux Classique,,Best Western Le Vauban,Prades,,44
+,02/03/2023,30/10/2023,02/11/2023,317,317,Chambre Lit Queen-Size avec Canapé ,,"Holiday Inn Perpignan, an IHG Hotel",Perpignan,,44
+,02/03/2023,30/10/2023,02/11/2023,334,334,Chambre Double - Vue sur Piscine,,Hôtel & Spa Les Mouettes,Argelès-sur-Mer,,44
+,02/03/2023,30/10/2023,02/11/2023,183,183,Chambre Double Standard,,Hôtel Le Val Du Tech,Prats-de-Mollo-la-Preste,,44
+,02/03/2023,30/10/2023,02/11/2023,281,281,Chambre Double avec Douche - Côté Rue - 1er ou 2ème Étage,,Hôtel la Bona Casa,Collioure,,44
+,02/03/2023,30/10/2023,02/11/2023,335,335,Chambre Double Classique,,Dali Hôtel Perpignan - Restaurant,Perpignan,,44
+,02/03/2023,30/10/2023,02/11/2023,189,189,Chambre Double Classique,,B&B HOTEL PERPIGNAN Nord Aéroport,Perpignan,,44
+,02/03/2023,30/10/2023,02/11/2023,129,129,Chambre Triple (1 Lit Double et 1 Lit Simple),,Premiere Classe Perpignan Sud,Perpignan,,44
+,02/03/2023,30/10/2023,02/11/2023,177,177,Chambre Double ou Lits Jumeaux,,Hotel Restaurant L'Espassole,Thuir,,44
+,02/03/2023,30/10/2023,02/11/2023,140,140,Chambre Double Standard avec Lit Superposé,,Ibis Budget Perpignan Nord,Rivesaltes,,44
+,02/03/2023,30/10/2023,02/11/2023,193,193,Chambre Double,,Central Hôtel,Cerbère,,44
+,02/03/2023,30/10/2023,02/11/2023,194,194,Chambre Double Confort,,Brit Hotel Porte d'Espagne,Perpignan,,44
+,02/03/2023,30/10/2023,02/11/2023,194,194,Chambre Double,,Hotel de la Plage - Barcares,Le Barcarès,,44
+,02/03/2023,30/10/2023,02/11/2023,283,283,Chambre Double Standard,,ibis Styles Perpignan Centre Gare,Perpignan,,44
+,02/03/2023,30/10/2023,02/11/2023,237,237,Chambre Double Côté Rue ,,Hôtel Triton,Collioure,,44
+,02/03/2023,30/10/2023,02/11/2023,549,549,Chambre Double Deluxe,,Grand Hôtel Du Lido,"Argeles Plage, Argelès-sur-Mer",,44
+,02/03/2023,30/10/2023,02/11/2023,238,238,Chambre Double Standard,,Kyriad Prestige Perpignan Centre del Mon,Perpignan,,44
+,02/03/2023,30/10/2023,02/11/2023,1122,1122,Chambre Double Confort avec Accès au Centre de Bien-Être,,Relais et Châteaux Thalasso & Spa Ile de la Lagune,Saint-Cyprien,,44
+,02/03/2023,30/10/2023,02/11/2023,262,262,Chambre Double Côté Nord avec Douche,,Hotel des Pyrénées,Font-Romeu,,44
+,02/03/2023,30/10/2023,02/11/2023,258,258,Chambre Double ou Lits Jumeaux Standard,,Hotel Le Clos Cerdan,Mont-Louis,,44
+,02/03/2023,30/10/2023,02/11/2023,226,226,Chambre Lits Jumeaux Standard,,ibis Styles Perpignan Canet En Roussillon,Canet-en-Roussillon,,44
+,02/03/2023,30/10/2023,02/11/2023,351,351,Chambre Double Économique - Rez-de-Chaussée,,Grand Hotel Du Golfe,Argelès-sur-Mer,,44
+,02/03/2023,30/10/2023,02/11/2023,272,272,Chambre Double,,Logis Solhotel,Banyuls-sur-Mer,,44
+,02/03/2023,30/10/2023,02/11/2023,191,191,Chambre Double,,Le Campcardos,Porta,,44
+,02/03/2023,30/10/2023,02/11/2023,140,140,Chambre Double,,Première Classe Perpignan Nord,Rivesaltes,,44
+,02/03/2023,30/10/2023,02/11/2023,201,201,Petite Chambre Double,,Hotel La Casa,Le Barcarès,,44
+,02/03/2023,30/10/2023,02/11/2023,821,821,Chambre Double - Vue sur Mer,,Les Roches Brunes,Collioure,,44
+,02/03/2023,30/10/2023,02/11/2023,323,323,Chambre Double Classique,,"The Originals City, Relax'Otel, Le Barcarès",Le Barcarès,,44
+,02/03/2023,30/10/2023,02/11/2023,171,171,Chambre Double,,Kyriad Direct Perpignan - Aeroport,Rivesaltes,,44
+,02/03/2023,30/10/2023,02/11/2023,778,778,Chambre Double ou Lits Jumeaux avec Accès Gratuit au Spa  - Vue sur Jardin,,Grand Hôtel Les Flamants Roses Thalasso & Spa,Canet-en-Roussillon,,44
+,02/03/2023,30/10/2023,02/11/2023,287,287,Chambre Standard avec Vue sur la Ville,,Best Western Plus Hotel Canet-Plage,Canet-en-Roussillon,,44
+,02/03/2023,30/10/2023,02/11/2023,229,229,Chambre Double Économique,,"Hotel Saint Georges, Face à la mer",Canet-en-Roussillon,,44
+,02/03/2023,30/10/2023,02/11/2023,463,463,Chambre Double Standard,,La Frégate,Collioure,,44
+,02/03/2023,30/10/2023,02/11/2023,361,361,Chambre Standard,,Le Madeloc Hôtel & Spa,Collioure,,44
+,02/03/2023,30/10/2023,02/11/2023,270,270,Chambre Double,,Hôtel Les Sables - Urban Style,Canet-en-Roussillon,,44
+,02/03/2023,30/10/2023,02/11/2023,362,362,Chambre Lits Jumeaux Classique,,Best Western Le Vauban,Prades,,44
+,02/03/2023,30/10/2023,02/11/2023,317,317,Chambre Lit Queen-Size avec Canapé ,,"Holiday Inn Perpignan, an IHG Hotel",Perpignan,,44
+,02/03/2023,30/10/2023,02/11/2023,334,334,Chambre Double - Vue sur Piscine,,Hôtel & Spa Les Mouettes,Argelès-sur-Mer,,44
+,02/03/2023,30/10/2023,02/11/2023,183,183,Chambre Double Standard,,Hôtel Le Val Du Tech,Prats-de-Mollo-la-Preste,,44
+,02/03/2023,30/10/2023,02/11/2023,281,281,Chambre Double avec Douche - Côté Rue - 1er ou 2ème Étage,,Hôtel la Bona Casa,Collioure,,44
+,02/03/2023,30/10/2023,02/11/2023,335,335,Chambre Double Classique,,Dali Hôtel Perpignan - Restaurant,Perpignan,,44
+,02/03/2023,30/10/2023,02/11/2023,189,189,Chambre Double Classique,,B&B HOTEL PERPIGNAN Nord Aéroport,Perpignan,,44
+,02/03/2023,30/10/2023,02/11/2023,129,129,Chambre Triple (1 Lit Double et 1 Lit Simple),,Premiere Classe Perpignan Sud,Perpignan,,44
+,02/03/2023,30/10/2023,02/11/2023,177,177,Chambre Double ou Lits Jumeaux,,Hotel Restaurant L'Espassole,Thuir,,44
+,02/03/2023,30/10/2023,02/11/2023,140,140,Chambre Double Standard avec Lit Superposé,,Ibis Budget Perpignan Nord,Rivesaltes,,44
+,02/03/2023,30/10/2023,02/11/2023,193,193,Chambre Double,,Central Hôtel,Cerbère,,44
+,02/03/2023,30/10/2023,02/11/2023,194,194,Chambre Double Confort,,Brit Hotel Porte d'Espagne,Perpignan,,44
+,02/03/2023,30/10/2023,02/11/2023,194,194,Chambre Double,,Hotel de la Plage - Barcares,Le Barcarès,,44
+,02/03/2023,30/10/2023,02/11/2023,283,283,Chambre Double Standard,,ibis Styles Perpignan Centre Gare,Perpignan,,44
+,02/03/2023,30/10/2023,02/11/2023,237,237,Chambre Double Côté Rue ,,Hôtel Triton,Collioure,,44
+,02/03/2023,30/10/2023,02/11/2023,549,549,Chambre Double Deluxe,,Grand Hôtel Du Lido,"Argeles Plage, Argelès-sur-Mer",,44
+,02/03/2023,30/10/2023,02/11/2023,238,238,Chambre Double Standard,,Kyriad Prestige Perpignan Centre del Mon,Perpignan,,44
+,02/03/2023,30/10/2023,02/11/2023,1122,1122,Chambre Double Confort avec Accès au Centre de Bien-Être,,Relais et Châteaux Thalasso & Spa Ile de la Lagune,Saint-Cyprien,,44
+,02/03/2023,30/10/2023,02/11/2023,262,262,Chambre Double Côté Nord avec Douche,,Hotel des Pyrénées,Font-Romeu,,44
+,02/03/2023,30/10/2023,02/11/2023,258,258,Chambre Double ou Lits Jumeaux Standard,,Hotel Le Clos Cerdan,Mont-Louis,,44
+,02/03/2023,30/10/2023,02/11/2023,226,226,Chambre Lits Jumeaux Standard,,ibis Styles Perpignan Canet En Roussillon,Canet-en-Roussillon,,44
+,02/03/2023,30/10/2023,02/11/2023,351,351,Chambre Double Économique - Rez-de-Chaussée,,Grand Hotel Du Golfe,Argelès-sur-Mer,,44
+,02/03/2023,30/10/2023,02/11/2023,272,272,Chambre Double,,Logis Solhotel,Banyuls-sur-Mer,,44
+,02/03/2023,30/10/2023,02/11/2023,191,191,Chambre Double,,Le Campcardos,Porta,,44
+,02/03/2023,30/10/2023,02/11/2023,140,140,Chambre Double,,Première Classe Perpignan Nord,Rivesaltes,,44
+,02/03/2023,30/10/2023,02/11/2023,201,201,Petite Chambre Double,,Hotel La Casa,Le Barcarès,,44
+,02/03/2023,30/10/2023,02/11/2023,821,821,Chambre Double - Vue sur Mer,,Les Roches Brunes,Collioure,,44
+,02/03/2023,30/10/2023,02/11/2023,323,323,Chambre Double Classique,,"The Originals City, Relax'Otel, Le Barcarès",Le Barcarès,,44
+,02/03/2023,30/10/2023,02/11/2023,171,171,Chambre Double,,Kyriad Direct Perpignan - Aeroport,Rivesaltes,,44
+,02/03/2023,30/10/2023,02/11/2023,778,778,Chambre Double ou Lits Jumeaux avec Accès Gratuit au Spa  - Vue sur Jardin,,Grand Hôtel Les Flamants Roses Thalasso & Spa,Canet-en-Roussillon,,44
+,02/03/2023,30/10/2023,02/11/2023,287,287,Chambre Standard avec Vue sur la Ville,,Best Western Plus Hotel Canet-Plage,Canet-en-Roussillon,,44
+,02/03/2023,30/10/2023,02/11/2023,229,229,Chambre Double Économique,,"Hotel Saint Georges, Face à la mer",Canet-en-Roussillon,,44
+,02/03/2023,30/10/2023,02/11/2023,463,463,Chambre Double Standard,,La Frégate,Collioure,,44
+,02/03/2023,30/10/2023,02/11/2023,361,361,Chambre Standard,,Le Madeloc Hôtel & Spa,Collioure,,44
+,02/03/2023,30/10/2023,02/11/2023,270,270,Chambre Double,,Hôtel Les Sables - Urban Style,Canet-en-Roussillon,,44
+,02/03/2023,30/10/2023,02/11/2023,362,362,Chambre Lits Jumeaux Classique,,Best Western Le Vauban,Prades,,44
+,02/03/2023,30/10/2023,02/11/2023,317,317,Chambre Lit Queen-Size avec Canapé ,,"Holiday Inn Perpignan, an IHG Hotel",Perpignan,,44
+,02/03/2023,30/10/2023,02/11/2023,334,334,Chambre Double - Vue sur Piscine,,Hôtel & Spa Les Mouettes,Argelès-sur-Mer,,44
+,02/03/2023,30/10/2023,02/11/2023,183,183,Chambre Double Standard,,Hôtel Le Val Du Tech,Prats-de-Mollo-la-Preste,,44
+,02/03/2023,30/10/2023,02/11/2023,281,281,Chambre Double avec Douche - Côté Rue - 1er ou 2ème Étage,,Hôtel la Bona Casa,Collioure,,44
+,02/03/2023,30/10/2023,02/11/2023,335,335,Chambre Double Classique,,Dali Hôtel Perpignan - Restaurant,Perpignan,,44
+,02/03/2023,30/10/2023,02/11/2023,189,189,Chambre Double Classique,,B&B HOTEL PERPIGNAN Nord Aéroport,Perpignan,,44
+,02/03/2023,30/10/2023,02/11/2023,129,129,Chambre Triple (1 Lit Double et 1 Lit Simple),,Premiere Classe Perpignan Sud,Perpignan,,44
+,02/03/2023,30/10/2023,02/11/2023,177,177,Chambre Double ou Lits Jumeaux,,Hotel Restaurant L'Espassole,Thuir,,44
+,02/03/2023,30/10/2023,02/11/2023,140,140,Chambre Double Standard avec Lit Superposé,,Ibis Budget Perpignan Nord,Rivesaltes,,44
+,02/03/2023,30/10/2023,02/11/2023,193,193,Chambre Double,,Central Hôtel,Cerbère,,44
+,02/03/2023,30/10/2023,02/11/2023,194,194,Chambre Double Confort,,Brit Hotel Porte d'Espagne,Perpignan,,44
+,02/03/2023,30/10/2023,02/11/2023,194,194,Chambre Double,,Hotel de la Plage - Barcares,Le Barcarès,,44
+,02/03/2023,30/10/2023,02/11/2023,283,283,Chambre Double Standard,,ibis Styles Perpignan Centre Gare,Perpignan,,44
+,02/03/2023,30/10/2023,02/11/2023,237,237,Chambre Double Côté Rue ,,Hôtel Triton,Collioure,,44
+,02/03/2023,30/10/2023,02/11/2023,549,549,Chambre Double Deluxe,,Grand Hôtel Du Lido,"Argeles Plage, Argelès-sur-Mer",,44
+,02/03/2023,30/10/2023,02/11/2023,238,238,Chambre Double Standard,,Kyriad Prestige Perpignan Centre del Mon,Perpignan,,44
+,02/03/2023,30/10/2023,02/11/2023,1122,1122,Chambre Double Confort avec Accès au Centre de Bien-Être,,Relais et Châteaux Thalasso & Spa Ile de la Lagune,Saint-Cyprien,,44
+,02/03/2023,30/10/2023,02/11/2023,262,262,Chambre Double Côté Nord avec Douche,,Hotel des Pyrénées,Font-Romeu,,44
+,02/03/2023,30/10/2023,02/11/2023,258,258,Chambre Double ou Lits Jumeaux Standard,,Hotel Le Clos Cerdan,Mont-Louis,,44
+,02/03/2023,30/10/2023,02/11/2023,226,226,Chambre Lits Jumeaux Standard,,ibis Styles Perpignan Canet En Roussillon,Canet-en-Roussillon,,44
+,02/03/2023,30/10/2023,02/11/2023,351,351,Chambre Double Économique - Rez-de-Chaussée,,Grand Hotel Du Golfe,Argelès-sur-Mer,,44
+,02/03/2023,30/10/2023,02/11/2023,272,272,Chambre Double,,Logis Solhotel,Banyuls-sur-Mer,,44
+,02/03/2023,30/10/2023,02/11/2023,191,191,Chambre Double,,Le Campcardos,Porta,,44
+,02/03/2023,30/10/2023,02/11/2023,140,140,Chambre Double,,Première Classe Perpignan Nord,Rivesaltes,,44
+,02/03/2023,30/10/2023,02/11/2023,174,174,Chambre Double ou Lits Jumeaux,,Hôtel Alliance,Lourdes,,44
+,02/03/2023,30/10/2023,02/11/2023,250,250,Chambre Double Économique,,Maison d'hoursentut,Sainte-Marie-de-Campan,,44
+,02/03/2023,30/10/2023,02/11/2023,256,256,Chambre Double,,Nex Hôtel,Tarbes,,44
+,02/03/2023,30/10/2023,02/11/2023,168,168,Offre Spéciale - Chambre Double ou Lits Jumeaux,,Hôtel Angelic,Lourdes,,44
+,02/03/2023,30/10/2023,02/11/2023,194,194,Chambre Double Standard,,Le Nex2,Tarbes,,44
+,02/03/2023,30/10/2023,02/11/2023,282,282,Chambre Double Standard,,Grand Hôtel de France,Pierrefitte-Nestalas,,44
+,02/03/2023,30/10/2023,02/11/2023,189,189,Chambre Double Confort avec Douche,,Hôtel Saint Etienne,Lourdes,,44
+,02/03/2023,30/10/2023,02/11/2023,183,183,Chambre Lits Jumeaux,,L'Auberge Everhotel de Tarbes-Ibos,Tarbes,,44
+,02/03/2023,30/10/2023,02/11/2023,391,391,Chambre Lits Jumeaux Exécutive,,Le Rex Hôtel,Tarbes,,44
+,02/03/2023,30/10/2023,02/11/2023,149,149,Chambre Double avec Douche,,Hôtel Kennedy Parc des Expositions,Tarbes,,44
+,02/03/2023,30/10/2023,02/11/2023,146,146,Chambre Double ou Lits Jumeaux,,Hôtel Majestic,Lourdes,,44
+,02/03/2023,30/10/2023,02/11/2023,292,292,Chambre Double ou Lits Jumeaux - Accessible aux Personnes à Mobilité Réduite,,Hôtel Padoue,Lourdes,,44
+,02/03/2023,30/10/2023,02/11/2023,302,302,Chambre Double Confort Grand Lit ou Twin,,Best Western Beauséjour,Lourdes,,44
+,02/03/2023,30/10/2023,02/11/2023,487,487,Chambre Double Supérieure,,Grand Hôtel Gallia & Londres Spa NUXE,Lourdes,,44
+,02/03/2023,30/10/2023,02/11/2023,232,232,Chambre Double Basique,,Hôtel Le Tivoli,Vic-en-Bigorre,,44
+,02/03/2023,30/10/2023,02/11/2023,227,227,Chambre Double ou Lits Jumeaux,,Hôtel Saint Sauveur,Lourdes,,44
+,02/03/2023,30/10/2023,02/11/2023,195,195,Chambre Double,,Hôtel Continental,Lourdes,,44
+,02/03/2023,30/10/2023,02/11/2023,200,200,Chambre Double,,Hôtel du Béarn,Bagnères-de-Bigorre,,44
+,02/03/2023,30/10/2023,02/11/2023,180,180,Chambre Double,,Résidence Hôtelière du MAGNOAC,Castelnau-Magnoac,,44
+,02/03/2023,30/10/2023,02/11/2023,213,213,Chambre Double,,Hôtel du Casino de Capvern,Capvern,,44
+,02/03/2023,30/10/2023,02/11/2023,246,246,Chambre Double Standard,,Hôtel du Soleil Levant,Argelès-Gazost,,44
+,02/03/2023,30/10/2023,02/11/2023,185,185,Chambre Double,,Hôtel Peyramale,Lourdes,,44
+,02/03/2023,30/10/2023,02/11/2023,463,463,Appartement avec Balcon,,Hôtel La Solitude,Lourdes,,44
+,02/03/2023,30/10/2023,02/11/2023,340,340,Chambre Double,,Hôtel Panorama,Lourdes,,44
+,02/03/2023,30/10/2023,02/11/2023,254,254,Chambre Double Standard,,ibis Tarbes Odos,Odos,,44
+,02/03/2023,30/10/2023,02/11/2023,174,174,Chambre Double,,Hôtel Au Petit Languedoc,Lourdes,,44
+,02/03/2023,30/10/2023,02/11/2023,184,184,Chambre Double,,Hôtel Saint Vincent,Bagnères-de-Bigorre,,44
+,02/03/2023,30/10/2023,02/11/2023,200,200,Chambre Double Standard,,Hôtel de L'Avenue,Tarbes,,44
+,02/03/2023,30/10/2023,02/11/2023,148,148,Chambre avec 1 Lit Double ,,Kyriad Tarbes Odos,Odos,,44
+,02/03/2023,30/10/2023,02/11/2023,110,110,Chambre Double ou Lits Jumeaux Économique ,,Le Petit Majestic,Lourdes,,44
+,02/03/2023,30/10/2023,02/11/2023,279,279,Chambre Double,,Hôtel Le Milan,Lourdes,,44
+,02/03/2023,30/10/2023,02/11/2023,200,200,Chambre Double,,Cit'Hotel de La Vallée,Lourdes,,44
+,02/03/2023,30/10/2023,02/11/2023,226,226,Chambre Double,,"L' Auberge Campagnarde, Lourdes Spa Sauna Restaurant",Poueyferré,,44
+,02/03/2023,30/10/2023,02/11/2023,139,139,Chambre Double,,Chalet Saint Louis,Lourdes,,44
+,02/03/2023,30/10/2023,02/11/2023,167,167,Chambre Lits Jumeaux,,Kyriad Tarbes Bastillac,Tarbes,,44
+,02/03/2023,30/10/2023,02/11/2023,174,174,Chambre Double ou Lits Jumeaux,,Hôtel Alliance,Lourdes,,44
+,02/03/2023,30/10/2023,02/11/2023,250,250,Chambre Double Économique,,Maison d'hoursentut,Sainte-Marie-de-Campan,,44
+,02/03/2023,30/10/2023,02/11/2023,256,256,Chambre Double,,Nex Hôtel,Tarbes,,44
+,02/03/2023,30/10/2023,02/11/2023,168,168,Offre Spéciale - Chambre Double ou Lits Jumeaux,,Hôtel Angelic,Lourdes,,44
+,02/03/2023,30/10/2023,02/11/2023,194,194,Chambre Double Standard,,Le Nex2,Tarbes,,44
+,02/03/2023,30/10/2023,02/11/2023,282,282,Chambre Double Standard,,Grand Hôtel de France,Pierrefitte-Nestalas,,44
+,02/03/2023,30/10/2023,02/11/2023,189,189,Chambre Double Confort avec Douche,,Hôtel Saint Etienne,Lourdes,,44
+,02/03/2023,30/10/2023,02/11/2023,183,183,Chambre Lits Jumeaux,,L'Auberge Everhotel de Tarbes-Ibos,Tarbes,,44
+,02/03/2023,30/10/2023,02/11/2023,391,391,Chambre Lits Jumeaux Exécutive,,Le Rex Hôtel,Tarbes,,44
+,02/03/2023,30/10/2023,02/11/2023,149,149,Chambre Double avec Douche,,Hôtel Kennedy Parc des Expositions,Tarbes,,44
+,02/03/2023,30/10/2023,02/11/2023,146,146,Chambre Double ou Lits Jumeaux,,Hôtel Majestic,Lourdes,,44
+,02/03/2023,30/10/2023,02/11/2023,292,292,Chambre Double ou Lits Jumeaux - Accessible aux Personnes à Mobilité Réduite,,Hôtel Padoue,Lourdes,,44
+,02/03/2023,30/10/2023,02/11/2023,302,302,Chambre Double Confort Grand Lit ou Twin,,Best Western Beauséjour,Lourdes,,44
+,02/03/2023,30/10/2023,02/11/2023,487,487,Chambre Double Supérieure,,Grand Hôtel Gallia & Londres Spa NUXE,Lourdes,,44
+,02/03/2023,30/10/2023,02/11/2023,232,232,Chambre Double Basique,,Hôtel Le Tivoli,Vic-en-Bigorre,,44
+,02/03/2023,30/10/2023,02/11/2023,227,227,Chambre Double ou Lits Jumeaux,,Hôtel Saint Sauveur,Lourdes,,44
+,02/03/2023,30/10/2023,02/11/2023,195,195,Chambre Double,,Hôtel Continental,Lourdes,,44
+,02/03/2023,30/10/2023,02/11/2023,200,200,Chambre Double,,Hôtel du Béarn,Bagnères-de-Bigorre,,44
+,02/03/2023,30/10/2023,02/11/2023,180,180,Chambre Double,,Résidence Hôtelière du MAGNOAC,Castelnau-Magnoac,,44
+,02/03/2023,30/10/2023,02/11/2023,213,213,Chambre Double,,Hôtel du Casino de Capvern,Capvern,,44
+,02/03/2023,30/10/2023,02/11/2023,246,246,Chambre Double Standard,,Hôtel du Soleil Levant,Argelès-Gazost,,44
+,02/03/2023,30/10/2023,02/11/2023,185,185,Chambre Double,,Hôtel Peyramale,Lourdes,,44
+,02/03/2023,30/10/2023,02/11/2023,463,463,Appartement avec Balcon,,Hôtel La Solitude,Lourdes,,44
+,02/03/2023,30/10/2023,02/11/2023,340,340,Chambre Double,,Hôtel Panorama,Lourdes,,44
+,02/03/2023,30/10/2023,02/11/2023,254,254,Chambre Double Standard,,ibis Tarbes Odos,Odos,,44
+,02/03/2023,30/10/2023,02/11/2023,174,174,Chambre Double,,Hôtel Au Petit Languedoc,Lourdes,,44
+,02/03/2023,30/10/2023,02/11/2023,184,184,Chambre Double,,Hôtel Saint Vincent,Bagnères-de-Bigorre,,44
+,02/03/2023,30/10/2023,02/11/2023,200,200,Chambre Double Standard,,Hôtel de L'Avenue,Tarbes,,44
+,02/03/2023,30/10/2023,02/11/2023,148,148,Chambre avec 1 Lit Double ,,Kyriad Tarbes Odos,Odos,,44
+,02/03/2023,30/10/2023,02/11/2023,110,110,Chambre Double ou Lits Jumeaux Économique ,,Le Petit Majestic,Lourdes,,44
+,02/03/2023,30/10/2023,02/11/2023,279,279,Chambre Double,,Hôtel Le Milan,Lourdes,,44
+,02/03/2023,30/10/2023,02/11/2023,200,200,Chambre Double,,Cit'Hotel de La Vallée,Lourdes,,44
+,02/03/2023,30/10/2023,02/11/2023,226,226,Chambre Double,,"L' Auberge Campagnarde, Lourdes Spa Sauna Restaurant",Poueyferré,,44
+,02/03/2023,30/10/2023,02/11/2023,139,139,Chambre Double,,Chalet Saint Louis,Lourdes,,44
+,02/03/2023,30/10/2023,02/11/2023,167,167,Chambre Lits Jumeaux,,Kyriad Tarbes Bastillac,Tarbes,,44
+,02/03/2023,30/10/2023,02/11/2023,243,243,Chambre Double,,Hotel Bellevue,Hendaye,,44
+,02/03/2023,30/10/2023,02/11/2023,347,347,Chambre Double,,Hotel Balea,Guéthary,,44
+,02/03/2023,30/10/2023,02/11/2023,270,270,Chambre Double Standard,,Hotel Cote Basque,Bayonne,,44
+,02/03/2023,30/10/2023,02/11/2023,255,255,Chambre Double Standard,,Hotel De Gramont,Pau,,44
+,02/03/2023,30/10/2023,02/11/2023,268,268,Chambre Double Standing,,Hôtel Le Roncevaux,Pau,,44
+,02/03/2023,30/10/2023,02/11/2023,251,251,Chambre Double,,Quality Hotel Pau Centre Bosquet,Pau,,44
+,02/03/2023,30/10/2023,02/11/2023,199,199,Petite Chambre Double ou Lits Jumeaux,,Gite Compostella,Saint-Jean-Pied-de-Port,,44
+,02/03/2023,30/10/2023,02/11/2023,164,164,Chambre Double - Accessible aux Personnes à Mobilité Réduite ,,Quick Palace Pau Zénith,Pau,,44
+,02/03/2023,30/10/2023,02/11/2023,235,235,Chambre Double avec Douche Privée Extérieure,,Outsite Biarritz,"Centre de Biarritz, Biarritz",,44
+,02/03/2023,30/10/2023,02/11/2023,271,271,Chambre Double Standard,,Hotel Le Relais Saint-Jacques,Saint-Jean-de-Luz,,44
+,02/03/2023,30/10/2023,02/11/2023,363,363,Chambre Lits Jumeaux,,Hotel Donibane,Saint-Jean-de-Luz,,44
+,02/03/2023,30/10/2023,02/11/2023,239,239,Chambre Double,,Brit Hotel de Paris Saint-Jean-de-Luz,Saint-Jean-de-Luz,,44
+,02/03/2023,30/10/2023,02/11/2023,235,235,Chambre Lits Jumeaux,,Brit Hotel Confort Pau Lons,Lons,,44
+,02/03/2023,30/10/2023,02/11/2023,324,324,Chambre Standard Lit Queen-Size,,Fasthôtel Oloron Hostellerie du Paon Blanc,Lurbe-Saint-Christau,,44
+,02/03/2023,30/10/2023,02/11/2023,198,198,Chambre Double Classique,,Hotel Colbert,Saint-Jean-de-Luz,,44
+,02/03/2023,30/10/2023,02/11/2023,216,174,Chambre Double,,Cit'Hotel Atlantic Hotel,Pau,,44
+,02/03/2023,30/10/2023,02/11/2023,293,293,Chambre Double Standard,,Grand Hôtel de la Poste,Saint-Jean-de-Luz,,44
+,02/03/2023,30/10/2023,02/11/2023,188,188,Chambre Double,,B&B HOTEL Pau Lescar,Lescar,,44
+,02/03/2023,30/10/2023,02/11/2023,298,298,Chambre Double,,Hôtel PALMITO,"Centre de Biarritz, Biarritz",,44
+,02/03/2023,30/10/2023,02/11/2023,321,321,Chambre Double Standard,,Hôtel & Espace Bien-être La Maison du Lierre,"Centre de Biarritz, Biarritz",,44
+,02/03/2023,30/10/2023,02/11/2023,163,163,Chambre Triple Standard avec 1 Lit Double et 1 Lit Simple,,ibis budget Ciboure St-Jean-Luz,Ciboure,,44
+,02/03/2023,30/10/2023,02/11/2023,260,260,Chambre Double Économique,,Hôtel d'Ossau,Laruns,,44
+,02/03/2023,30/10/2023,02/11/2023,459,459,Chambre - Vue sur Ville,,Hôtel de la Plage - Saint Jean de Luz,Saint-Jean-de-Luz,,44
+,02/03/2023,30/10/2023,02/11/2023,358,358,Chambre Confort ,,Hôtel Villa KOEGUI Bayonne,Bayonne,,44
+,02/03/2023,30/10/2023,02/11/2023,643,643,Chambre Double Standard - Sans Vue,,Hôtel Le Windsor Biarritz,"Centre de Biarritz, Biarritz",,44
+,02/03/2023,30/10/2023,02/11/2023,591,591,Chambre Double - Vue sur Patio,,Hotel de La Plage - Nouvel Etablissement,"Centre de Biarritz, Biarritz",,44
+,02/03/2023,30/10/2023,02/11/2023,125,125,Chambre Double avec Lit Queen-Size,,ibis budget Pau Lescar,Lescar,,44
+,02/03/2023,30/10/2023,02/11/2023,639,639,Chambre Double,,Hôtel & Spa Madison Saint Jean de Luz,Saint-Jean-de-Luz,,44
+,02/03/2023,30/10/2023,02/11/2023,448,448,Chambre Double ou Lits Jumeaux Standard,,Grand Tonic Hotel & SPA NUXE,Biarritz,,44
+,02/03/2023,30/10/2023,02/11/2023,205,205,Chambre Double,,Hotel Le Bourbon Pau Centre,Pau,,44
+,02/03/2023,30/10/2023,02/11/2023,784,784,Chambre Double Standard - Vue sur Océan,,Hôtel Le Café de Paris,"Centre de Biarritz, Biarritz",,44
+,02/03/2023,30/10/2023,02/11/2023,156,156,Chambre Triple,,ibis budget Bayonne,Bayonne,,44
+,02/03/2023,30/10/2023,02/11/2023,287,287,Chambre Double ou Lits Jumeaux - Vue sur Ville,,Logis Hôtel Etchemaïté,Larrau,,44
+,02/03/2023,30/10/2023,02/11/2023,183,183,Chambre Double,,Hôtel Lastiry,Sare,,44
+,02/03/2023,30/10/2023,02/11/2023,208,208,Chambre Lits Jumeaux,,B&B HOTEL Saint Jean de Luz,Saint-Jean-de-Luz,,44
+,02/03/2023,30/10/2023,02/11/2023,243,243,Chambre Double,,Hotel Bellevue,Hendaye,,44
+,02/03/2023,30/10/2023,02/11/2023,347,347,Chambre Double,,Hotel Balea,Guéthary,,44
+,02/03/2023,30/10/2023,02/11/2023,270,270,Chambre Double Standard,,Hotel Cote Basque,Bayonne,,44
+,02/03/2023,30/10/2023,02/11/2023,255,255,Chambre Double Standard,,Hotel De Gramont,Pau,,44
+,02/03/2023,30/10/2023,02/11/2023,268,268,Chambre Double Standing,,Hôtel Le Roncevaux,Pau,,44
+,02/03/2023,30/10/2023,02/11/2023,251,251,Chambre Double,,Quality Hotel Pau Centre Bosquet,Pau,,44
+,02/03/2023,30/10/2023,02/11/2023,199,199,Petite Chambre Double ou Lits Jumeaux,,Gite Compostella,Saint-Jean-Pied-de-Port,,44
+,02/03/2023,30/10/2023,02/11/2023,164,164,Chambre Double - Accessible aux Personnes à Mobilité Réduite ,,Quick Palace Pau Zénith,Pau,,44
+,02/03/2023,30/10/2023,02/11/2023,235,235,Chambre Double avec Douche Privée Extérieure,,Outsite Biarritz,"Centre de Biarritz, Biarritz",,44
+,02/03/2023,30/10/2023,02/11/2023,271,271,Chambre Double Standard,,Hotel Le Relais Saint-Jacques,Saint-Jean-de-Luz,,44
+,02/03/2023,30/10/2023,02/11/2023,363,363,Chambre Lits Jumeaux,,Hotel Donibane,Saint-Jean-de-Luz,,44
+,02/03/2023,30/10/2023,02/11/2023,239,239,Chambre Double,,Brit Hotel de Paris Saint-Jean-de-Luz,Saint-Jean-de-Luz,,44
+,02/03/2023,30/10/2023,02/11/2023,235,235,Chambre Lits Jumeaux,,Brit Hotel Confort Pau Lons,Lons,,44
+,02/03/2023,30/10/2023,02/11/2023,324,324,Chambre Standard Lit Queen-Size,,Fasthôtel Oloron Hostellerie du Paon Blanc,Lurbe-Saint-Christau,,44
+,02/03/2023,30/10/2023,02/11/2023,198,198,Chambre Double Classique,,Hotel Colbert,Saint-Jean-de-Luz,,44
+,02/03/2023,30/10/2023,02/11/2023,216,174,Chambre Double,,Cit'Hotel Atlantic Hotel,Pau,,44
+,02/03/2023,30/10/2023,02/11/2023,293,293,Chambre Double Standard,,Grand Hôtel de la Poste,Saint-Jean-de-Luz,,44
+,02/03/2023,30/10/2023,02/11/2023,188,188,Chambre Double,,B&B HOTEL Pau Lescar,Lescar,,44
+,02/03/2023,30/10/2023,02/11/2023,298,298,Chambre Double,,Hôtel PALMITO,"Centre de Biarritz, Biarritz",,44
+,02/03/2023,30/10/2023,02/11/2023,321,321,Chambre Double Standard,,Hôtel & Espace Bien-être La Maison du Lierre,"Centre de Biarritz, Biarritz",,44
+,02/03/2023,30/10/2023,02/11/2023,163,163,Chambre Triple Standard avec 1 Lit Double et 1 Lit Simple,,ibis budget Ciboure St-Jean-Luz,Ciboure,,44
+,02/03/2023,30/10/2023,02/11/2023,260,260,Chambre Double Économique,,Hôtel d'Ossau,Laruns,,44
+,02/03/2023,30/10/2023,02/11/2023,459,459,Chambre - Vue sur Ville,,Hôtel de la Plage - Saint Jean de Luz,Saint-Jean-de-Luz,,44
+,02/03/2023,30/10/2023,02/11/2023,358,358,Chambre Confort ,,Hôtel Villa KOEGUI Bayonne,Bayonne,,44
+,02/03/2023,30/10/2023,02/11/2023,643,643,Chambre Double Standard - Sans Vue,,Hôtel Le Windsor Biarritz,"Centre de Biarritz, Biarritz",,44
+,02/03/2023,30/10/2023,02/11/2023,591,591,Chambre Double - Vue sur Patio,,Hotel de La Plage - Nouvel Etablissement,"Centre de Biarritz, Biarritz",,44
+,02/03/2023,30/10/2023,02/11/2023,125,125,Chambre Double avec Lit Queen-Size,,ibis budget Pau Lescar,Lescar,,44
+,02/03/2023,30/10/2023,02/11/2023,639,639,Chambre Double,,Hôtel & Spa Madison Saint Jean de Luz,Saint-Jean-de-Luz,,44
+,02/03/2023,30/10/2023,02/11/2023,448,448,Chambre Double ou Lits Jumeaux Standard,,Grand Tonic Hotel & SPA NUXE,Biarritz,,44
+,02/03/2023,30/10/2023,02/11/2023,205,205,Chambre Double,,Hotel Le Bourbon Pau Centre,Pau,,44
+,02/03/2023,30/10/2023,02/11/2023,784,784,Chambre Double Standard - Vue sur Océan,,Hôtel Le Café de Paris,"Centre de Biarritz, Biarritz",,44
+,02/03/2023,30/10/2023,02/11/2023,156,156,Chambre Triple,,ibis budget Bayonne,Bayonne,,44
+,02/03/2023,30/10/2023,02/11/2023,287,287,Chambre Double ou Lits Jumeaux - Vue sur Ville,,Logis Hôtel Etchemaïté,Larrau,,44
+,02/03/2023,30/10/2023,02/11/2023,183,183,Chambre Double,,Hôtel Lastiry,Sare,,44
+,02/03/2023,30/10/2023,02/11/2023,208,208,Chambre Lits Jumeaux,,B&B HOTEL Saint Jean de Luz,Saint-Jean-de-Luz,,44
+,02/03/2023,30/10/2023,02/11/2023,243,243,Chambre Double,,Hotel Bellevue,Hendaye,,44
+,02/03/2023,30/10/2023,02/11/2023,347,347,Chambre Double,,Hotel Balea,Guéthary,,44
+,02/03/2023,30/10/2023,02/11/2023,270,270,Chambre Double Standard,,Hotel Cote Basque,Bayonne,,44
+,02/03/2023,30/10/2023,02/11/2023,255,255,Chambre Double Standard,,Hotel De Gramont,Pau,,44
+,02/03/2023,30/10/2023,02/11/2023,268,268,Chambre Double Standing,,Hôtel Le Roncevaux,Pau,,44
+,02/03/2023,30/10/2023,02/11/2023,251,251,Chambre Double,,Quality Hotel Pau Centre Bosquet,Pau,,44
+,02/03/2023,30/10/2023,02/11/2023,199,199,Petite Chambre Double ou Lits Jumeaux,,Gite Compostella,Saint-Jean-Pied-de-Port,,44
+,02/03/2023,30/10/2023,02/11/2023,164,164,Chambre Double - Accessible aux Personnes à Mobilité Réduite ,,Quick Palace Pau Zénith,Pau,,44
+,02/03/2023,30/10/2023,02/11/2023,235,235,Chambre Double avec Douche Privée Extérieure,,Outsite Biarritz,"Centre de Biarritz, Biarritz",,44
+,02/03/2023,30/10/2023,02/11/2023,271,271,Chambre Double Standard,,Hotel Le Relais Saint-Jacques,Saint-Jean-de-Luz,,44
+,02/03/2023,30/10/2023,02/11/2023,363,363,Chambre Lits Jumeaux,,Hotel Donibane,Saint-Jean-de-Luz,,44
+,02/03/2023,30/10/2023,02/11/2023,239,239,Chambre Double,,Brit Hotel de Paris Saint-Jean-de-Luz,Saint-Jean-de-Luz,,44
+,02/03/2023,30/10/2023,02/11/2023,235,235,Chambre Lits Jumeaux,,Brit Hotel Confort Pau Lons,Lons,,44
+,02/03/2023,30/10/2023,02/11/2023,324,324,Chambre Standard Lit Queen-Size,,Fasthôtel Oloron Hostellerie du Paon Blanc,Lurbe-Saint-Christau,,44
+,02/03/2023,30/10/2023,02/11/2023,198,198,Chambre Double Classique,,Hotel Colbert,Saint-Jean-de-Luz,,44
+,02/03/2023,30/10/2023,02/11/2023,216,174,Chambre Double,,Cit'Hotel Atlantic Hotel,Pau,,44
+,02/03/2023,30/10/2023,02/11/2023,293,293,Chambre Double Standard,,Grand Hôtel de la Poste,Saint-Jean-de-Luz,,44
+,02/03/2023,30/10/2023,02/11/2023,188,188,Chambre Double,,B&B HOTEL Pau Lescar,Lescar,,44
+,02/03/2023,30/10/2023,02/11/2023,298,298,Chambre Double,,Hôtel PALMITO,"Centre de Biarritz, Biarritz",,44
+,02/03/2023,30/10/2023,02/11/2023,321,321,Chambre Double Standard,,Hôtel & Espace Bien-être La Maison du Lierre,"Centre de Biarritz, Biarritz",,44
+,02/03/2023,30/10/2023,02/11/2023,163,163,Chambre Triple Standard avec 1 Lit Double et 1 Lit Simple,,ibis budget Ciboure St-Jean-Luz,Ciboure,,44
+,02/03/2023,30/10/2023,02/11/2023,260,260,Chambre Double Économique,,Hôtel d'Ossau,Laruns,,44
+,02/03/2023,30/10/2023,02/11/2023,459,459,Chambre - Vue sur Ville,,Hôtel de la Plage - Saint Jean de Luz,Saint-Jean-de-Luz,,44
+,02/03/2023,30/10/2023,02/11/2023,358,358,Chambre Confort ,,Hôtel Villa KOEGUI Bayonne,Bayonne,,44
+,02/03/2023,30/10/2023,02/11/2023,643,643,Chambre Double Standard - Sans Vue,,Hôtel Le Windsor Biarritz,"Centre de Biarritz, Biarritz",,44
+,02/03/2023,30/10/2023,02/11/2023,591,591,Chambre Double - Vue sur Patio,,Hotel de La Plage - Nouvel Etablissement,"Centre de Biarritz, Biarritz",,44
+,02/03/2023,30/10/2023,02/11/2023,125,125,Chambre Double avec Lit Queen-Size,,ibis budget Pau Lescar,Lescar,,44
+,02/03/2023,30/10/2023,02/11/2023,639,639,Chambre Double,,Hôtel & Spa Madison Saint Jean de Luz,Saint-Jean-de-Luz,,44
+,02/03/2023,30/10/2023,02/11/2023,448,448,Chambre Double ou Lits Jumeaux Standard,,Grand Tonic Hotel & SPA NUXE,Biarritz,,44
+,02/03/2023,30/10/2023,02/11/2023,205,205,Chambre Double,,Hotel Le Bourbon Pau Centre,Pau,,44
+,02/03/2023,30/10/2023,02/11/2023,784,784,Chambre Double Standard - Vue sur Océan,,Hôtel Le Café de Paris,"Centre de Biarritz, Biarritz",,44
+,02/03/2023,30/10/2023,02/11/2023,156,156,Chambre Triple,,ibis budget Bayonne,Bayonne,,44
+,02/03/2023,30/10/2023,02/11/2023,287,287,Chambre Double ou Lits Jumeaux - Vue sur Ville,,Logis Hôtel Etchemaïté,Larrau,,44
+,02/03/2023,30/10/2023,02/11/2023,183,183,Chambre Double,,Hôtel Lastiry,Sare,,44
+,02/03/2023,30/10/2023,02/11/2023,208,208,Chambre Lits Jumeaux,,B&B HOTEL Saint Jean de Luz,Saint-Jean-de-Luz,,44
+,02/03/2023,30/10/2023,02/11/2023,243,243,Chambre Double,,Hotel Bellevue,Hendaye,,44
+,02/03/2023,30/10/2023,02/11/2023,347,347,Chambre Double,,Hotel Balea,Guéthary,,44
+,02/03/2023,30/10/2023,02/11/2023,270,270,Chambre Double Standard,,Hotel Cote Basque,Bayonne,,44
+,02/03/2023,30/10/2023,02/11/2023,255,255,Chambre Double Standard,,Hotel De Gramont,Pau,,44
+,02/03/2023,30/10/2023,02/11/2023,268,268,Chambre Double Standing,,Hôtel Le Roncevaux,Pau,,44
+,02/03/2023,30/10/2023,02/11/2023,251,251,Chambre Double,,Quality Hotel Pau Centre Bosquet,Pau,,44
+,02/03/2023,30/10/2023,02/11/2023,199,199,Petite Chambre Double ou Lits Jumeaux,,Gite Compostella,Saint-Jean-Pied-de-Port,,44
+,02/03/2023,30/10/2023,02/11/2023,164,164,Chambre Double - Accessible aux Personnes à Mobilité Réduite ,,Quick Palace Pau Zénith,Pau,,44
+,02/03/2023,30/10/2023,02/11/2023,235,235,Chambre Double avec Douche Privée Extérieure,,Outsite Biarritz,"Centre de Biarritz, Biarritz",,44
+,02/03/2023,30/10/2023,02/11/2023,271,271,Chambre Double Standard,,Hotel Le Relais Saint-Jacques,Saint-Jean-de-Luz,,44
+,02/03/2023,30/10/2023,02/11/2023,363,363,Chambre Lits Jumeaux,,Hotel Donibane,Saint-Jean-de-Luz,,44
+,02/03/2023,30/10/2023,02/11/2023,239,239,Chambre Double,,Brit Hotel de Paris Saint-Jean-de-Luz,Saint-Jean-de-Luz,,44
+,02/03/2023,30/10/2023,02/11/2023,235,235,Chambre Lits Jumeaux,,Brit Hotel Confort Pau Lons,Lons,,44
+,02/03/2023,30/10/2023,02/11/2023,324,324,Chambre Standard Lit Queen-Size,,Fasthôtel Oloron Hostellerie du Paon Blanc,Lurbe-Saint-Christau,,44
+,02/03/2023,30/10/2023,02/11/2023,198,198,Chambre Double Classique,,Hotel Colbert,Saint-Jean-de-Luz,,44
+,02/03/2023,30/10/2023,02/11/2023,216,174,Chambre Double,,Cit'Hotel Atlantic Hotel,Pau,,44
+,02/03/2023,30/10/2023,02/11/2023,293,293,Chambre Double Standard,,Grand Hôtel de la Poste,Saint-Jean-de-Luz,,44
+,02/03/2023,30/10/2023,02/11/2023,188,188,Chambre Double,,B&B HOTEL Pau Lescar,Lescar,,44
+,02/03/2023,30/10/2023,02/11/2023,298,298,Chambre Double,,Hôtel PALMITO,"Centre de Biarritz, Biarritz",,44
+,02/03/2023,30/10/2023,02/11/2023,321,321,Chambre Double Standard,,Hôtel & Espace Bien-être La Maison du Lierre,"Centre de Biarritz, Biarritz",,44
+,02/03/2023,30/10/2023,02/11/2023,163,163,Chambre Triple Standard avec 1 Lit Double et 1 Lit Simple,,ibis budget Ciboure St-Jean-Luz,Ciboure,,44
+,02/03/2023,30/10/2023,02/11/2023,260,260,Chambre Double Économique,,Hôtel d'Ossau,Laruns,,44
+,02/03/2023,30/10/2023,02/11/2023,459,459,Chambre - Vue sur Ville,,Hôtel de la Plage - Saint Jean de Luz,Saint-Jean-de-Luz,,44
+,02/03/2023,30/10/2023,02/11/2023,358,358,Chambre Confort ,,Hôtel Villa KOEGUI Bayonne,Bayonne,,44
+,02/03/2023,30/10/2023,02/11/2023,643,643,Chambre Double Standard - Sans Vue,,Hôtel Le Windsor Biarritz,"Centre de Biarritz, Biarritz",,44
+,02/03/2023,30/10/2023,02/11/2023,591,591,Chambre Double - Vue sur Patio,,Hotel de La Plage - Nouvel Etablissement,"Centre de Biarritz, Biarritz",,44
+,02/03/2023,30/10/2023,02/11/2023,125,125,Chambre Double avec Lit Queen-Size,,ibis budget Pau Lescar,Lescar,,44
+,02/03/2023,30/10/2023,02/11/2023,639,639,Chambre Double,,Hôtel & Spa Madison Saint Jean de Luz,Saint-Jean-de-Luz,,44
+,02/03/2023,30/10/2023,02/11/2023,448,448,Chambre Double ou Lits Jumeaux Standard,,Grand Tonic Hotel & SPA NUXE,Biarritz,,44
+,02/03/2023,30/10/2023,02/11/2023,205,205,Chambre Double,,Hotel Le Bourbon Pau Centre,Pau,,44
+,02/03/2023,30/10/2023,02/11/2023,784,784,Chambre Double Standard - Vue sur Océan,,Hôtel Le Café de Paris,"Centre de Biarritz, Biarritz",,44
+,02/03/2023,30/10/2023,02/11/2023,156,156,Chambre Triple,,ibis budget Bayonne,Bayonne,,44
+,02/03/2023,30/10/2023,02/11/2023,287,287,Chambre Double ou Lits Jumeaux - Vue sur Ville,,Logis Hôtel Etchemaïté,Larrau,,44
+,02/03/2023,30/10/2023,02/11/2023,183,183,Chambre Double,,Hôtel Lastiry,Sare,,44
+,02/03/2023,30/10/2023,02/11/2023,208,208,Chambre Lits Jumeaux,,B&B HOTEL Saint Jean de Luz,Saint-Jean-de-Luz,,44
+,02/03/2023,30/10/2023,02/11/2023,243,243,Chambre Double,,Hotel Bellevue,Hendaye,,44
+,02/03/2023,30/10/2023,02/11/2023,347,347,Chambre Double,,Hotel Balea,Guéthary,,44
+,02/03/2023,30/10/2023,02/11/2023,270,270,Chambre Double Standard,,Hotel Cote Basque,Bayonne,,44
+,02/03/2023,30/10/2023,02/11/2023,255,255,Chambre Double Standard,,Hotel De Gramont,Pau,,44
+,02/03/2023,30/10/2023,02/11/2023,268,268,Chambre Double Standing,,Hôtel Le Roncevaux,Pau,,44
+,02/03/2023,30/10/2023,02/11/2023,251,251,Chambre Double,,Quality Hotel Pau Centre Bosquet,Pau,,44
+,02/03/2023,30/10/2023,02/11/2023,199,199,Petite Chambre Double ou Lits Jumeaux,,Gite Compostella,Saint-Jean-Pied-de-Port,,44
+,02/03/2023,30/10/2023,02/11/2023,164,164,Chambre Double - Accessible aux Personnes à Mobilité Réduite ,,Quick Palace Pau Zénith,Pau,,44
+,02/03/2023,30/10/2023,02/11/2023,235,235,Chambre Double avec Douche Privée Extérieure,,Outsite Biarritz,"Centre de Biarritz, Biarritz",,44
+,02/03/2023,30/10/2023,02/11/2023,271,271,Chambre Double Standard,,Hotel Le Relais Saint-Jacques,Saint-Jean-de-Luz,,44
+,02/03/2023,30/10/2023,02/11/2023,363,363,Chambre Lits Jumeaux,,Hotel Donibane,Saint-Jean-de-Luz,,44
+,02/03/2023,30/10/2023,02/11/2023,239,239,Chambre Double,,Brit Hotel de Paris Saint-Jean-de-Luz,Saint-Jean-de-Luz,,44
+,02/03/2023,30/10/2023,02/11/2023,235,235,Chambre Lits Jumeaux,,Brit Hotel Confort Pau Lons,Lons,,44
+,02/03/2023,30/10/2023,02/11/2023,324,324,Chambre Standard Lit Queen-Size,,Fasthôtel Oloron Hostellerie du Paon Blanc,Lurbe-Saint-Christau,,44
+,02/03/2023,30/10/2023,02/11/2023,198,198,Chambre Double Classique,,Hotel Colbert,Saint-Jean-de-Luz,,44
+,02/03/2023,30/10/2023,02/11/2023,216,174,Chambre Double,,Cit'Hotel Atlantic Hotel,Pau,,44
+,02/03/2023,30/10/2023,02/11/2023,293,293,Chambre Double Standard,,Grand Hôtel de la Poste,Saint-Jean-de-Luz,,44
+,02/03/2023,30/10/2023,02/11/2023,188,188,Chambre Double,,B&B HOTEL Pau Lescar,Lescar,,44
+,02/03/2023,30/10/2023,02/11/2023,298,298,Chambre Double,,Hôtel PALMITO,"Centre de Biarritz, Biarritz",,44
+,02/03/2023,30/10/2023,02/11/2023,321,321,Chambre Double Standard,,Hôtel & Espace Bien-être La Maison du Lierre,"Centre de Biarritz, Biarritz",,44
+,02/03/2023,30/10/2023,02/11/2023,163,163,Chambre Triple Standard avec 1 Lit Double et 1 Lit Simple,,ibis budget Ciboure St-Jean-Luz,Ciboure,,44
+,02/03/2023,30/10/2023,02/11/2023,260,260,Chambre Double Économique,,Hôtel d'Ossau,Laruns,,44
+,02/03/2023,30/10/2023,02/11/2023,459,459,Chambre - Vue sur Ville,,Hôtel de la Plage - Saint Jean de Luz,Saint-Jean-de-Luz,,44
+,02/03/2023,30/10/2023,02/11/2023,358,358,Chambre Confort ,,Hôtel Villa KOEGUI Bayonne,Bayonne,,44
+,02/03/2023,30/10/2023,02/11/2023,643,643,Chambre Double Standard - Sans Vue,,Hôtel Le Windsor Biarritz,"Centre de Biarritz, Biarritz",,44
+,02/03/2023,30/10/2023,02/11/2023,591,591,Chambre Double - Vue sur Patio,,Hotel de La Plage - Nouvel Etablissement,"Centre de Biarritz, Biarritz",,44
+,02/03/2023,30/10/2023,02/11/2023,125,125,Chambre Double avec Lit Queen-Size,,ibis budget Pau Lescar,Lescar,,44
+,02/03/2023,30/10/2023,02/11/2023,639,639,Chambre Double,,Hôtel & Spa Madison Saint Jean de Luz,Saint-Jean-de-Luz,,44
+,02/03/2023,30/10/2023,02/11/2023,448,448,Chambre Double ou Lits Jumeaux Standard,,Grand Tonic Hotel & SPA NUXE,Biarritz,,44
+,02/03/2023,30/10/2023,02/11/2023,205,205,Chambre Double,,Hotel Le Bourbon Pau Centre,Pau,,44
+,02/03/2023,30/10/2023,02/11/2023,784,784,Chambre Double Standard - Vue sur Océan,,Hôtel Le Café de Paris,"Centre de Biarritz, Biarritz",,44
+,02/03/2023,30/10/2023,02/11/2023,156,156,Chambre Triple,,ibis budget Bayonne,Bayonne,,44
+,02/03/2023,30/10/2023,02/11/2023,287,287,Chambre Double ou Lits Jumeaux - Vue sur Ville,,Logis Hôtel Etchemaïté,Larrau,,44
+,02/03/2023,30/10/2023,02/11/2023,183,183,Chambre Double,,Hôtel Lastiry,Sare,,44
+,02/03/2023,30/10/2023,02/11/2023,208,208,Chambre Lits Jumeaux,,B&B HOTEL Saint Jean de Luz,Saint-Jean-de-Luz,,44
+,02/03/2023,31/10/2023,03/11/2023,1155,1155,Chambre Double Supérieure,,Flocons de Sel,Megève,,44
+,02/03/2023,31/10/2023,03/11/2023,344,344,Chambre Lits Jumeaux Standard,,ibis Styles Albertville,Albertville,,44
+,02/03/2023,31/10/2023,03/11/2023,606,606,Chambre Double Confort,,Coeur de Megève,Megève,,44
+,02/03/2023,31/10/2023,03/11/2023,371,371,Chambre Double Classique avec Canapé-Lit,,Novotel Megève Mont-Blanc,Megève,,44
+,02/03/2023,31/10/2023,03/11/2023,279,279,Chambre Double,,Albert 1er,Albertville,,44
+,02/03/2023,31/10/2023,03/11/2023,1383,1383,Chambre Double Club,,Les Fermes de Marie,Megève,,44
+,02/03/2023,31/10/2023,03/11/2023,187,187,Chambre Triple,,ibis budget Albertville,Gilly-sur-Isère,,44
+,02/03/2023,31/10/2023,03/11/2023,271,271,Chambre Double - Accessible aux Personnes à Mobilité Réduite ,,Brit Hotel Florimont,Saint-Ferréol,,44
+,02/03/2023,31/10/2023,03/11/2023,384,384,Chambre Double - Vue sur Montagnes - 4,,Le Coin Savoyard,Combloux,,44
+,02/03/2023,31/10/2023,03/11/2023,236,236,Chambre Double Standard,,"Hôtel de Genève , Faverges-Seythenex 74210, Haute Savoie",Faverges,,44
+,02/03/2023,31/10/2023,03/11/2023,299,299,Petite Chambre Double ou Lits Jumeaux avec Balcon,,Hotel Beauregard,La Clusaz,,44
+,02/03/2023,31/10/2023,03/11/2023,188,188,Chambre Double Économique,,Hotel La Montagne,La Clusaz,,44
+,02/03/2023,31/10/2023,03/11/2023,234,234,Chambre Double Économique,,Hotel Christiania,La Clusaz,,44
+,02/03/2023,31/10/2023,03/11/2023,221,221,Chambre Double Standard,,Les Airelles,La Clusaz,,44
+,02/03/2023,31/10/2023,03/11/2023,554,554,Chambre Double ou Lits Jumeaux,,Hôtel Restaurant La Ferme de Cupelin,Saint-Gervais-les-Bains,,44
+,02/03/2023,31/10/2023,03/11/2023,480,480,Chambre Double Supérieure,,Les Roches Fleuries,Cordon,,44
+,02/03/2023,31/10/2023,03/11/2023,242,242,Chambre Double,,Hôtel Les Dômes de Miage,Saint-Gervais-les-Bains,,44
+,02/03/2023,31/10/2023,03/11/2023,406,406,Chambre Lits Jumeaux avec Accès Spa,,Hôtel Restaurant La Tourmaline,Aime-La-Plagne,,44
+,02/03/2023,31/10/2023,03/11/2023,672,672,Petite Chambre Double,,Coeur des Neiges,Saint-Gervais-les-Bains,,44
+,02/03/2023,31/10/2023,03/11/2023,326,326,Chambre Double,,Le Charvet,Cordon,,44
+,02/03/2023,31/10/2023,03/11/2023,473,473,Chambre Double - Versant Nord,,Base Camp Lodge Hotels,Bourg-Saint-Maurice,,44
+,02/03/2023,31/10/2023,03/11/2023,293,293,Chambre Double Standard avec Salle de Bains Privative et Toilettes Communes ,,Hôtel La Petite Auberge,Bourg-Saint-Maurice,,44
+,02/03/2023,31/10/2023,03/11/2023,306,306,Chambre Double avec Salle de Bains Privative,,Hôtel Restaurant Angival - Chambres et Appartement,Bourg-Saint-Maurice,,44
+,02/03/2023,31/10/2023,03/11/2023,213,213,Chambre Lits Jumeaux,,Hotel Terminus,Saint-Gervais-les-Bains,,44
+,02/03/2023,31/10/2023,03/11/2023,261,261,Chambre Double,,Fasthotel Thones,Thônes,,44
+,02/03/2023,31/10/2023,03/11/2023,203,203,Chambre Standard avec 1 Lit Double et 1 Lit Simple,,Ibis Hôtel Sallanches,Sallanches,,44
+,02/03/2023,31/10/2023,03/11/2023,209,209,Chambre Triple avec Lit Superposé,,Ibis Budget Sallanches,Sallanches,,44
+,02/03/2023,31/10/2023,03/11/2023,327,327,Chambre Double ou Lits Jumeaux,,Hotel L'alpin,Landry,,44
+,02/03/2023,31/10/2023,03/11/2023,242,242,Chambre Double,,Hôtel National,Cluses,,44
+,02/03/2023,31/10/2023,03/11/2023,310,310,Chambre Double Standard,,"The Originals City, Hôtel du Faucigny, Cluses Ouest",Scionzier,,44
+,02/03/2023,31/10/2023,03/11/2023,282,282,Chambre Double Confort,,Hôtel 4C,Cluses,,44
+,02/03/2023,31/10/2023,03/11/2023,312,312,Chambre Double Économique,,Le Relais Du Mont Blanc,Magland,,44
+,02/03/2023,31/10/2023,03/11/2023,207,207,Chambre Double,,Hotel Edelweiss,Magland,,44
+,02/03/2023,31/10/2023,03/11/2023,493,493,Chambre Double Supérieure,,La Ferme Du Lac,Thyez,,44
+,02/03/2023,31/10/2023,03/11/2023,478,478,Chambre Double Supérieure avec Douche,,La Croix de Savoie & Spa,Les Carroz d'Arâches,,44
+,02/03/2023,31/10/2023,03/11/2023,348,348,Chambre Lits Jumeaux Standard,,Ibis Styles Sallanches Pays du Mont-Blanc,Sallanches,,44
+,02/03/2023,31/10/2023,03/11/2023,275,275,Chambre Lits Jumeaux avec Salle de Bains Privative,,Hôtel-Restaurant La Chartreuse,Le Reposoir,,44
+,02/03/2023,31/10/2023,03/11/2023,203,203,Chambre Standard avec 1 Lit Double et 1 Lit Simple,,Ibis Hôtel Sallanches,Sallanches,,44
+,02/03/2023,31/10/2023,03/11/2023,571,571,Chambre Double Supérieure (2 Adultes),,"Chalet-Hôtel La Marmotte, La Tapiaz & SPA, The Originals Relais (Hotel-Chalet de Tradition)",Les Gets,,44
+,02/03/2023,31/10/2023,03/11/2023,209,209,Chambre Triple avec Lit Superposé,,Ibis Budget Sallanches,Sallanches,,44
+,02/03/2023,31/10/2023,03/11/2023,469,469,Chambre Double ou Lits Jumeaux Classique Plus,,Chamois d'Or Hotel,Les Gets,,44
+,02/03/2023,31/10/2023,03/11/2023,513,513,Chambre Double Supérieure,,Bellevue,Les Gets,,44
+,02/03/2023,31/10/2023,03/11/2023,435,435,Chambre Lits Jumeaux,,Hotel Igloo,Morzine,,44
+,02/03/2023,31/10/2023,03/11/2023,330,330,Petite Chambre Double,,Hotel Rhodos Morzine,Morzine,,44
+,02/03/2023,31/10/2023,03/11/2023,326,326,Chambre Double,,Le Charvet,Cordon,,44
+,02/03/2023,31/10/2023,03/11/2023,431,431,Chambre Lits Jumeaux Économique,,The Nant,Morzine,,44
+,02/03/2023,31/10/2023,03/11/2023,480,480,Chambre Double Supérieure,,Les Roches Fleuries,Cordon,,44
+,02/03/2023,31/10/2023,03/11/2023,324,324,Chambre Double,,Auberge Les Gorges De La Diosaz,Servoz,,44
+,02/03/2023,31/10/2023,03/11/2023,213,213,Chambre Lits Jumeaux,,Hotel Terminus,Saint-Gervais-les-Bains,,44
+,02/03/2023,31/10/2023,03/11/2023,384,384,Chambre Double - Vue sur Montagnes - 4,,Le Coin Savoyard,Combloux,,44
+,02/03/2023,31/10/2023,03/11/2023,554,554,Chambre Double ou Lits Jumeaux,,Hôtel Restaurant La Ferme de Cupelin,Saint-Gervais-les-Bains,,44
+,02/03/2023,31/10/2023,03/11/2023,672,672,Petite Chambre Double,,Coeur des Neiges,Saint-Gervais-les-Bains,,44
+,02/03/2023,31/10/2023,03/11/2023,606,606,Chambre Double,,Hôtel des Portes du Soleil,Les Crosets,,44
+,02/03/2023,31/10/2023,03/11/2023,520,520,Cottage,,Guest House du Grand Paradis,Champéry,,44
+,02/03/2023,31/10/2023,03/11/2023,397,397,Chambre Double,,Hotel Télécabine,Les Crosets,,44
+,02/03/2023,31/10/2023,03/11/2023,551,551,Chambre Double - Vue sur Hameau ,,Hotel L'Etable,Les Crosets,,44
+,02/03/2023,31/10/2023,03/11/2023,251,251,Chambre Lits Jumeaux Côté Vallée,,Le Saint Antoine,Les Houches,,44
+,02/03/2023,31/10/2023,03/11/2023,238,238,Double Room with One Double Bed or Two Single Beds,,ibis Styles Les Houches Chamonix,Les Houches,,44
+,02/03/2023,31/10/2023,03/11/2023,242,242,Chambre Double,,Hôtel Les Dômes de Miage,Saint-Gervais-les-Bains,,44
+,02/03/2023,31/10/2023,03/11/2023,384,384,Hébergement Économique 2 Personnes,,La Folie Douce Hotels Chamonix,"Chamonix City Centre, Chamonix-Mont-Blanc",,44
+,02/03/2023,31/10/2023,03/11/2023,207,207,Chambre Double ou Lits Jumeaux Standard,,RockyPop Chamonix - Les Houches,Les Houches,,44
+,02/03/2023,31/10/2023,03/11/2023,353,353, Chambre Double ou Lits Jumeaux - Vue sur Ville - 16 m²,,Alpina Eclectic Hotel,"Chamonix City Centre, Chamonix-Mont-Blanc",,44
+,02/03/2023,31/10/2023,03/11/2023,376,376,Chambre Double - Vue sur Montagne,,Plan B Hotel - Living Chamonix,"Chamonix City Centre, Chamonix-Mont-Blanc",,44
+,02/03/2023,31/10/2023,03/11/2023,242,242,Chambre Double,,Hôtel National,Cluses,,44
+,02/03/2023,31/10/2023,03/11/2023,310,310,Chambre Double Standard,,"The Originals City, Hôtel du Faucigny, Cluses Ouest",Scionzier,,44
+,02/03/2023,31/10/2023,03/11/2023,282,282,Chambre Double Confort,,Hôtel 4C,Cluses,,44
+,02/03/2023,31/10/2023,03/11/2023,312,312,Chambre Double Économique,,Le Relais Du Mont Blanc,Magland,,44
+,02/03/2023,31/10/2023,03/11/2023,207,207,Chambre Double,,Hotel Edelweiss,Magland,,44
+,02/03/2023,31/10/2023,03/11/2023,493,493,Chambre Double Supérieure,,La Ferme Du Lac,Thyez,,44
+,02/03/2023,31/10/2023,03/11/2023,478,478,Chambre Double Supérieure avec Douche,,La Croix de Savoie & Spa,Les Carroz d'Arâches,,44
+,02/03/2023,31/10/2023,03/11/2023,348,348,Chambre Lits Jumeaux Standard,,Ibis Styles Sallanches Pays du Mont-Blanc,Sallanches,,44
+,02/03/2023,31/10/2023,03/11/2023,275,275,Chambre Lits Jumeaux avec Salle de Bains Privative,,Hôtel-Restaurant La Chartreuse,Le Reposoir,,44
+,02/03/2023,31/10/2023,03/11/2023,203,203,Chambre Standard avec 1 Lit Double et 1 Lit Simple,,Ibis Hôtel Sallanches,Sallanches,,44
+,02/03/2023,31/10/2023,03/11/2023,571,571,Chambre Double Supérieure (2 Adultes),,"Chalet-Hôtel La Marmotte, La Tapiaz & SPA, The Originals Relais (Hotel-Chalet de Tradition)",Les Gets,,44
+,02/03/2023,31/10/2023,03/11/2023,209,209,Chambre Triple avec Lit Superposé,,Ibis Budget Sallanches,Sallanches,,44
+,02/03/2023,31/10/2023,03/11/2023,469,469,Chambre Double ou Lits Jumeaux Classique Plus,,Chamois d'Or Hotel,Les Gets,,44
+,02/03/2023,31/10/2023,03/11/2023,513,513,Chambre Double Supérieure,,Bellevue,Les Gets,,44
+,02/03/2023,31/10/2023,03/11/2023,435,435,Chambre Lits Jumeaux,,Hotel Igloo,Morzine,,44
+,02/03/2023,31/10/2023,03/11/2023,330,330,Petite Chambre Double,,Hotel Rhodos Morzine,Morzine,,44
+,02/03/2023,31/10/2023,03/11/2023,326,326,Chambre Double,,Le Charvet,Cordon,,44
+,02/03/2023,31/10/2023,03/11/2023,431,431,Chambre Lits Jumeaux Économique,,The Nant,Morzine,,44
+,02/03/2023,31/10/2023,03/11/2023,480,480,Chambre Double Supérieure,,Les Roches Fleuries,Cordon,,44
+,02/03/2023,31/10/2023,03/11/2023,324,324,Chambre Double,,Auberge Les Gorges De La Diosaz,Servoz,,44
+,02/03/2023,31/10/2023,03/11/2023,213,213,Chambre Lits Jumeaux,,Hotel Terminus,Saint-Gervais-les-Bains,,44
+,02/03/2023,31/10/2023,03/11/2023,384,384,Chambre Double - Vue sur Montagnes - 4,,Le Coin Savoyard,Combloux,,44
+,02/03/2023,31/10/2023,03/11/2023,554,554,Chambre Double ou Lits Jumeaux,,Hôtel Restaurant La Ferme de Cupelin,Saint-Gervais-les-Bains,,44
+,02/03/2023,31/10/2023,03/11/2023,672,672,Petite Chambre Double,,Coeur des Neiges,Saint-Gervais-les-Bains,,44
+,02/03/2023,31/10/2023,03/11/2023,606,606,Chambre Double,,Hôtel des Portes du Soleil,Les Crosets,,44
+,02/03/2023,31/10/2023,03/11/2023,520,520,Cottage,,Guest House du Grand Paradis,Champéry,,44
+,02/03/2023,31/10/2023,03/11/2023,397,397,Chambre Double,,Hotel Télécabine,Les Crosets,,44
+,02/03/2023,31/10/2023,03/11/2023,551,551,Chambre Double - Vue sur Hameau ,,Hotel L'Etable,Les Crosets,,44
+,02/03/2023,31/10/2023,03/11/2023,251,251,Chambre Lits Jumeaux Côté Vallée,,Le Saint Antoine,Les Houches,,44
+,02/03/2023,31/10/2023,03/11/2023,238,238,Double Room with One Double Bed or Two Single Beds,,ibis Styles Les Houches Chamonix,Les Houches,,44
+,02/03/2023,31/10/2023,03/11/2023,242,242,Chambre Double,,Hôtel Les Dômes de Miage,Saint-Gervais-les-Bains,,44
+,02/03/2023,31/10/2023,03/11/2023,384,384,Hébergement Économique 2 Personnes,,La Folie Douce Hotels Chamonix,"Chamonix City Centre, Chamonix-Mont-Blanc",,44
+,02/03/2023,31/10/2023,03/11/2023,207,207,Chambre Double ou Lits Jumeaux Standard,,RockyPop Chamonix - Les Houches,Les Houches,,44
+,02/03/2023,31/10/2023,03/11/2023,353,353, Chambre Double ou Lits Jumeaux - Vue sur Ville - 16 m²,,Alpina Eclectic Hotel,"Chamonix City Centre, Chamonix-Mont-Blanc",,44
+,02/03/2023,31/10/2023,03/11/2023,376,376,Chambre Double - Vue sur Montagne,,Plan B Hotel - Living Chamonix,"Chamonix City Centre, Chamonix-Mont-Blanc",,44
+,02/03/2023,31/10/2023,03/11/2023,3007,3007,Chambre Familiale avec Balcon,,HOTEL TURAN,Les Deux Alpes,,44
+,02/03/2023,31/10/2023,03/11/2023,308,308,Chambre Double ou Lits Jumeaux,,The People - Les 2 Alpes,Les Deux Alpes,,44
+,02/03/2023,31/10/2023,03/11/2023,518,518,Chambre Double ou Lits Jumeaux Classique,,Hôtel Grandes Rousses,L'Alpe-d'Huez,,44
+,02/03/2023,31/10/2023,03/11/2023,362,362,Chambre Double Standard,,Madame Vacances Hotel Les Cimes,Vaujany,,44
+,02/03/2023,31/10/2023,03/11/2023,198,198,Chambre Double ou Lits Jumeaux - Vue sur Montagnes,,Le Relais des Ecrins,Saint-Christophe-en-Oisans,,44
+,02/03/2023,31/10/2023,03/11/2023,252,252,Chambre Double ou Lits Jumeaux Confort ,,Hôtel du Musée de l'Eau,Pont-en-Royans,,44
+,02/03/2023,31/10/2023,03/11/2023,478,478,Chambre Double,,Hotel Christiania,Villard-de-Lans,,44
+,02/03/2023,31/10/2023,03/11/2023,266,266,Chambre Double,,Auberge De La Croix Perrin,Lans-en-Vercors,,44
+,02/03/2023,31/10/2023,03/11/2023,206,206,Chambre Lits Jumeaux,,Le Saint Domingue,Die,,44
+,02/03/2023,31/10/2023,03/11/2023,202,202,Chambre Double,,Hotel des Alpes,Die,,44
+,02/03/2023,31/10/2023,03/11/2023,215,215,Chambre Lits Jumeaux Standard,,Hotel Beau Rivage,Pont-en-Royans,,44
+,02/03/2023,31/10/2023,03/11/2023,364,364,Chambre Double Standard,,H85,Chatte,,44
+,02/03/2023,31/10/2023,03/11/2023,244,244,Chambre Lits Jumeaux,,Le CARNOT,Die,,44
+,02/03/2023,31/10/2023,03/11/2023,220,220,Chambre Double,,Auberge le Sabot de Vénus,Méaudre,,44
+,02/03/2023,31/10/2023,03/11/2023,270,270,Chambre Double avec Douche,,Brun,Saint-Lattier,,44
+,02/03/2023,31/10/2023,03/11/2023,254,254,Chambre Double ou Triple,,Hôtel Valery,Montélier,,44
+,02/03/2023,31/10/2023,03/11/2023,571,571,Chambre Double Supérieure (2 Adultes),,"Chalet-Hôtel La Marmotte, La Tapiaz & SPA, The Originals Relais (Hotel-Chalet de Tradition)",Les Gets,,44
+,02/03/2023,31/10/2023,03/11/2023,298,298,Chambre Double Standard,,Le White,Champéry,,44
+,02/03/2023,31/10/2023,03/11/2023,637,637,Chambre Standard,,Hôtel National Resort & Spa,Champéry,,44
+,02/03/2023,31/10/2023,03/11/2023,431,431,Chambre Lits Jumeaux Économique,,The Nant,Morzine,,44
+,02/03/2023,31/10/2023,03/11/2023,397,397,Chambre Double,,Hotel Télécabine,Les Crosets,,44
+,02/03/2023,31/10/2023,03/11/2023,551,551,Chambre Double - Vue sur Hameau ,,Hotel L'Etable,Les Crosets,,44
+,02/03/2023,31/10/2023,03/11/2023,469,469,Chambre Double ou Lits Jumeaux Classique Plus,,Chamois d'Or Hotel,Les Gets,,44
+,02/03/2023,31/10/2023,03/11/2023,435,435,Chambre Lits Jumeaux,,Hotel Igloo,Morzine,,44
+,02/03/2023,31/10/2023,03/11/2023,509,509,Chambre Double Économique - Vue sur Village,,Hotel Suisse,Champéry,,44
+,02/03/2023,31/10/2023,03/11/2023,555,555,Chambre Double,,Helvetia hotel,Morgins,,44
+,02/03/2023,31/10/2023,03/11/2023,606,606,Chambre Double,,Hôtel des Portes du Soleil,Les Crosets,,44
+,02/03/2023,31/10/2023,03/11/2023,513,513,Chambre Double Supérieure,,Bellevue,Les Gets,,44
+,02/03/2023,31/10/2023,03/11/2023,219,219,Chambre Double,,Hôtel Le Mont Jorat,Abondance,,44
+,02/03/2023,31/10/2023,03/11/2023,520,520,Cottage,,Guest House du Grand Paradis,Champéry,,44
+,02/03/2023,31/10/2023,03/11/2023,571,571,Chambre Double Supérieure (2 Adultes),,"Chalet-Hôtel La Marmotte, La Tapiaz & SPA, The Originals Relais (Hotel-Chalet de Tradition)",Les Gets,,44
+,02/03/2023,31/10/2023,03/11/2023,298,298,Chambre Double Standard,,Le White,Champéry,,44
+,02/03/2023,31/10/2023,03/11/2023,637,637,Chambre Standard,,Hôtel National Resort & Spa,Champéry,,44
+,02/03/2023,31/10/2023,03/11/2023,431,431,Chambre Lits Jumeaux Économique,,The Nant,Morzine,,44
+,02/03/2023,31/10/2023,03/11/2023,397,397,Chambre Double,,Hotel Télécabine,Les Crosets,,44
+,02/03/2023,31/10/2023,03/11/2023,551,551,Chambre Double - Vue sur Hameau ,,Hotel L'Etable,Les Crosets,,44
+,02/03/2023,31/10/2023,03/11/2023,469,469,Chambre Double ou Lits Jumeaux Classique Plus,,Chamois d'Or Hotel,Les Gets,,44
+,02/03/2023,31/10/2023,03/11/2023,435,435,Chambre Lits Jumeaux,,Hotel Igloo,Morzine,,44
+,02/03/2023,31/10/2023,03/11/2023,509,509,Chambre Double Économique - Vue sur Village,,Hotel Suisse,Champéry,,44
+,02/03/2023,31/10/2023,03/11/2023,555,555,Chambre Double,,Helvetia hotel,Morgins,,44
+,02/03/2023,31/10/2023,03/11/2023,606,606,Chambre Double,,Hôtel des Portes du Soleil,Les Crosets,,44
+,02/03/2023,31/10/2023,03/11/2023,513,513,Chambre Double Supérieure,,Bellevue,Les Gets,,44
+,02/03/2023,31/10/2023,03/11/2023,219,219,Chambre Double,,Hôtel Le Mont Jorat,Abondance,,44
+,02/03/2023,31/10/2023,03/11/2023,520,520,Cottage,,Guest House du Grand Paradis,Champéry,,44
+,02/03/2023,31/10/2023,03/11/2023,299,299,Petite Chambre Double ou Lits Jumeaux avec Balcon,,Hotel Beauregard,La Clusaz,,44
+,02/03/2023,31/10/2023,03/11/2023,188,188,Chambre Double Économique,,Hotel La Montagne,La Clusaz,,44
+,02/03/2023,31/10/2023,03/11/2023,234,234,Chambre Double Économique,,Hotel Christiania,La Clusaz,,44
+,02/03/2023,31/10/2023,03/11/2023,221,221,Chambre Double Standard,,Les Airelles,La Clusaz,,44
+,02/03/2023,31/10/2023,03/11/2023,261,261,Chambre Double,,Fasthotel Thones,Thônes,,44
+,02/03/2023,31/10/2023,03/11/2023,480,480,Chambre Double Supérieure,,Les Roches Fleuries,Cordon,,44
+,02/03/2023,31/10/2023,03/11/2023,275,275,Chambre Lits Jumeaux avec Salle de Bains Privative,,Hôtel-Restaurant La Chartreuse,Le Reposoir,,44
+,02/03/2023,31/10/2023,03/11/2023,248,248,Chambre Double Standard,,Logis La Chaumière Saint-Maurice,Thorens-Glières,,44
+,02/03/2023,31/10/2023,03/11/2023,514,514,Chambre Double Économique avec Accès Gratuit au Spa - Vue sur Rue,,Hôtel Beau Site Talloires B SPA,Talloires,,44
+,02/03/2023,31/10/2023,03/11/2023,1229,1229,Suite avec Vue sur Lac ,,Abbaye de Talloires,Talloires,,44
+,02/03/2023,31/10/2023,03/11/2023,326,326,Chambre Double,,Le Charvet,Cordon,,44
+,02/03/2023,31/10/2023,03/11/2023,508,508,Chambre Double Confort avec Vue sur la Forêt,,Le Palace De Menthon,Menthon-Saint-Bernard,,44
+,02/03/2023,31/10/2023,03/11/2023,606,606,Chambre Double Confort,,Coeur de Megève,Megève,,44
+,02/03/2023,31/10/2023,03/11/2023,371,371,Chambre Double Classique avec Canapé-Lit,,Novotel Megève Mont-Blanc,Megève,,44
+,02/03/2023,31/10/2023,03/11/2023,271,271,Chambre Double - Accessible aux Personnes à Mobilité Réduite ,,Brit Hotel Florimont,Saint-Ferréol,,44
+,02/03/2023,31/10/2023,03/11/2023,1383,1383,Chambre Double Club,,Les Fermes de Marie,Megève,,44
+,02/03/2023,31/10/2023,03/11/2023,1155,1155,Chambre Double Supérieure,,Flocons de Sel,Megève,,44
+,02/03/2023,31/10/2023,03/11/2023,304,304,Chambre Double Standard - Bâtiment Principal,,Hôtel Les Muses,Annecy,,44
+,02/03/2023,31/10/2023,03/11/2023,203,203,Chambre Standard avec 1 Lit Double et 1 Lit Simple,,Ibis Hôtel Sallanches,Sallanches,,44
+,02/03/2023,31/10/2023,03/11/2023,384,384,Chambre Double - Vue sur Montagnes - 4,,Le Coin Savoyard,Combloux,,44
+,02/03/2023,31/10/2023,03/11/2023,209,209,Chambre Triple avec Lit Superposé,,Ibis Budget Sallanches,Sallanches,,44
+,02/03/2023,31/10/2023,03/11/2023,295,295,Chambre Double - Accessible aux Personnes à Mobilité Réduite ,,Le Bel Abri,Annecy,,44
+,02/03/2023,31/10/2023,03/11/2023,348,348,Chambre Lits Jumeaux Standard,,Ibis Styles Sallanches Pays du Mont-Blanc,Sallanches,,44
+,02/03/2023,31/10/2023,03/11/2023,326,326,Chambre Lits Jumeaux Classique,,Mont Blanc Hotel,Saint Pierre en Faucigny,,44
+,02/03/2023,31/10/2023,03/11/2023,753,753,Chambre Supérieure avec Balcon - Accès Gratuit au Spa,,Rivage Hôtel & Spa Annecy,Annecy,,44
+,02/03/2023,31/10/2023,03/11/2023,334,334,Chambre Double Mansardée,,Hôtel Catalpa,Annecy,,44
+,02/03/2023,31/10/2023,03/11/2023,312,312,Chambre Double,,Les Afforêts,La Roche-sur-Foron,,44
+,02/03/2023,31/10/2023,03/11/2023,236,236,Chambre Double Standard,,"Hôtel de Genève , Faverges-Seythenex 74210, Haute Savoie",Faverges,,44
+,02/03/2023,31/10/2023,03/11/2023,1424,1424,Chambre Double avec Cheminée - Vue sur Lac,,Le Clos Des Sens,Annecy,,44
+,02/03/2023,31/10/2023,03/11/2023,477,477,Chambre Double ou Lits Jumeaux Classique,,Le Pélican,Annecy,,44
+,02/03/2023,31/10/2023,03/11/2023,121,121,Chambre Side-Car,,hotelF1 Annecy Argonay,Argonay,,44
+,02/03/2023,31/10/2023,03/11/2023,396,396,Chambre Double Supérieure - Vue sur Forêt et Parking ,,"Hôtel Beauregard, The Originals Relais (Inter-Hotel)",Sévrier,,44
+,02/03/2023,31/10/2023,03/11/2023,484,484,Chambre Double/Twin Tradition,,Les Trésoms Lake and Spa Resort,Annecy,,44
+,02/03/2023,31/10/2023,03/11/2023,778,778,Chambre Double,,Le Boutik Hotel,"Centre-ville d'Annecy, Annecy",,44
+,02/03/2023,31/10/2023,03/11/2023,312,312,Chambre Double Économique,,Le Relais Du Mont Blanc,Magland,,44
+,02/03/2023,31/10/2023,03/11/2023,299,299,Petite Chambre Double ou Lits Jumeaux avec Balcon,,Hotel Beauregard,La Clusaz,,44
+,02/03/2023,31/10/2023,03/11/2023,188,188,Chambre Double Économique,,Hotel La Montagne,La Clusaz,,44
+,02/03/2023,31/10/2023,03/11/2023,234,234,Chambre Double Économique,,Hotel Christiania,La Clusaz,,44
+,02/03/2023,31/10/2023,03/11/2023,221,221,Chambre Double Standard,,Les Airelles,La Clusaz,,44
+,02/03/2023,31/10/2023,03/11/2023,261,261,Chambre Double,,Fasthotel Thones,Thônes,,44
+,02/03/2023,31/10/2023,03/11/2023,480,480,Chambre Double Supérieure,,Les Roches Fleuries,Cordon,,44
+,02/03/2023,31/10/2023,03/11/2023,275,275,Chambre Lits Jumeaux avec Salle de Bains Privative,,Hôtel-Restaurant La Chartreuse,Le Reposoir,,44
+,02/03/2023,31/10/2023,03/11/2023,248,248,Chambre Double Standard,,Logis La Chaumière Saint-Maurice,Thorens-Glières,,44
+,02/03/2023,31/10/2023,03/11/2023,514,514,Chambre Double Économique avec Accès Gratuit au Spa - Vue sur Rue,,Hôtel Beau Site Talloires B SPA,Talloires,,44
+,02/03/2023,31/10/2023,03/11/2023,1229,1229,Suite avec Vue sur Lac ,,Abbaye de Talloires,Talloires,,44
+,02/03/2023,31/10/2023,03/11/2023,326,326,Chambre Double,,Le Charvet,Cordon,,44
+,02/03/2023,31/10/2023,03/11/2023,508,508,Chambre Double Confort avec Vue sur la Forêt,,Le Palace De Menthon,Menthon-Saint-Bernard,,44
+,02/03/2023,31/10/2023,03/11/2023,606,606,Chambre Double Confort,,Coeur de Megève,Megève,,44
+,02/03/2023,31/10/2023,03/11/2023,371,371,Chambre Double Classique avec Canapé-Lit,,Novotel Megève Mont-Blanc,Megève,,44
+,02/03/2023,31/10/2023,03/11/2023,271,271,Chambre Double - Accessible aux Personnes à Mobilité Réduite ,,Brit Hotel Florimont,Saint-Ferréol,,44
+,02/03/2023,31/10/2023,03/11/2023,1383,1383,Chambre Double Club,,Les Fermes de Marie,Megève,,44
+,02/03/2023,31/10/2023,03/11/2023,1155,1155,Chambre Double Supérieure,,Flocons de Sel,Megève,,44
+,02/03/2023,31/10/2023,03/11/2023,304,304,Chambre Double Standard - Bâtiment Principal,,Hôtel Les Muses,Annecy,,44
+,02/03/2023,31/10/2023,03/11/2023,203,203,Chambre Standard avec 1 Lit Double et 1 Lit Simple,,Ibis Hôtel Sallanches,Sallanches,,44
+,02/03/2023,31/10/2023,03/11/2023,384,384,Chambre Double - Vue sur Montagnes - 4,,Le Coin Savoyard,Combloux,,44
+,02/03/2023,31/10/2023,03/11/2023,209,209,Chambre Triple avec Lit Superposé,,Ibis Budget Sallanches,Sallanches,,44
+,02/03/2023,31/10/2023,03/11/2023,295,295,Chambre Double - Accessible aux Personnes à Mobilité Réduite ,,Le Bel Abri,Annecy,,44
+,02/03/2023,31/10/2023,03/11/2023,348,348,Chambre Lits Jumeaux Standard,,Ibis Styles Sallanches Pays du Mont-Blanc,Sallanches,,44
+,02/03/2023,31/10/2023,03/11/2023,326,326,Chambre Lits Jumeaux Classique,,Mont Blanc Hotel,Saint Pierre en Faucigny,,44
+,02/03/2023,31/10/2023,03/11/2023,753,753,Chambre Supérieure avec Balcon - Accès Gratuit au Spa,,Rivage Hôtel & Spa Annecy,Annecy,,44
+,02/03/2023,31/10/2023,03/11/2023,334,334,Chambre Double Mansardée,,Hôtel Catalpa,Annecy,,44
+,02/03/2023,31/10/2023,03/11/2023,312,312,Chambre Double,,Les Afforêts,La Roche-sur-Foron,,44
+,02/03/2023,31/10/2023,03/11/2023,236,236,Chambre Double Standard,,"Hôtel de Genève , Faverges-Seythenex 74210, Haute Savoie",Faverges,,44
+,02/03/2023,31/10/2023,03/11/2023,1424,1424,Chambre Double avec Cheminée - Vue sur Lac,,Le Clos Des Sens,Annecy,,44
+,02/03/2023,31/10/2023,03/11/2023,477,477,Chambre Double ou Lits Jumeaux Classique,,Le Pélican,Annecy,,44
+,02/03/2023,31/10/2023,03/11/2023,121,121,Chambre Side-Car,,hotelF1 Annecy Argonay,Argonay,,44
+,02/03/2023,31/10/2023,03/11/2023,396,396,Chambre Double Supérieure - Vue sur Forêt et Parking ,,"Hôtel Beauregard, The Originals Relais (Inter-Hotel)",Sévrier,,44
+,02/03/2023,31/10/2023,03/11/2023,484,484,Chambre Double/Twin Tradition,,Les Trésoms Lake and Spa Resort,Annecy,,44
+,02/03/2023,31/10/2023,03/11/2023,778,778,Chambre Double,,Le Boutik Hotel,"Centre-ville d'Annecy, Annecy",,44
+,02/03/2023,31/10/2023,03/11/2023,312,312,Chambre Double Économique,,Le Relais Du Mont Blanc,Magland,,44
+,02/03/2023,31/10/2023,03/11/2023,384,384,Hébergement Économique 2 Personnes,,La Folie Douce Hotels Chamonix,"Chamonix City Centre, Chamonix-Mont-Blanc",,44
+,02/03/2023,31/10/2023,03/11/2023,207,207,Chambre Double ou Lits Jumeaux Standard,,RockyPop Chamonix - Les Houches,Les Houches,,44
+,02/03/2023,31/10/2023,03/11/2023,353,353, Chambre Double ou Lits Jumeaux - Vue sur Ville - 16 m²,,Alpina Eclectic Hotel,"Chamonix City Centre, Chamonix-Mont-Blanc",,44
+,02/03/2023,31/10/2023,03/11/2023,263,263,Chambre Double - Accessible aux Personnes à Mobilité Réduite ,,Hôtel Le Refuge des Aiglons,"Chamonix City Centre, Chamonix-Mont-Blanc",,44
+,02/03/2023,31/10/2023,03/11/2023,203,203,Chambre Standard avec 1 Lit Double et 1 Lit Simple,,Ibis Hôtel Sallanches,Sallanches,,44
+,02/03/2023,31/10/2023,03/11/2023,376,376,Chambre Double - Vue sur Montagne,,Plan B Hotel - Living Chamonix,"Chamonix City Centre, Chamonix-Mont-Blanc",,44
+,02/03/2023,31/10/2023,03/11/2023,330,330,Chambre Classique Wanderlust,,Wanderlust Motels Chamonix,"Les Bossons, Chamonix-Mont-Blanc",,44
+,02/03/2023,31/10/2023,03/11/2023,284,284,Chambre Double - Accessible aux Personnes à Mobilité Réduite ,,Hotel Le Morgane,"Chamonix City Centre, Chamonix-Mont-Blanc",,44
+,02/03/2023,31/10/2023,03/11/2023,450,450,Chambre Lits Jumeaux Économique,,Vert Lodge Chamonix,Chamonix-Mont-Blanc,,44
+,02/03/2023,31/10/2023,03/11/2023,819,819,Chambre Double Standard,,Hôtel de L'Arve,"Chamonix City Centre, Chamonix-Mont-Blanc",,44
+,02/03/2023,31/10/2023,03/11/2023,248,248,Chambre Double Classique,,Excelsior Chamonix Hôtel & Spa,"Les Tines, Chamonix-Mont-Blanc",,44
+,02/03/2023,31/10/2023,03/11/2023,384,384,Chambre Double - Vue sur Montagnes - 4,,Le Coin Savoyard,Combloux,,44
+,02/03/2023,31/10/2023,03/11/2023,252,252,Chambre Double Standard,,Le Faucigny - Hotel de Charme,"Chamonix City Centre, Chamonix-Mont-Blanc",,44
+,02/03/2023,31/10/2023,03/11/2023,209,209,Chambre Triple avec Lit Superposé,,Ibis Budget Sallanches,Sallanches,,44
+,02/03/2023,31/10/2023,03/11/2023,294,294,Chambre Double ou Lits Jumeaux avec Vue sur le Mont Blanc,,Chalet Hôtel Le Prieuré,"Chamonix City Centre, Chamonix-Mont-Blanc",,44
+,02/03/2023,31/10/2023,03/11/2023,379,379,Chambre Double,,Chalet hôtel le Whymper,"Chamonix City Centre, Chamonix-Mont-Blanc",,44
+,02/03/2023,31/10/2023,03/11/2023,554,554,Chambre Double ou Lits Jumeaux,,Hôtel Restaurant La Ferme de Cupelin,Saint-Gervais-les-Bains,,44
+,02/03/2023,31/10/2023,03/11/2023,251,251,Chambre Lits Jumeaux Côté Vallée,,Le Saint Antoine,Les Houches,,44
+,02/03/2023,31/10/2023,03/11/2023,480,480,Chambre Double Supérieure,,Les Roches Fleuries,Cordon,,44
+,02/03/2023,31/10/2023,03/11/2023,348,348,Chambre Lits Jumeaux Standard,,Ibis Styles Sallanches Pays du Mont-Blanc,Sallanches,,44
+,02/03/2023,31/10/2023,03/11/2023,248,248,Chambre Lits Jumeaux/Double Standard,,La Croix Blanche,"Chamonix City Centre, Chamonix-Mont-Blanc",,44
+,02/03/2023,31/10/2023,03/11/2023,238,238,Double Room with One Double Bed or Two Single Beds,,ibis Styles Les Houches Chamonix,Les Houches,,44
+,02/03/2023,31/10/2023,03/11/2023,606,606,Chambre Double Confort,,Coeur de Megève,Megève,,44
+,02/03/2023,31/10/2023,03/11/2023,371,371,Chambre Double Classique avec Canapé-Lit,,Novotel Megève Mont-Blanc,Megève,,44
+,02/03/2023,31/10/2023,03/11/2023,311,311,Chambre Double,,Hôtel Vallée Blanche,"Chamonix City Centre, Chamonix-Mont-Blanc",,44
+,02/03/2023,31/10/2023,03/11/2023,215,215,Chambre Double,,Hotel Le Chamonix,"Chamonix City Centre, Chamonix-Mont-Blanc",,44
+,02/03/2023,31/10/2023,03/11/2023,308,308,Chambre Double Standard - Premier Étage,,Hotel Du Clocher,"Chamonix City Centre, Chamonix-Mont-Blanc",,44
+,02/03/2023,31/10/2023,03/11/2023,828,828,Chambre Double Standard,,Hôtel Mont-Blanc Chamonix,"Chamonix City Centre, Chamonix-Mont-Blanc",,44
+,02/03/2023,31/10/2023,03/11/2023,242,242,Chambre Double,,Hôtel Les Dômes de Miage,Saint-Gervais-les-Bains,,44
+,02/03/2023,31/10/2023,03/11/2023,1383,1383,Chambre Double Club,,Les Fermes de Marie,Megève,,44
+,02/03/2023,31/10/2023,03/11/2023,324,324,Chambre Double,,Auberge Les Gorges De La Diosaz,Servoz,,44
+,02/03/2023,31/10/2023,03/11/2023,672,672,Petite Chambre Double,,Coeur des Neiges,Saint-Gervais-les-Bains,,44
+,02/03/2023,31/10/2023,03/11/2023,213,213,Chambre Lits Jumeaux,,Hotel Terminus,Saint-Gervais-les-Bains,,44
+,02/03/2023,31/10/2023,03/11/2023,810,810,Chambre Double ou Lits Jumeaux - Vue sur Montagnes,,Refuge du Montenvers,Chamonix-Mont-Blanc,,44
+,02/03/2023,31/10/2023,03/11/2023,326,326,Chambre Double,,Le Charvet,Cordon,,44
+,02/03/2023,31/10/2023,03/11/2023,384,384,Hébergement Économique 2 Personnes,,La Folie Douce Hotels Chamonix,"Chamonix City Centre, Chamonix-Mont-Blanc",,44
+,02/03/2023,31/10/2023,03/11/2023,207,207,Chambre Double ou Lits Jumeaux Standard,,RockyPop Chamonix - Les Houches,Les Houches,,44
+,02/03/2023,31/10/2023,03/11/2023,353,353, Chambre Double ou Lits Jumeaux - Vue sur Ville - 16 m²,,Alpina Eclectic Hotel,"Chamonix City Centre, Chamonix-Mont-Blanc",,44
+,02/03/2023,31/10/2023,03/11/2023,263,263,Chambre Double - Accessible aux Personnes à Mobilité Réduite ,,Hôtel Le Refuge des Aiglons,"Chamonix City Centre, Chamonix-Mont-Blanc",,44
+,02/03/2023,31/10/2023,03/11/2023,203,203,Chambre Standard avec 1 Lit Double et 1 Lit Simple,,Ibis Hôtel Sallanches,Sallanches,,44
+,02/03/2023,31/10/2023,03/11/2023,376,376,Chambre Double - Vue sur Montagne,,Plan B Hotel - Living Chamonix,"Chamonix City Centre, Chamonix-Mont-Blanc",,44
+,02/03/2023,31/10/2023,03/11/2023,330,330,Chambre Classique Wanderlust,,Wanderlust Motels Chamonix,"Les Bossons, Chamonix-Mont-Blanc",,44
+,02/03/2023,31/10/2023,03/11/2023,284,284,Chambre Double - Accessible aux Personnes à Mobilité Réduite ,,Hotel Le Morgane,"Chamonix City Centre, Chamonix-Mont-Blanc",,44
+,02/03/2023,31/10/2023,03/11/2023,450,450,Chambre Lits Jumeaux Économique,,Vert Lodge Chamonix,Chamonix-Mont-Blanc,,44
+,02/03/2023,31/10/2023,03/11/2023,819,819,Chambre Double Standard,,Hôtel de L'Arve,"Chamonix City Centre, Chamonix-Mont-Blanc",,44
+,02/03/2023,31/10/2023,03/11/2023,248,248,Chambre Double Classique,,Excelsior Chamonix Hôtel & Spa,"Les Tines, Chamonix-Mont-Blanc",,44
+,02/03/2023,31/10/2023,03/11/2023,384,384,Chambre Double - Vue sur Montagnes - 4,,Le Coin Savoyard,Combloux,,44
+,02/03/2023,31/10/2023,03/11/2023,252,252,Chambre Double Standard,,Le Faucigny - Hotel de Charme,"Chamonix City Centre, Chamonix-Mont-Blanc",,44
+,02/03/2023,31/10/2023,03/11/2023,209,209,Chambre Triple avec Lit Superposé,,Ibis Budget Sallanches,Sallanches,,44
+,02/03/2023,31/10/2023,03/11/2023,294,294,Chambre Double ou Lits Jumeaux avec Vue sur le Mont Blanc,,Chalet Hôtel Le Prieuré,"Chamonix City Centre, Chamonix-Mont-Blanc",,44
+,02/03/2023,31/10/2023,03/11/2023,379,379,Chambre Double,,Chalet hôtel le Whymper,"Chamonix City Centre, Chamonix-Mont-Blanc",,44
+,02/03/2023,31/10/2023,03/11/2023,554,554,Chambre Double ou Lits Jumeaux,,Hôtel Restaurant La Ferme de Cupelin,Saint-Gervais-les-Bains,,44
+,02/03/2023,31/10/2023,03/11/2023,251,251,Chambre Lits Jumeaux Côté Vallée,,Le Saint Antoine,Les Houches,,44
+,02/03/2023,31/10/2023,03/11/2023,480,480,Chambre Double Supérieure,,Les Roches Fleuries,Cordon,,44
+,02/03/2023,31/10/2023,03/11/2023,348,348,Chambre Lits Jumeaux Standard,,Ibis Styles Sallanches Pays du Mont-Blanc,Sallanches,,44
+,02/03/2023,31/10/2023,03/11/2023,248,248,Chambre Lits Jumeaux/Double Standard,,La Croix Blanche,"Chamonix City Centre, Chamonix-Mont-Blanc",,44
+,02/03/2023,31/10/2023,03/11/2023,238,238,Double Room with One Double Bed or Two Single Beds,,ibis Styles Les Houches Chamonix,Les Houches,,44
+,02/03/2023,31/10/2023,03/11/2023,606,606,Chambre Double Confort,,Coeur de Megève,Megève,,44
+,02/03/2023,31/10/2023,03/11/2023,371,371,Chambre Double Classique avec Canapé-Lit,,Novotel Megève Mont-Blanc,Megève,,44
+,02/03/2023,31/10/2023,03/11/2023,311,311,Chambre Double,,Hôtel Vallée Blanche,"Chamonix City Centre, Chamonix-Mont-Blanc",,44
+,02/03/2023,31/10/2023,03/11/2023,215,215,Chambre Double,,Hotel Le Chamonix,"Chamonix City Centre, Chamonix-Mont-Blanc",,44
+,02/03/2023,31/10/2023,03/11/2023,308,308,Chambre Double Standard - Premier Étage,,Hotel Du Clocher,"Chamonix City Centre, Chamonix-Mont-Blanc",,44
+,02/03/2023,31/10/2023,03/11/2023,828,828,Chambre Double Standard,,Hôtel Mont-Blanc Chamonix,"Chamonix City Centre, Chamonix-Mont-Blanc",,44
+,02/03/2023,31/10/2023,03/11/2023,242,242,Chambre Double,,Hôtel Les Dômes de Miage,Saint-Gervais-les-Bains,,44
+,02/03/2023,31/10/2023,03/11/2023,1383,1383,Chambre Double Club,,Les Fermes de Marie,Megève,,44
+,02/03/2023,31/10/2023,03/11/2023,324,324,Chambre Double,,Auberge Les Gorges De La Diosaz,Servoz,,44
+,02/03/2023,31/10/2023,03/11/2023,672,672,Petite Chambre Double,,Coeur des Neiges,Saint-Gervais-les-Bains,,44
+,02/03/2023,31/10/2023,03/11/2023,213,213,Chambre Lits Jumeaux,,Hotel Terminus,Saint-Gervais-les-Bains,,44
+,02/03/2023,31/10/2023,03/11/2023,810,810,Chambre Double ou Lits Jumeaux - Vue sur Montagnes,,Refuge du Montenvers,Chamonix-Mont-Blanc,,44
+,02/03/2023,31/10/2023,03/11/2023,326,326,Chambre Double,,Le Charvet,Cordon,,44
+,02/03/2023,31/10/2023,03/11/2023,298,298,Chambre Double,,Hôtel Saint-Georges,Saint-Jean-de-Maurienne,,44
+,02/03/2023,31/10/2023,03/11/2023,250,250,Chambre Double,,Hôtel de l'Europe,Saint-Jean-de-Maurienne,,44
+,02/03/2023,31/10/2023,03/11/2023,199,199,Chambre Double Standard,,hotel de la gare,Modane,,44
+,02/03/2023,31/10/2023,03/11/2023,183,183,Chambre Double,,B&B HOTEL Saint Jean De Maurienne,Sainte-Marie-de-Cuines,,44
+,02/03/2023,31/10/2023,03/11/2023,258,258,Chambre Double avec Salle de Bains Privative,,Chalet 1200,Saint-François-Longchamp,,44
+,02/03/2023,31/10/2023,03/11/2023,218,218,Chambre Double ou Lits Jumeaux Standard,,Savoy Hotel & Restaurant,Saint-Michel-de-Maurienne,,44
+,02/03/2023,31/10/2023,03/11/2023,594,594,Chambre Double,,Hotel l'Aigle,Valmeinier,,44
+,02/03/2023,31/10/2023,03/11/2023,236,236,Chambre Double Standard,,"Hôtel de Genève , Faverges-Seythenex 74210, Haute Savoie",Faverges,,44
+,02/03/2023,31/10/2023,03/11/2023,269,269,Chambre Double ou Lits Jumeaux Économique ,,Hotel Le Bellevue,Trévignin,,44
+,02/03/2023,31/10/2023,03/11/2023,271,271,Chambre Double - Accessible aux Personnes à Mobilité Réduite ,,Brit Hotel Florimont,Saint-Ferréol,,44
+,02/03/2023,31/10/2023,03/11/2023,131,131,Chambre Double avec Lit d'Appoint,,ibis budget Aix Les Bains - Grésy,Grésy-sur-Aix,,44
+,02/03/2023,31/10/2023,03/11/2023,236,236,Chambre Double Standard,,"Hôtel de Genève , Faverges-Seythenex 74210, Haute Savoie",Faverges,,44
+,02/03/2023,31/10/2023,03/11/2023,269,269,Chambre Double ou Lits Jumeaux Économique ,,Hotel Le Bellevue,Trévignin,,44
+,02/03/2023,31/10/2023,03/11/2023,271,271,Chambre Double - Accessible aux Personnes à Mobilité Réduite ,,Brit Hotel Florimont,Saint-Ferréol,,44
+,02/03/2023,31/10/2023,03/11/2023,131,131,Chambre Double avec Lit d'Appoint,,ibis budget Aix Les Bains - Grésy,Grésy-sur-Aix,,44
+,02/03/2023,31/10/2023,03/11/2023,473,473,Chambre Double - Versant Nord,,Base Camp Lodge Hotels,Bourg-Saint-Maurice,,44
+,02/03/2023,31/10/2023,03/11/2023,272,272,Chambre Double,,ho36 Les Menuires,Les Menuires,,44
+,02/03/2023,31/10/2023,03/11/2023,293,293,Chambre Double Standard avec Salle de Bains Privative et Toilettes Communes ,,Hôtel La Petite Auberge,Bourg-Saint-Maurice,,44
+,02/03/2023,31/10/2023,03/11/2023,406,406,Chambre Lits Jumeaux avec Accès Spa,,Hôtel Restaurant La Tourmaline,Aime-La-Plagne,,44
+,02/03/2023,31/10/2023,03/11/2023,190,190,Chambre Double ou Lits Jumeaux Standard,,Hotel Inn Design Moutiers,Moutiers,,44
+,02/03/2023,31/10/2023,03/11/2023,306,306,Chambre Double avec Salle de Bains Privative,,Hôtel Restaurant Angival - Chambres et Appartement,Bourg-Saint-Maurice,,44
+,02/03/2023,31/10/2023,03/11/2023,327,327,Chambre Double ou Lits Jumeaux,,Hotel L'alpin,Landry,,44
+,02/03/2023,31/10/2023,03/11/2023,380,380,Chambre Lits Jumeaux,,La Taverne,Méribel,,44
+,02/03/2023,31/10/2023,03/11/2023,322,322,Chambre Double,,Hotel Radiana,La Léchère,,44
+,02/03/2023,31/10/2023,03/11/2023,272,272,Petite Chambre Double,,Hôtel Restaurant Le Monêtier,Le Monêtier-les-Bains,,44
+,02/03/2023,31/10/2023,03/11/2023,294,266,Chambre Classique,,Suite Home Briancon Serre Chevalier,Briançon,,44
+,02/03/2023,31/10/2023,03/11/2023,428,428,Chambre Double - Vue sur Montagne,,Hôtel Vauban Briançon Serre Chevalier,Briançon,,44
+,02/03/2023,31/10/2023,03/11/2023,200,200,Chambre Double,,Hôtel Le Michelet,Gap,,44
+,02/03/2023,31/10/2023,03/11/2023,225,225,Chambre Double ou Lits Jumeaux Mansardée,,Cit'Hotel Avantici Gap,Gap,,44
+,02/03/2023,31/10/2023,03/11/2023,303,303,Chambre Double Standard,,Auberge de la Paix,Briançon,,44
+,02/03/2023,31/10/2023,03/11/2023,265,265,Chambre Lits Jumeaux Classique,,Logis Havvah Hôtel Gap,Gap,,44
+,02/03/2023,31/10/2023,03/11/2023,246,246,Chambre Double Standard,,Adonis Gapotel,Gap,,44
+,02/03/2023,31/10/2023,03/11/2023,182,182,Chambre Double,,B&B HOTEL Gap,Gap,,44
+,02/03/2023,31/10/2023,03/11/2023,397,397,Chambre Double ou Lits Jumeaux Supérieure,,Hôtel Restaurant & Spa Les Autanes,Ancelle,,44
+,02/03/2023,31/10/2023,03/11/2023,173,173,Chambre Double avec Salle de Bains Privative,,Hotel De La Poste,Espinasses,,44
+,02/03/2023,31/10/2023,03/11/2023,294,294,Chambre Double ou Lits Jumeaux,,Logis - Hotel De La Mairie,Embrun,,44
+,02/03/2023,31/10/2023,03/11/2023,222,222,Chambre Double,,Hôtel & Restaurant Azur,La Freissinouse,,44
+,02/03/2023,31/10/2023,03/11/2023,275,275,Chambre Double ou Lits Jumeaux Économique,,Les Olivades,Gap,,44
+,02/03/2023,31/10/2023,03/11/2023,339,339,Chambre Lits Jumeaux,,Ax Hôtel Spa & Restaurant,Chorges,,44
+,02/03/2023,31/10/2023,03/11/2023,272,272,Petite Chambre Double,,Hôtel Restaurant Le Monêtier,Le Monêtier-les-Bains,,44
+,02/03/2023,31/10/2023,03/11/2023,294,266,Chambre Classique,,Suite Home Briancon Serre Chevalier,Briançon,,44
+,02/03/2023,31/10/2023,03/11/2023,428,428,Chambre Double - Vue sur Montagne,,Hôtel Vauban Briançon Serre Chevalier,Briançon,,44
+,02/03/2023,31/10/2023,03/11/2023,200,200,Chambre Double,,Hôtel Le Michelet,Gap,,44
+,02/03/2023,31/10/2023,03/11/2023,225,225,Chambre Double ou Lits Jumeaux Mansardée,,Cit'Hotel Avantici Gap,Gap,,44
+,02/03/2023,31/10/2023,03/11/2023,303,303,Chambre Double Standard,,Auberge de la Paix,Briançon,,44
+,02/03/2023,31/10/2023,03/11/2023,265,265,Chambre Lits Jumeaux Classique,,Logis Havvah Hôtel Gap,Gap,,44
+,02/03/2023,31/10/2023,03/11/2023,246,246,Chambre Double Standard,,Adonis Gapotel,Gap,,44
+,02/03/2023,31/10/2023,03/11/2023,182,182,Chambre Double,,B&B HOTEL Gap,Gap,,44
+,02/03/2023,31/10/2023,03/11/2023,397,397,Chambre Double ou Lits Jumeaux Supérieure,,Hôtel Restaurant & Spa Les Autanes,Ancelle,,44
+,02/03/2023,31/10/2023,03/11/2023,173,173,Chambre Double avec Salle de Bains Privative,,Hotel De La Poste,Espinasses,,44
+,02/03/2023,31/10/2023,03/11/2023,294,294,Chambre Double ou Lits Jumeaux,,Logis - Hotel De La Mairie,Embrun,,44
+,02/03/2023,31/10/2023,03/11/2023,222,222,Chambre Double,,Hôtel & Restaurant Azur,La Freissinouse,,44
+,02/03/2023,31/10/2023,03/11/2023,275,275,Chambre Double ou Lits Jumeaux Économique,,Les Olivades,Gap,,44
+,02/03/2023,31/10/2023,03/11/2023,339,339,Chambre Lits Jumeaux,,Ax Hôtel Spa & Restaurant,Chorges,,44
+,02/03/2023,31/10/2023,03/11/2023,165,165,Chambre Lits Jumeaux,,"The Originals Access, Hôtel Foix (P'tit Dej-Hotel)",Foix,,44
+,02/03/2023,31/10/2023,03/11/2023,208,208,Chambre Double,,Domaine de Garabaud,Mazères,,44
+,02/03/2023,31/10/2023,03/11/2023,218,218,Chambre Double,,Hôtel Pyrène,Foix,,44
+,02/03/2023,31/10/2023,03/11/2023,186,186,Chambre Double Économique,,Hôtel Restaurant Le Bellevue,Ax-les-Thermes,,44
+,02/03/2023,31/10/2023,03/11/2023,270,270,Chambre Double,,Hôtel Terranostra,Tarascon-sur-Ariège,,44
+,02/03/2023,31/10/2023,03/11/2023,127,127,Chambre Double Basique,,Hôtel de la Paix,Luzenac,,44
+,02/03/2023,31/10/2023,03/11/2023,167,167,Chambre Double Standard,,Brit Hotel Confort Foix,Foix,,44
+,02/03/2023,31/10/2023,03/11/2023,230,230,Chambre Double Standard,,Hostellerie de la Poste,Tarascon-sur-Ariège,,44
+,02/03/2023,31/10/2023,03/11/2023,127,127,Chambre Triple,,Hôtel Premiere Classe Pamiers,Pamiers,,44
+,02/03/2023,31/10/2023,03/11/2023,282,282,Chambre Double,,Logis Auberge de l'Isard,Saint-Lary,,44
+,02/03/2023,31/10/2023,03/11/2023,378,378,Chambre Double,,Logis Hôtel De France Pamiers 3 étoiles,Pamiers,,44
+,02/03/2023,31/10/2023,03/11/2023,211,211,Chambre Double Standard,,Hôtel Confort 09 ou HC-09,Tarascon-sur-Ariège,,44
+,02/03/2023,31/10/2023,03/11/2023,159,159,Chambre Double,,Auberge du Haut Salat,Seix,,44
+,02/03/2023,31/10/2023,03/11/2023,269,269,Chambre Double Standard,,Logis Hôtel restaurant Les Minotiers,Mirepoix,,44
+,02/03/2023,31/10/2023,03/11/2023,196,196,Chambre Double,,Hôtel Le Bellevue,Tarascon-sur-Ariège,,44
+,02/03/2023,31/10/2023,03/11/2023,201,201,Petite Chambre Double,,Hotel La Casa,Le Barcarès,,44
+,02/03/2023,31/10/2023,03/11/2023,821,821,Chambre Double - Vue sur Mer,,Les Roches Brunes,Collioure,,44
+,02/03/2023,31/10/2023,03/11/2023,323,323,Chambre Double Classique,,"The Originals City, Relax'Otel, Le Barcarès",Le Barcarès,,44
+,02/03/2023,31/10/2023,03/11/2023,171,171,Chambre Double,,Kyriad Direct Perpignan - Aeroport,Rivesaltes,,44
+,02/03/2023,31/10/2023,03/11/2023,778,778,Chambre Double ou Lits Jumeaux avec Accès Gratuit au Spa  - Vue sur Jardin,,Grand Hôtel Les Flamants Roses Thalasso & Spa,Canet-en-Roussillon,,44
+,02/03/2023,31/10/2023,03/11/2023,287,287,Chambre Standard avec Vue sur la Ville,,Best Western Plus Hotel Canet-Plage,Canet-en-Roussillon,,44
+,02/03/2023,31/10/2023,03/11/2023,229,229,Chambre Double Économique,,"Hotel Saint Georges, Face à la mer",Canet-en-Roussillon,,44
+,02/03/2023,31/10/2023,03/11/2023,463,463,Chambre Double Standard,,La Frégate,Collioure,,44
+,02/03/2023,31/10/2023,03/11/2023,361,361,Chambre Standard,,Le Madeloc Hôtel & Spa,Collioure,,44
+,02/03/2023,31/10/2023,03/11/2023,270,270,Chambre Double,,Hôtel Les Sables - Urban Style,Canet-en-Roussillon,,44
+,02/03/2023,31/10/2023,03/11/2023,362,362,Chambre Lits Jumeaux Classique,,Best Western Le Vauban,Prades,,44
+,02/03/2023,31/10/2023,03/11/2023,317,317,Chambre Lit Queen-Size avec Canapé ,,"Holiday Inn Perpignan, an IHG Hotel",Perpignan,,44
+,02/03/2023,31/10/2023,03/11/2023,334,334,Chambre Double - Vue sur Piscine,,Hôtel & Spa Les Mouettes,Argelès-sur-Mer,,44
+,02/03/2023,31/10/2023,03/11/2023,183,183,Chambre Double Standard,,Hôtel Le Val Du Tech,Prats-de-Mollo-la-Preste,,44
+,02/03/2023,31/10/2023,03/11/2023,281,281,Chambre Double avec Douche - Côté Rue - 1er ou 2ème Étage,,Hôtel la Bona Casa,Collioure,,44
+,02/03/2023,31/10/2023,03/11/2023,331,331,Chambre Double Classique,,Dali Hôtel Perpignan - Restaurant,Perpignan,,44
+,02/03/2023,31/10/2023,03/11/2023,189,189,Chambre Double Classique,,B&B HOTEL PERPIGNAN Nord Aéroport,Perpignan,,44
+,02/03/2023,31/10/2023,03/11/2023,129,129,Chambre Triple (1 Lit Double et 1 Lit Simple),,Premiere Classe Perpignan Sud,Perpignan,,44
+,02/03/2023,31/10/2023,03/11/2023,177,177,Chambre Double ou Lits Jumeaux,,Hotel Restaurant L'Espassole,Thuir,,44
+,02/03/2023,31/10/2023,03/11/2023,140,140,Chambre Double Standard avec Lit Superposé,,Ibis Budget Perpignan Nord,Rivesaltes,,44
+,02/03/2023,31/10/2023,03/11/2023,193,193,Chambre Double,,Central Hôtel,Cerbère,,44
+,02/03/2023,31/10/2023,03/11/2023,194,194,Chambre Double Confort,,Brit Hotel Porte d'Espagne,Perpignan,,44
+,02/03/2023,31/10/2023,03/11/2023,194,194,Chambre Double,,Hotel de la Plage - Barcares,Le Barcarès,,44
+,02/03/2023,31/10/2023,03/11/2023,283,283,Chambre Double Standard,,ibis Styles Perpignan Centre Gare,Perpignan,,44
+,02/03/2023,31/10/2023,03/11/2023,237,237,Chambre Double Côté Rue ,,Hôtel Triton,Collioure,,44
+,02/03/2023,31/10/2023,03/11/2023,549,549,Chambre Double Deluxe,,Grand Hôtel Du Lido,"Argeles Plage, Argelès-sur-Mer",,44
+,02/03/2023,31/10/2023,03/11/2023,238,238,Chambre Double Standard,,Kyriad Prestige Perpignan Centre del Mon,Perpignan,,44
+,02/03/2023,31/10/2023,03/11/2023,1122,1122,Chambre Double Confort avec Accès au Centre de Bien-Être,,Relais et Châteaux Thalasso & Spa Ile de la Lagune,Saint-Cyprien,,44
+,02/03/2023,31/10/2023,03/11/2023,262,262,Chambre Double Côté Nord avec Douche,,Hotel des Pyrénées,Font-Romeu,,44
+,02/03/2023,31/10/2023,03/11/2023,258,258,Chambre Double ou Lits Jumeaux Standard,,Hotel Le Clos Cerdan,Mont-Louis,,44
+,02/03/2023,31/10/2023,03/11/2023,368,368,Chambre Double Économique - Rez-de-Chaussée,,Grand Hotel Du Golfe,Argelès-sur-Mer,,44
+,02/03/2023,31/10/2023,03/11/2023,272,272,Chambre Double,,Logis Solhotel,Banyuls-sur-Mer,,44
+,02/03/2023,31/10/2023,03/11/2023,191,191,Chambre Double,,Le Campcardos,Porta,,44
+,02/03/2023,31/10/2023,03/11/2023,140,140,Chambre Double,,Première Classe Perpignan Nord,Rivesaltes,,44
+,02/03/2023,31/10/2023,03/11/2023,980,980,Chambre Double Confort,,Domaine Riberach,Bélesta,,44
+,02/03/2023,31/10/2023,03/11/2023,201,201,Petite Chambre Double,,Hotel La Casa,Le Barcarès,,44
+,02/03/2023,31/10/2023,03/11/2023,821,821,Chambre Double - Vue sur Mer,,Les Roches Brunes,Collioure,,44
+,02/03/2023,31/10/2023,03/11/2023,323,323,Chambre Double Classique,,"The Originals City, Relax'Otel, Le Barcarès",Le Barcarès,,44
+,02/03/2023,31/10/2023,03/11/2023,171,171,Chambre Double,,Kyriad Direct Perpignan - Aeroport,Rivesaltes,,44
+,02/03/2023,31/10/2023,03/11/2023,778,778,Chambre Double ou Lits Jumeaux avec Accès Gratuit au Spa  - Vue sur Jardin,,Grand Hôtel Les Flamants Roses Thalasso & Spa,Canet-en-Roussillon,,44
+,02/03/2023,31/10/2023,03/11/2023,287,287,Chambre Standard avec Vue sur la Ville,,Best Western Plus Hotel Canet-Plage,Canet-en-Roussillon,,44
+,02/03/2023,31/10/2023,03/11/2023,229,229,Chambre Double Économique,,"Hotel Saint Georges, Face à la mer",Canet-en-Roussillon,,44
+,02/03/2023,31/10/2023,03/11/2023,463,463,Chambre Double Standard,,La Frégate,Collioure,,44
+,02/03/2023,31/10/2023,03/11/2023,361,361,Chambre Standard,,Le Madeloc Hôtel & Spa,Collioure,,44
+,02/03/2023,31/10/2023,03/11/2023,270,270,Chambre Double,,Hôtel Les Sables - Urban Style,Canet-en-Roussillon,,44
+,02/03/2023,31/10/2023,03/11/2023,362,362,Chambre Lits Jumeaux Classique,,Best Western Le Vauban,Prades,,44
+,02/03/2023,31/10/2023,03/11/2023,317,317,Chambre Lit Queen-Size avec Canapé ,,"Holiday Inn Perpignan, an IHG Hotel",Perpignan,,44
+,02/03/2023,31/10/2023,03/11/2023,334,334,Chambre Double - Vue sur Piscine,,Hôtel & Spa Les Mouettes,Argelès-sur-Mer,,44
+,02/03/2023,31/10/2023,03/11/2023,183,183,Chambre Double Standard,,Hôtel Le Val Du Tech,Prats-de-Mollo-la-Preste,,44
+,02/03/2023,31/10/2023,03/11/2023,281,281,Chambre Double avec Douche - Côté Rue - 1er ou 2ème Étage,,Hôtel la Bona Casa,Collioure,,44
+,02/03/2023,31/10/2023,03/11/2023,331,331,Chambre Double Classique,,Dali Hôtel Perpignan - Restaurant,Perpignan,,44
+,02/03/2023,31/10/2023,03/11/2023,189,189,Chambre Double Classique,,B&B HOTEL PERPIGNAN Nord Aéroport,Perpignan,,44
+,02/03/2023,31/10/2023,03/11/2023,129,129,Chambre Triple (1 Lit Double et 1 Lit Simple),,Premiere Classe Perpignan Sud,Perpignan,,44
+,02/03/2023,31/10/2023,03/11/2023,177,177,Chambre Double ou Lits Jumeaux,,Hotel Restaurant L'Espassole,Thuir,,44
+,02/03/2023,31/10/2023,03/11/2023,140,140,Chambre Double Standard avec Lit Superposé,,Ibis Budget Perpignan Nord,Rivesaltes,,44
+,02/03/2023,31/10/2023,03/11/2023,193,193,Chambre Double,,Central Hôtel,Cerbère,,44
+,02/03/2023,31/10/2023,03/11/2023,194,194,Chambre Double Confort,,Brit Hotel Porte d'Espagne,Perpignan,,44
+,02/03/2023,31/10/2023,03/11/2023,194,194,Chambre Double,,Hotel de la Plage - Barcares,Le Barcarès,,44
+,02/03/2023,31/10/2023,03/11/2023,283,283,Chambre Double Standard,,ibis Styles Perpignan Centre Gare,Perpignan,,44
+,02/03/2023,31/10/2023,03/11/2023,237,237,Chambre Double Côté Rue ,,Hôtel Triton,Collioure,,44
+,02/03/2023,31/10/2023,03/11/2023,549,549,Chambre Double Deluxe,,Grand Hôtel Du Lido,"Argeles Plage, Argelès-sur-Mer",,44
+,02/03/2023,31/10/2023,03/11/2023,238,238,Chambre Double Standard,,Kyriad Prestige Perpignan Centre del Mon,Perpignan,,44
+,02/03/2023,31/10/2023,03/11/2023,1122,1122,Chambre Double Confort avec Accès au Centre de Bien-Être,,Relais et Châteaux Thalasso & Spa Ile de la Lagune,Saint-Cyprien,,44
+,02/03/2023,31/10/2023,03/11/2023,262,262,Chambre Double Côté Nord avec Douche,,Hotel des Pyrénées,Font-Romeu,,44
+,02/03/2023,31/10/2023,03/11/2023,258,258,Chambre Double ou Lits Jumeaux Standard,,Hotel Le Clos Cerdan,Mont-Louis,,44
+,02/03/2023,31/10/2023,03/11/2023,368,368,Chambre Double Économique - Rez-de-Chaussée,,Grand Hotel Du Golfe,Argelès-sur-Mer,,44
+,02/03/2023,31/10/2023,03/11/2023,272,272,Chambre Double,,Logis Solhotel,Banyuls-sur-Mer,,44
+,02/03/2023,31/10/2023,03/11/2023,191,191,Chambre Double,,Le Campcardos,Porta,,44
+,02/03/2023,31/10/2023,03/11/2023,140,140,Chambre Double,,Première Classe Perpignan Nord,Rivesaltes,,44
+,02/03/2023,31/10/2023,03/11/2023,980,980,Chambre Double Confort,,Domaine Riberach,Bélesta,,44
+,02/03/2023,31/10/2023,03/11/2023,201,201,Petite Chambre Double,,Hotel La Casa,Le Barcarès,,44
+,02/03/2023,31/10/2023,03/11/2023,821,821,Chambre Double - Vue sur Mer,,Les Roches Brunes,Collioure,,44
+,02/03/2023,31/10/2023,03/11/2023,323,323,Chambre Double Classique,,"The Originals City, Relax'Otel, Le Barcarès",Le Barcarès,,44
+,02/03/2023,31/10/2023,03/11/2023,171,171,Chambre Double,,Kyriad Direct Perpignan - Aeroport,Rivesaltes,,44
+,02/03/2023,31/10/2023,03/11/2023,778,778,Chambre Double ou Lits Jumeaux avec Accès Gratuit au Spa  - Vue sur Jardin,,Grand Hôtel Les Flamants Roses Thalasso & Spa,Canet-en-Roussillon,,44
+,02/03/2023,31/10/2023,03/11/2023,287,287,Chambre Standard avec Vue sur la Ville,,Best Western Plus Hotel Canet-Plage,Canet-en-Roussillon,,44
+,02/03/2023,31/10/2023,03/11/2023,229,229,Chambre Double Économique,,"Hotel Saint Georges, Face à la mer",Canet-en-Roussillon,,44
+,02/03/2023,31/10/2023,03/11/2023,463,463,Chambre Double Standard,,La Frégate,Collioure,,44
+,02/03/2023,31/10/2023,03/11/2023,361,361,Chambre Standard,,Le Madeloc Hôtel & Spa,Collioure,,44
+,02/03/2023,31/10/2023,03/11/2023,270,270,Chambre Double,,Hôtel Les Sables - Urban Style,Canet-en-Roussillon,,44
+,02/03/2023,31/10/2023,03/11/2023,362,362,Chambre Lits Jumeaux Classique,,Best Western Le Vauban,Prades,,44
+,02/03/2023,31/10/2023,03/11/2023,317,317,Chambre Lit Queen-Size avec Canapé ,,"Holiday Inn Perpignan, an IHG Hotel",Perpignan,,44
+,02/03/2023,31/10/2023,03/11/2023,334,334,Chambre Double - Vue sur Piscine,,Hôtel & Spa Les Mouettes,Argelès-sur-Mer,,44
+,02/03/2023,31/10/2023,03/11/2023,183,183,Chambre Double Standard,,Hôtel Le Val Du Tech,Prats-de-Mollo-la-Preste,,44
+,02/03/2023,31/10/2023,03/11/2023,281,281,Chambre Double avec Douche - Côté Rue - 1er ou 2ème Étage,,Hôtel la Bona Casa,Collioure,,44
+,02/03/2023,31/10/2023,03/11/2023,331,331,Chambre Double Classique,,Dali Hôtel Perpignan - Restaurant,Perpignan,,44
+,02/03/2023,31/10/2023,03/11/2023,189,189,Chambre Double Classique,,B&B HOTEL PERPIGNAN Nord Aéroport,Perpignan,,44
+,02/03/2023,31/10/2023,03/11/2023,129,129,Chambre Triple (1 Lit Double et 1 Lit Simple),,Premiere Classe Perpignan Sud,Perpignan,,44
+,02/03/2023,31/10/2023,03/11/2023,177,177,Chambre Double ou Lits Jumeaux,,Hotel Restaurant L'Espassole,Thuir,,44
+,02/03/2023,31/10/2023,03/11/2023,140,140,Chambre Double Standard avec Lit Superposé,,Ibis Budget Perpignan Nord,Rivesaltes,,44
+,02/03/2023,31/10/2023,03/11/2023,193,193,Chambre Double,,Central Hôtel,Cerbère,,44
+,02/03/2023,31/10/2023,03/11/2023,194,194,Chambre Double Confort,,Brit Hotel Porte d'Espagne,Perpignan,,44
+,02/03/2023,31/10/2023,03/11/2023,194,194,Chambre Double,,Hotel de la Plage - Barcares,Le Barcarès,,44
+,02/03/2023,31/10/2023,03/11/2023,283,283,Chambre Double Standard,,ibis Styles Perpignan Centre Gare,Perpignan,,44
+,02/03/2023,31/10/2023,03/11/2023,237,237,Chambre Double Côté Rue ,,Hôtel Triton,Collioure,,44
+,02/03/2023,31/10/2023,03/11/2023,549,549,Chambre Double Deluxe,,Grand Hôtel Du Lido,"Argeles Plage, Argelès-sur-Mer",,44
+,02/03/2023,31/10/2023,03/11/2023,238,238,Chambre Double Standard,,Kyriad Prestige Perpignan Centre del Mon,Perpignan,,44
+,02/03/2023,31/10/2023,03/11/2023,1122,1122,Chambre Double Confort avec Accès au Centre de Bien-Être,,Relais et Châteaux Thalasso & Spa Ile de la Lagune,Saint-Cyprien,,44
+,02/03/2023,31/10/2023,03/11/2023,262,262,Chambre Double Côté Nord avec Douche,,Hotel des Pyrénées,Font-Romeu,,44
+,02/03/2023,31/10/2023,03/11/2023,258,258,Chambre Double ou Lits Jumeaux Standard,,Hotel Le Clos Cerdan,Mont-Louis,,44
+,02/03/2023,31/10/2023,03/11/2023,368,368,Chambre Double Économique - Rez-de-Chaussée,,Grand Hotel Du Golfe,Argelès-sur-Mer,,44
+,02/03/2023,31/10/2023,03/11/2023,272,272,Chambre Double,,Logis Solhotel,Banyuls-sur-Mer,,44
+,02/03/2023,31/10/2023,03/11/2023,191,191,Chambre Double,,Le Campcardos,Porta,,44
+,02/03/2023,31/10/2023,03/11/2023,140,140,Chambre Double,,Première Classe Perpignan Nord,Rivesaltes,,44
+,02/03/2023,31/10/2023,03/11/2023,980,980,Chambre Double Confort,,Domaine Riberach,Bélesta,,44
+,02/03/2023,31/10/2023,03/11/2023,174,174,Chambre Double ou Lits Jumeaux,,Hôtel Alliance,Lourdes,,44
+,02/03/2023,31/10/2023,03/11/2023,250,250,Chambre Double Économique,,Maison d'hoursentut,Sainte-Marie-de-Campan,,44
+,02/03/2023,31/10/2023,03/11/2023,256,256,Chambre Double,,Nex Hôtel,Tarbes,,44
+,02/03/2023,31/10/2023,03/11/2023,168,168,Offre Spéciale - Chambre Double ou Lits Jumeaux,,Hôtel Angelic,Lourdes,,44
+,02/03/2023,31/10/2023,03/11/2023,194,194,Chambre Double Standard,,Le Nex2,Tarbes,,44
+,02/03/2023,31/10/2023,03/11/2023,282,282,Chambre Double Standard,,Grand Hôtel de France,Pierrefitte-Nestalas,,44
+,02/03/2023,31/10/2023,03/11/2023,189,189,Chambre Double Confort avec Douche,,Hôtel Saint Etienne,Lourdes,,44
+,02/03/2023,31/10/2023,03/11/2023,183,183,Chambre Lits Jumeaux,,L'Auberge Everhotel de Tarbes-Ibos,Tarbes,,44
+,02/03/2023,31/10/2023,03/11/2023,391,391,Chambre Lits Jumeaux Exécutive,,Le Rex Hôtel,Tarbes,,44
+,02/03/2023,31/10/2023,03/11/2023,149,149,Chambre Double avec Douche,,Hôtel Kennedy Parc des Expositions,Tarbes,,44
+,02/03/2023,31/10/2023,03/11/2023,136,136,Chambre Double ou Lits Jumeaux,,Hôtel Majestic,Lourdes,,44
+,02/03/2023,31/10/2023,03/11/2023,319,319,Chambre Double Standard,,Helgon Hotel - Lourdes Pyrénées,Lourdes,,44
+,02/03/2023,31/10/2023,03/11/2023,292,292,Chambre Double,,Hôtel Padoue,Lourdes,,44
+,02/03/2023,31/10/2023,03/11/2023,302,302,Chambre Double Confort Grand Lit ou Twin,,Best Western Beauséjour,Lourdes,,44
+,02/03/2023,31/10/2023,03/11/2023,478,478,Chambre Double Supérieure,,Grand Hôtel Gallia & Londres Spa NUXE,Lourdes,,44
+,02/03/2023,31/10/2023,03/11/2023,222,222,Chambre Double ou Lits Jumeaux,,Hôtel Saint Sauveur,Lourdes,,44
+,02/03/2023,31/10/2023,03/11/2023,195,195,Chambre Double,,Hôtel Continental,Lourdes,,44
+,02/03/2023,31/10/2023,03/11/2023,200,200,Chambre Double,,Hôtel du Béarn,Bagnères-de-Bigorre,,44
+,02/03/2023,31/10/2023,03/11/2023,180,180,Chambre Double,,Résidence Hôtelière du MAGNOAC,Castelnau-Magnoac,,44
+,02/03/2023,31/10/2023,03/11/2023,213,213,Chambre Double,,Hôtel du Casino de Capvern,Capvern,,44
+,02/03/2023,31/10/2023,03/11/2023,246,246,Chambre Double Standard,,Hôtel du Soleil Levant,Argelès-Gazost,,44
+,02/03/2023,31/10/2023,03/11/2023,185,185,Chambre Double,,Hôtel Peyramale,Lourdes,,44
+,02/03/2023,31/10/2023,03/11/2023,463,463,Appartement avec Balcon,,Hôtel La Solitude,Lourdes,,44
+,02/03/2023,31/10/2023,03/11/2023,331,331,Chambre Double,,Hôtel Panorama,Lourdes,,44
+,02/03/2023,31/10/2023,03/11/2023,237,237,Chambre Double Standard,,ibis Tarbes Odos,Odos,,44
+,02/03/2023,31/10/2023,03/11/2023,184,184,Chambre Double,,Hôtel Saint Vincent,Bagnères-de-Bigorre,,44
+,02/03/2023,31/10/2023,03/11/2023,200,200,Chambre Double Standard,,Hôtel de L'Avenue,Tarbes,,44
+,02/03/2023,31/10/2023,03/11/2023,148,148,Chambre avec 1 Lit Double ,,Kyriad Tarbes Odos,Odos,,44
+,02/03/2023,31/10/2023,03/11/2023,110,110,Chambre Double ou Lits Jumeaux Économique ,,Le Petit Majestic,Lourdes,,44
+,02/03/2023,31/10/2023,03/11/2023,279,279,Chambre Double,,Hôtel Le Milan,Lourdes,,44
+,02/03/2023,31/10/2023,03/11/2023,193,193,Chambre Double,,Cit'Hotel de La Vallée,Lourdes,,44
+,02/03/2023,31/10/2023,03/11/2023,226,226,Chambre Double,,"L' Auberge Campagnarde, Lourdes Spa Sauna Restaurant",Poueyferré,,44
+,02/03/2023,31/10/2023,03/11/2023,139,139,Chambre Double,,Chalet Saint Louis,Lourdes,,44
+,02/03/2023,31/10/2023,03/11/2023,167,167,Chambre Lits Jumeaux,,Kyriad Tarbes Bastillac,Tarbes,,44
+,02/03/2023,31/10/2023,03/11/2023,282,282,Chambre Double Confort - Vue sur Vallée,,Carré Py' Hôtel,Bagnères-de-Bigorre,,44
+,02/03/2023,31/10/2023,03/11/2023,174,174,Chambre Double ou Lits Jumeaux,,Hôtel Alliance,Lourdes,,44
+,02/03/2023,31/10/2023,03/11/2023,250,250,Chambre Double Économique,,Maison d'hoursentut,Sainte-Marie-de-Campan,,44
+,02/03/2023,31/10/2023,03/11/2023,256,256,Chambre Double,,Nex Hôtel,Tarbes,,44
+,02/03/2023,31/10/2023,03/11/2023,168,168,Offre Spéciale - Chambre Double ou Lits Jumeaux,,Hôtel Angelic,Lourdes,,44
+,02/03/2023,31/10/2023,03/11/2023,194,194,Chambre Double Standard,,Le Nex2,Tarbes,,44
+,02/03/2023,31/10/2023,03/11/2023,282,282,Chambre Double Standard,,Grand Hôtel de France,Pierrefitte-Nestalas,,44
+,02/03/2023,31/10/2023,03/11/2023,189,189,Chambre Double Confort avec Douche,,Hôtel Saint Etienne,Lourdes,,44
+,02/03/2023,31/10/2023,03/11/2023,183,183,Chambre Lits Jumeaux,,L'Auberge Everhotel de Tarbes-Ibos,Tarbes,,44
+,02/03/2023,31/10/2023,03/11/2023,391,391,Chambre Lits Jumeaux Exécutive,,Le Rex Hôtel,Tarbes,,44
+,02/03/2023,31/10/2023,03/11/2023,149,149,Chambre Double avec Douche,,Hôtel Kennedy Parc des Expositions,Tarbes,,44
+,02/03/2023,31/10/2023,03/11/2023,136,136,Chambre Double ou Lits Jumeaux,,Hôtel Majestic,Lourdes,,44
+,02/03/2023,31/10/2023,03/11/2023,319,319,Chambre Double Standard,,Helgon Hotel - Lourdes Pyrénées,Lourdes,,44
+,02/03/2023,31/10/2023,03/11/2023,292,292,Chambre Double,,Hôtel Padoue,Lourdes,,44
+,02/03/2023,31/10/2023,03/11/2023,302,302,Chambre Double Confort Grand Lit ou Twin,,Best Western Beauséjour,Lourdes,,44
+,02/03/2023,31/10/2023,03/11/2023,478,478,Chambre Double Supérieure,,Grand Hôtel Gallia & Londres Spa NUXE,Lourdes,,44
+,02/03/2023,31/10/2023,03/11/2023,222,222,Chambre Double ou Lits Jumeaux,,Hôtel Saint Sauveur,Lourdes,,44
+,02/03/2023,31/10/2023,03/11/2023,195,195,Chambre Double,,Hôtel Continental,Lourdes,,44
+,02/03/2023,31/10/2023,03/11/2023,200,200,Chambre Double,,Hôtel du Béarn,Bagnères-de-Bigorre,,44
+,02/03/2023,31/10/2023,03/11/2023,180,180,Chambre Double,,Résidence Hôtelière du MAGNOAC,Castelnau-Magnoac,,44
+,02/03/2023,31/10/2023,03/11/2023,213,213,Chambre Double,,Hôtel du Casino de Capvern,Capvern,,44
+,02/03/2023,31/10/2023,03/11/2023,246,246,Chambre Double Standard,,Hôtel du Soleil Levant,Argelès-Gazost,,44
+,02/03/2023,31/10/2023,03/11/2023,185,185,Chambre Double,,Hôtel Peyramale,Lourdes,,44
+,02/03/2023,31/10/2023,03/11/2023,463,463,Appartement avec Balcon,,Hôtel La Solitude,Lourdes,,44
+,02/03/2023,31/10/2023,03/11/2023,331,331,Chambre Double,,Hôtel Panorama,Lourdes,,44
+,02/03/2023,31/10/2023,03/11/2023,237,237,Chambre Double Standard,,ibis Tarbes Odos,Odos,,44
+,02/03/2023,31/10/2023,03/11/2023,184,184,Chambre Double,,Hôtel Saint Vincent,Bagnères-de-Bigorre,,44
+,02/03/2023,31/10/2023,03/11/2023,200,200,Chambre Double Standard,,Hôtel de L'Avenue,Tarbes,,44
+,02/03/2023,31/10/2023,03/11/2023,148,148,Chambre avec 1 Lit Double ,,Kyriad Tarbes Odos,Odos,,44
+,02/03/2023,31/10/2023,03/11/2023,110,110,Chambre Double ou Lits Jumeaux Économique ,,Le Petit Majestic,Lourdes,,44
+,02/03/2023,31/10/2023,03/11/2023,279,279,Chambre Double,,Hôtel Le Milan,Lourdes,,44
+,02/03/2023,31/10/2023,03/11/2023,193,193,Chambre Double,,Cit'Hotel de La Vallée,Lourdes,,44
+,02/03/2023,31/10/2023,03/11/2023,226,226,Chambre Double,,"L' Auberge Campagnarde, Lourdes Spa Sauna Restaurant",Poueyferré,,44
+,02/03/2023,31/10/2023,03/11/2023,139,139,Chambre Double,,Chalet Saint Louis,Lourdes,,44
+,02/03/2023,31/10/2023,03/11/2023,167,167,Chambre Lits Jumeaux,,Kyriad Tarbes Bastillac,Tarbes,,44
+,02/03/2023,31/10/2023,03/11/2023,282,282,Chambre Double Confort - Vue sur Vallée,,Carré Py' Hôtel,Bagnères-de-Bigorre,,44
