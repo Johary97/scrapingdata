@@ -1,0 +1,151 @@
+web-scraper-order,date_price,date_debut,date_fin,prix_init,prix_actuel,typologie,n_offre,nom,localite,date_debut-jour,Nb semaines
+1692107890-1,17/04/2023,24/07/2023,25/07/2023,79,79,Chambre Double Standard,,Hôtel Chalet Le Caribou,Les Saisies,,30
+1692107890-2,17/04/2023,24/07/2023,25/07/2023,100,100,Chambre Double ou Lits Jumeaux,,Hôtel le Christiania,Arêches,,30
+1692107890-3,17/04/2023,24/07/2023,25/07/2023,145,145,Chambre Lits Jumeaux,,Le Calgary,Les Saisies,,30
+1692107890-4,17/04/2023,24/07/2023,25/07/2023,154,154,Chambre Double,,Maison Doron,Beaufort,,30
+1692107890-5,17/04/2023,24/07/2023,25/07/2023,155,155,Chambre Double ou Lits Jumeaux,,Hôtel Les Ancolies à Arêches,Arêches,,30
+1692107890-6,17/04/2023,24/07/2023,25/07/2023,123,123,Chambre Lits Jumeaux,,Hôtel Viallet,Arêches,,30
+1692107890-7,17/04/2023,24/07/2023,25/07/2023,92,92,Chambre Double - Vue sur Montagne,,Hotel Le Tetras,Notre-Dame-de-Bellecombe,,30
+1692107890-8,17/04/2023,24/07/2023,25/07/2023,187,187,Chambre Double,,Chalet Hôtel du Mont-Charvin & Spa,Crest-Voland,,30
+1692107890-9,17/04/2023,24/07/2023,25/07/2023,104,104,Chambre Double,,Le Caprice Des Neiges,Crest-Voland,,30
+1692107890-10,17/04/2023,24/07/2023,25/07/2023,122,122,Chambre Quadruple Standard,,La Mollinière,Notre-Dame-de-Bellecombe,,30
+1692107890-11,17/04/2023,24/07/2023,25/07/2023,143,143,Chambre Double Standard,,Les Chalets de La Griyotire,Praz-sur-Arly,,30
+1692107890-12,17/04/2023,24/07/2023,25/07/2023,489,489,Appartement Village,,Flocons de Sel,Megève,,30
+1692107890-13,17/04/2023,24/07/2023,25/07/2023,82,82,Chambre Lits Jumeaux,,Auberge de Costaroche,Albertville,,30
+1692107890-14,17/04/2023,24/07/2023,25/07/2023,122,122,Chambre Double,,Hotel Sylvana,Megève,,30
+1692107890-15,17/04/2023,24/07/2023,25/07/2023,371,371,Chambre Double Classique,,"L'Alpaga, a Beaumier hotel",Megève,,30
+1692107890-16,17/04/2023,24/07/2023,25/07/2023,226,226,Chambre Double ou Lits Jumeaux,,Hôtel La Grange d'Arly,Megève,,30
+1692107890-17,17/04/2023,24/07/2023,25/07/2023,179,179,Chambre Double Standard,,Au Coin Du Feu,Megève,,30
+1692107890-18,17/04/2023,24/07/2023,25/07/2023,63,63,Chambre Double,,Hôtel Le Savoie,Albertville,,30
+1692107890-19,17/04/2023,24/07/2023,25/07/2023,125,125,Chambre Lits Jumeaux Standard,,ibis Styles Albertville,Albertville,,30
+1692107890-20,17/04/2023,24/07/2023,25/07/2023,188,188,Chambre Double ou Lits Jumeaux de Charme - Rez-de-Chaussée ,,Au Vieux Moulin,Megève,,30
+1692107890-21,17/04/2023,24/07/2023,25/07/2023,222,222,Chambre Double Confort,,Coeur de Megève,Megève,,30
+1692107890-22,17/04/2023,24/07/2023,25/07/2023,149,149,Chambre Double Classique,,La Ferme du Golf,Megève,,30
+1692107890-23,17/04/2023,24/07/2023,25/07/2023,231,231,Chambre Double Classique avec Canapé-Lit,,Novotel Megève Mont-Blanc,Megève,,30
+1692107890-24,17/04/2023,24/07/2023,25/07/2023,395,395,Chambre Deluxe,,Grand Hotel Soleil d'Or,Megève,,30
+1692107890-25,17/04/2023,24/07/2023,25/07/2023,244,244,Chambre Double Classique,,Hotel Mont Blanc Megève,Megève,,30
+1692107890-26,17/04/2023,24/07/2023,25/07/2023,79,79,Chambre Double Standard,,Hôtel Chalet Le Caribou,Les Saisies,,30
+1692107890-27,17/04/2023,24/07/2023,25/07/2023,100,100,Chambre Double ou Lits Jumeaux,,Hôtel le Christiania,Arêches,,30
+1692107890-28,17/04/2023,24/07/2023,25/07/2023,145,145,Chambre Lits Jumeaux,,Le Calgary,Les Saisies,,30
+1692107890-29,17/04/2023,24/07/2023,25/07/2023,154,154,Chambre Double,,Maison Doron,Beaufort,,30
+1692107890-30,17/04/2023,24/07/2023,25/07/2023,155,155,Chambre Double ou Lits Jumeaux,,Hôtel Les Ancolies à Arêches,Arêches,,30
+1692107890-31,17/04/2023,24/07/2023,25/07/2023,123,123,Chambre Lits Jumeaux,,Hôtel Viallet,Arêches,,30
+1692107890-32,17/04/2023,24/07/2023,25/07/2023,92,92,Chambre Double - Vue sur Montagne,,Hotel Le Tetras,Notre-Dame-de-Bellecombe,,30
+1692107890-33,17/04/2023,24/07/2023,25/07/2023,187,187,Chambre Double,,Chalet Hôtel du Mont-Charvin & Spa,Crest-Voland,,30
+1692107890-34,17/04/2023,24/07/2023,25/07/2023,104,104,Chambre Double,,Le Caprice Des Neiges,Crest-Voland,,30
+1692107890-35,17/04/2023,24/07/2023,25/07/2023,122,122,Chambre Quadruple Standard,,La Mollinière,Notre-Dame-de-Bellecombe,,30
+1692107890-36,17/04/2023,24/07/2023,25/07/2023,143,143,Chambre Double Standard,,Les Chalets de La Griyotire,Praz-sur-Arly,,30
+1692107890-37,17/04/2023,24/07/2023,25/07/2023,489,489,Appartement Village,,Flocons de Sel,Megève,,30
+1692107890-38,17/04/2023,24/07/2023,25/07/2023,82,82,Chambre Lits Jumeaux,,Auberge de Costaroche,Albertville,,30
+1692107890-39,17/04/2023,24/07/2023,25/07/2023,122,122,Chambre Double,,Hotel Sylvana,Megève,,30
+1692107890-40,17/04/2023,24/07/2023,25/07/2023,371,371,Chambre Double Classique,,"L'Alpaga, a Beaumier hotel",Megève,,30
+1692107890-41,17/04/2023,24/07/2023,25/07/2023,226,226,Chambre Double ou Lits Jumeaux,,Hôtel La Grange d'Arly,Megève,,30
+1692107890-42,17/04/2023,24/07/2023,25/07/2023,179,179,Chambre Double Standard,,Au Coin Du Feu,Megève,,30
+1692107890-43,17/04/2023,24/07/2023,25/07/2023,63,63,Chambre Double,,Hôtel Le Savoie,Albertville,,30
+1692107890-44,17/04/2023,24/07/2023,25/07/2023,125,125,Chambre Lits Jumeaux Standard,,ibis Styles Albertville,Albertville,,30
+1692107890-45,17/04/2023,24/07/2023,25/07/2023,188,188,Chambre Double ou Lits Jumeaux de Charme - Rez-de-Chaussée ,,Au Vieux Moulin,Megève,,30
+1692107890-46,17/04/2023,24/07/2023,25/07/2023,222,222,Chambre Double Confort,,Coeur de Megève,Megève,,30
+1692107890-47,17/04/2023,24/07/2023,25/07/2023,149,149,Chambre Double Classique,,La Ferme du Golf,Megève,,30
+1692107890-48,17/04/2023,24/07/2023,25/07/2023,231,231,Chambre Double Classique avec Canapé-Lit,,Novotel Megève Mont-Blanc,Megève,,30
+1692107890-49,17/04/2023,24/07/2023,25/07/2023,395,395,Chambre Deluxe,,Grand Hotel Soleil d'Or,Megève,,30
+1692107890-50,17/04/2023,24/07/2023,25/07/2023,244,244,Chambre Double Classique,,Hotel Mont Blanc Megève,Megève,,30
+1692117333-1,17/04/2023,24/07/2023,25/07/2023,79,79,Chambre Double Standard,,Hôtel Chalet Le Caribou,Les Saisies,,30
+1692117333-2,17/04/2023,24/07/2023,25/07/2023,100,100,Chambre Double ou Lits Jumeaux,,Hôtel le Christiania,Arêches,,30
+1692117333-3,17/04/2023,24/07/2023,25/07/2023,145,145,Chambre Lits Jumeaux,,Le Calgary,Les Saisies,,30
+1692117333-4,17/04/2023,24/07/2023,25/07/2023,154,154,Chambre Double,,Maison Doron,Beaufort,,30
+1692117333-5,17/04/2023,24/07/2023,25/07/2023,155,155,Chambre Double ou Lits Jumeaux,,Hôtel Les Ancolies à Arêches,Arêches,,30
+1692117333-6,17/04/2023,24/07/2023,25/07/2023,123,123,Chambre Lits Jumeaux,,Hôtel Viallet,Arêches,,30
+1692117333-7,17/04/2023,24/07/2023,25/07/2023,92,92,Chambre Double - Vue sur Montagne,,Hotel Le Tetras,Notre-Dame-de-Bellecombe,,30
+1692117333-8,17/04/2023,24/07/2023,25/07/2023,187,187,Chambre Double,,Chalet Hôtel du Mont-Charvin & Spa,Crest-Voland,,30
+1692117333-9,17/04/2023,24/07/2023,25/07/2023,104,104,Chambre Double,,Le Caprice Des Neiges,Crest-Voland,,30
+1692117333-10,17/04/2023,24/07/2023,25/07/2023,122,122,Chambre Quadruple Standard,,La Mollinière,Notre-Dame-de-Bellecombe,,30
+1692117333-11,17/04/2023,24/07/2023,25/07/2023,143,143,Chambre Double Standard,,Les Chalets de La Griyotire,Praz-sur-Arly,,30
+1692117333-12,17/04/2023,24/07/2023,25/07/2023,489,489,Appartement Village,,Flocons de Sel,Megève,,30
+1692117333-13,17/04/2023,24/07/2023,25/07/2023,82,82,Chambre Lits Jumeaux,,Auberge de Costaroche,Albertville,,30
+1692117333-14,17/04/2023,24/07/2023,25/07/2023,122,122,Chambre Double,,Hotel Sylvana,Megève,,30
+1692117333-15,17/04/2023,24/07/2023,25/07/2023,371,371,Chambre Double Classique,,"L'Alpaga, a Beaumier hotel",Megève,,30
+1692117333-16,17/04/2023,24/07/2023,25/07/2023,226,226,Chambre Double ou Lits Jumeaux,,Hôtel La Grange d'Arly,Megève,,30
+1692117333-17,17/04/2023,24/07/2023,25/07/2023,179,179,Chambre Double Standard,,Au Coin Du Feu,Megève,,30
+1692117333-18,17/04/2023,24/07/2023,25/07/2023,63,63,Chambre Double,,Hôtel Le Savoie,Albertville,,30
+1692117333-19,17/04/2023,24/07/2023,25/07/2023,125,125,Chambre Lits Jumeaux Standard,,ibis Styles Albertville,Albertville,,30
+1692117333-20,17/04/2023,24/07/2023,25/07/2023,188,188,Chambre Double ou Lits Jumeaux de Charme - Rez-de-Chaussée ,,Au Vieux Moulin,Megève,,30
+1692117333-21,17/04/2023,24/07/2023,25/07/2023,222,222,Chambre Double Confort,,Coeur de Megève,Megève,,30
+1692117333-22,17/04/2023,24/07/2023,25/07/2023,149,149,Chambre Double Classique,,La Ferme du Golf,Megève,,30
+1692117333-23,17/04/2023,24/07/2023,25/07/2023,231,231,Chambre Double Classique avec Canapé-Lit,,Novotel Megève Mont-Blanc,Megève,,30
+1692117333-24,17/04/2023,24/07/2023,25/07/2023,395,395,Chambre Deluxe,,Grand Hotel Soleil d'Or,Megève,,30
+1692117333-25,17/04/2023,24/07/2023,25/07/2023,244,244,Chambre Double Classique,,Hotel Mont Blanc Megève,Megève,,30
+1692117333-26,17/04/2023,24/07/2023,25/07/2023,79,79,Chambre Double Standard,,Hôtel Chalet Le Caribou,Les Saisies,,30
+1692117333-27,17/04/2023,24/07/2023,25/07/2023,100,100,Chambre Double ou Lits Jumeaux,,Hôtel le Christiania,Arêches,,30
+1692117333-28,17/04/2023,24/07/2023,25/07/2023,145,145,Chambre Lits Jumeaux,,Le Calgary,Les Saisies,,30
+1692117333-29,17/04/2023,24/07/2023,25/07/2023,154,154,Chambre Double,,Maison Doron,Beaufort,,30
+1692117333-30,17/04/2023,24/07/2023,25/07/2023,155,155,Chambre Double ou Lits Jumeaux,,Hôtel Les Ancolies à Arêches,Arêches,,30
+1692117333-31,17/04/2023,24/07/2023,25/07/2023,123,123,Chambre Lits Jumeaux,,Hôtel Viallet,Arêches,,30
+1692117333-32,17/04/2023,24/07/2023,25/07/2023,92,92,Chambre Double - Vue sur Montagne,,Hotel Le Tetras,Notre-Dame-de-Bellecombe,,30
+1692117333-33,17/04/2023,24/07/2023,25/07/2023,187,187,Chambre Double,,Chalet Hôtel du Mont-Charvin & Spa,Crest-Voland,,30
+1692117333-34,17/04/2023,24/07/2023,25/07/2023,104,104,Chambre Double,,Le Caprice Des Neiges,Crest-Voland,,30
+1692117333-35,17/04/2023,24/07/2023,25/07/2023,122,122,Chambre Quadruple Standard,,La Mollinière,Notre-Dame-de-Bellecombe,,30
+1692117333-36,17/04/2023,24/07/2023,25/07/2023,143,143,Chambre Double Standard,,Les Chalets de La Griyotire,Praz-sur-Arly,,30
+1692117333-37,17/04/2023,24/07/2023,25/07/2023,489,489,Appartement Village,,Flocons de Sel,Megève,,30
+1692117333-38,17/04/2023,24/07/2023,25/07/2023,82,82,Chambre Lits Jumeaux,,Auberge de Costaroche,Albertville,,30
+1692117333-39,17/04/2023,24/07/2023,25/07/2023,122,122,Chambre Double,,Hotel Sylvana,Megève,,30
+1692117333-40,17/04/2023,24/07/2023,25/07/2023,371,371,Chambre Double Classique,,"L'Alpaga, a Beaumier hotel",Megève,,30
+1692117333-41,17/04/2023,24/07/2023,25/07/2023,226,226,Chambre Double ou Lits Jumeaux,,Hôtel La Grange d'Arly,Megève,,30
+1692117333-42,17/04/2023,24/07/2023,25/07/2023,179,179,Chambre Double Standard,,Au Coin Du Feu,Megève,,30
+1692117333-43,17/04/2023,24/07/2023,25/07/2023,63,63,Chambre Double,,Hôtel Le Savoie,Albertville,,30
+1692117333-44,17/04/2023,24/07/2023,25/07/2023,125,125,Chambre Lits Jumeaux Standard,,ibis Styles Albertville,Albertville,,30
+1692117333-45,17/04/2023,24/07/2023,25/07/2023,188,188,Chambre Double ou Lits Jumeaux de Charme - Rez-de-Chaussée ,,Au Vieux Moulin,Megève,,30
+1692117333-46,17/04/2023,24/07/2023,25/07/2023,222,222,Chambre Double Confort,,Coeur de Megève,Megève,,30
+1692117333-47,17/04/2023,24/07/2023,25/07/2023,149,149,Chambre Double Classique,,La Ferme du Golf,Megève,,30
+1692117333-48,17/04/2023,24/07/2023,25/07/2023,231,231,Chambre Double Classique avec Canapé-Lit,,Novotel Megève Mont-Blanc,Megève,,30
+1692117333-49,17/04/2023,24/07/2023,25/07/2023,395,395,Chambre Deluxe,,Grand Hotel Soleil d'Or,Megève,,30
+1692117333-50,17/04/2023,24/07/2023,25/07/2023,244,244,Chambre Double Classique,,Hotel Mont Blanc Megève,Megève,,30
+1692117333-51,17/04/2023,24/07/2023,25/07/2023,79,79,Chambre Double Standard,,Hôtel Chalet Le Caribou,Les Saisies,,30
+1692117333-52,17/04/2023,24/07/2023,25/07/2023,100,100,Chambre Double ou Lits Jumeaux,,Hôtel le Christiania,Arêches,,30
+1692117333-53,17/04/2023,24/07/2023,25/07/2023,145,145,Chambre Lits Jumeaux,,Le Calgary,Les Saisies,,30
+1692117333-54,17/04/2023,24/07/2023,25/07/2023,154,154,Chambre Double,,Maison Doron,Beaufort,,30
+1692117333-55,17/04/2023,24/07/2023,25/07/2023,155,155,Chambre Double ou Lits Jumeaux,,Hôtel Les Ancolies à Arêches,Arêches,,30
+1692117333-56,17/04/2023,24/07/2023,25/07/2023,123,123,Chambre Lits Jumeaux,,Hôtel Viallet,Arêches,,30
+1692117333-57,17/04/2023,24/07/2023,25/07/2023,92,92,Chambre Double - Vue sur Montagne,,Hotel Le Tetras,Notre-Dame-de-Bellecombe,,30
+1692117333-58,17/04/2023,24/07/2023,25/07/2023,187,187,Chambre Double,,Chalet Hôtel du Mont-Charvin & Spa,Crest-Voland,,30
+1692117333-59,17/04/2023,24/07/2023,25/07/2023,104,104,Chambre Double,,Le Caprice Des Neiges,Crest-Voland,,30
+1692117333-60,17/04/2023,24/07/2023,25/07/2023,122,122,Chambre Quadruple Standard,,La Mollinière,Notre-Dame-de-Bellecombe,,30
+1692117333-61,17/04/2023,24/07/2023,25/07/2023,143,143,Chambre Double Standard,,Les Chalets de La Griyotire,Praz-sur-Arly,,30
+1692117333-62,17/04/2023,24/07/2023,25/07/2023,489,489,Appartement Village,,Flocons de Sel,Megève,,30
+1692117333-63,17/04/2023,24/07/2023,25/07/2023,82,82,Chambre Lits Jumeaux,,Auberge de Costaroche,Albertville,,30
+1692117333-64,17/04/2023,24/07/2023,25/07/2023,122,122,Chambre Double,,Hotel Sylvana,Megève,,30
+1692117333-65,17/04/2023,24/07/2023,25/07/2023,371,371,Chambre Double Classique,,"L'Alpaga, a Beaumier hotel",Megève,,30
+1692117333-66,17/04/2023,24/07/2023,25/07/2023,226,226,Chambre Double ou Lits Jumeaux,,Hôtel La Grange d'Arly,Megève,,30
+1692117333-67,17/04/2023,24/07/2023,25/07/2023,179,179,Chambre Double Standard,,Au Coin Du Feu,Megève,,30
+1692117333-68,17/04/2023,24/07/2023,25/07/2023,63,63,Chambre Double,,Hôtel Le Savoie,Albertville,,30
+1692117333-69,17/04/2023,24/07/2023,25/07/2023,125,125,Chambre Lits Jumeaux Standard,,ibis Styles Albertville,Albertville,,30
+1692117333-70,17/04/2023,24/07/2023,25/07/2023,188,188,Chambre Double ou Lits Jumeaux de Charme - Rez-de-Chaussée ,,Au Vieux Moulin,Megève,,30
+1692117333-71,17/04/2023,24/07/2023,25/07/2023,222,222,Chambre Double Confort,,Coeur de Megève,Megève,,30
+1692117333-72,17/04/2023,24/07/2023,25/07/2023,149,149,Chambre Double Classique,,La Ferme du Golf,Megève,,30
+1692117333-73,17/04/2023,24/07/2023,25/07/2023,231,231,Chambre Double Classique avec Canapé-Lit,,Novotel Megève Mont-Blanc,Megève,,30
+1692117333-74,17/04/2023,24/07/2023,25/07/2023,395,395,Chambre Deluxe,,Grand Hotel Soleil d'Or,Megève,,30
+1692117333-75,17/04/2023,24/07/2023,25/07/2023,244,244,Chambre Double Classique,,Hotel Mont Blanc Megève,Megève,,30
+1692117333-76,17/04/2023,24/07/2023,25/07/2023,79,79,Chambre Double Standard,,Hôtel Chalet Le Caribou,Les Saisies,,30
+1692117333-77,17/04/2023,24/07/2023,25/07/2023,100,100,Chambre Double ou Lits Jumeaux,,Hôtel le Christiania,Arêches,,30
+1692117333-78,17/04/2023,24/07/2023,25/07/2023,145,145,Chambre Lits Jumeaux,,Le Calgary,Les Saisies,,30
+1692117333-79,17/04/2023,24/07/2023,25/07/2023,154,154,Chambre Double,,Maison Doron,Beaufort,,30
+1692117333-80,17/04/2023,24/07/2023,25/07/2023,155,155,Chambre Double ou Lits Jumeaux,,Hôtel Les Ancolies à Arêches,Arêches,,30
+1692117333-81,17/04/2023,24/07/2023,25/07/2023,123,123,Chambre Lits Jumeaux,,Hôtel Viallet,Arêches,,30
+1692117333-82,17/04/2023,24/07/2023,25/07/2023,92,92,Chambre Double - Vue sur Montagne,,Hotel Le Tetras,Notre-Dame-de-Bellecombe,,30
+1692117333-83,17/04/2023,24/07/2023,25/07/2023,187,187,Chambre Double,,Chalet Hôtel du Mont-Charvin & Spa,Crest-Voland,,30
+1692117333-84,17/04/2023,24/07/2023,25/07/2023,104,104,Chambre Double,,Le Caprice Des Neiges,Crest-Voland,,30
+1692117333-85,17/04/2023,24/07/2023,25/07/2023,122,122,Chambre Quadruple Standard,,La Mollinière,Notre-Dame-de-Bellecombe,,30
+1692117333-86,17/04/2023,24/07/2023,25/07/2023,143,143,Chambre Double Standard,,Les Chalets de La Griyotire,Praz-sur-Arly,,30
+1692117333-87,17/04/2023,24/07/2023,25/07/2023,489,489,Appartement Village,,Flocons de Sel,Megève,,30
+1692117333-88,17/04/2023,24/07/2023,25/07/2023,82,82,Chambre Lits Jumeaux,,Auberge de Costaroche,Albertville,,30
+1692117333-89,17/04/2023,24/07/2023,25/07/2023,122,122,Chambre Double,,Hotel Sylvana,Megève,,30
+1692117333-90,17/04/2023,24/07/2023,25/07/2023,371,371,Chambre Double Classique,,"L'Alpaga, a Beaumier hotel",Megève,,30
+1692117333-91,17/04/2023,24/07/2023,25/07/2023,226,226,Chambre Double ou Lits Jumeaux,,Hôtel La Grange d'Arly,Megève,,30
+1692117333-92,17/04/2023,24/07/2023,25/07/2023,179,179,Chambre Double Standard,,Au Coin Du Feu,Megève,,30
+1692117333-93,17/04/2023,24/07/2023,25/07/2023,63,63,Chambre Double,,Hôtel Le Savoie,Albertville,,30
+1692117333-94,17/04/2023,24/07/2023,25/07/2023,125,125,Chambre Lits Jumeaux Standard,,ibis Styles Albertville,Albertville,,30
+1692117333-95,17/04/2023,24/07/2023,25/07/2023,188,188,Chambre Double ou Lits Jumeaux de Charme - Rez-de-Chaussée ,,Au Vieux Moulin,Megève,,30
+1692117333-96,17/04/2023,24/07/2023,25/07/2023,222,222,Chambre Double Confort,,Coeur de Megève,Megève,,30
+1692117333-97,17/04/2023,24/07/2023,25/07/2023,149,149,Chambre Double Classique,,La Ferme du Golf,Megève,,30
+1692117333-98,17/04/2023,24/07/2023,25/07/2023,231,231,Chambre Double Classique avec Canapé-Lit,,Novotel Megève Mont-Blanc,Megève,,30
+1692117333-99,17/04/2023,24/07/2023,25/07/2023,395,395,Chambre Deluxe,,Grand Hotel Soleil d'Or,Megève,,30
+1692117333-100,17/04/2023,24/07/2023,25/07/2023,244,244,Chambre Double Classique,,Hotel Mont Blanc Megève,Megève,,30
