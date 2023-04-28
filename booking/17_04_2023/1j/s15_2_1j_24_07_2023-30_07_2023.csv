@@ -1,0 +1,226 @@
+web-scraper-order,date_price,date_debut,date_fin,prix_init,prix_actuel,typologie,n_offre,nom,localite,date_debut-jour,Nb semaines
+1692286585-1,17/04/2023,24/07/2023,25/07/2023,79,79,Chambre Double Standard,,Hôtel Chalet Le Caribou,Les Saisies,,30
+1692286585-2,17/04/2023,24/07/2023,25/07/2023,100,100,Chambre Double ou Lits Jumeaux,,Hôtel le Christiania,Arêches,,30
+1692286585-3,17/04/2023,24/07/2023,25/07/2023,145,145,Chambre Lits Jumeaux,,Le Calgary,Les Saisies,,30
+1692286585-4,17/04/2023,24/07/2023,25/07/2023,154,154,Chambre Double,,Maison Doron,Beaufort,,30
+1692286585-5,17/04/2023,24/07/2023,25/07/2023,155,155,Chambre Double ou Lits Jumeaux,,Hôtel Les Ancolies à Arêches,Arêches,,30
+1692286585-6,17/04/2023,24/07/2023,25/07/2023,123,123,Chambre Lits Jumeaux,,Hôtel Viallet,Arêches,,30
+1692286585-7,17/04/2023,24/07/2023,25/07/2023,92,92,Chambre Double - Vue sur Montagne,,Hotel Le Tetras,Notre-Dame-de-Bellecombe,,30
+1692286585-8,17/04/2023,24/07/2023,25/07/2023,187,187,Chambre Double,,Chalet Hôtel du Mont-Charvin & Spa,Crest-Voland,,30
+1692286585-9,17/04/2023,24/07/2023,25/07/2023,104,104,Chambre Double,,Le Caprice Des Neiges,Crest-Voland,,30
+1692286585-10,17/04/2023,24/07/2023,25/07/2023,122,122,Chambre Quadruple Standard,,La Mollinière,Notre-Dame-de-Bellecombe,,30
+1692286585-11,17/04/2023,24/07/2023,25/07/2023,143,143,Chambre Double Standard,,Les Chalets de La Griyotire,Praz-sur-Arly,,30
+1692286585-12,17/04/2023,24/07/2023,25/07/2023,489,489,Appartement Village,,Flocons de Sel,Megève,,30
+1692286585-13,17/04/2023,24/07/2023,25/07/2023,82,82,Chambre Lits Jumeaux,,Auberge de Costaroche,Albertville,,30
+1692286585-14,17/04/2023,24/07/2023,25/07/2023,122,122,Chambre Double,,Hotel Sylvana,Megève,,30
+1692286585-15,17/04/2023,24/07/2023,25/07/2023,371,371,Chambre Double Classique,,"L'Alpaga, a Beaumier hotel",Megève,,30
+1692286585-16,17/04/2023,24/07/2023,25/07/2023,226,226,Chambre Double ou Lits Jumeaux,,Hôtel La Grange d'Arly,Megève,,30
+1692286585-17,17/04/2023,24/07/2023,25/07/2023,179,179,Chambre Double Standard,,Au Coin Du Feu,Megève,,30
+1692286585-18,17/04/2023,24/07/2023,25/07/2023,63,63,Chambre Double,,Hôtel Le Savoie,Albertville,,30
+1692286585-19,17/04/2023,24/07/2023,25/07/2023,125,125,Chambre Lits Jumeaux Standard,,ibis Styles Albertville,Albertville,,30
+1692286585-20,17/04/2023,24/07/2023,25/07/2023,188,188,Chambre Double ou Lits Jumeaux de Charme - Rez-de-Chaussée ,,Au Vieux Moulin,Megève,,30
+1692286585-21,17/04/2023,24/07/2023,25/07/2023,149,149,Chambre Double Classique,,La Ferme du Golf,Megève,,30
+1692286585-22,17/04/2023,24/07/2023,25/07/2023,231,231,Chambre Double Classique avec Canapé-Lit,,Novotel Megève Mont-Blanc,Megève,,30
+1692286585-23,17/04/2023,24/07/2023,25/07/2023,395,395,Chambre Deluxe,,Grand Hotel Soleil d'Or,Megève,,30
+1692286585-24,17/04/2023,24/07/2023,25/07/2023,244,244,Chambre Double Classique,,Hotel Mont Blanc Megève,Megève,,30
+1692286585-25,17/04/2023,24/07/2023,25/07/2023,222,222,Chambre Double Confort,,Coeur de Megève,Megève,,30
+1692286585-26,17/04/2023,24/07/2023,25/07/2023,79,79,Chambre Double Standard,,Hôtel Chalet Le Caribou,Les Saisies,,30
+1692286585-27,17/04/2023,24/07/2023,25/07/2023,100,100,Chambre Double ou Lits Jumeaux,,Hôtel le Christiania,Arêches,,30
+1692286585-28,17/04/2023,24/07/2023,25/07/2023,145,145,Chambre Lits Jumeaux,,Le Calgary,Les Saisies,,30
+1692286585-29,17/04/2023,24/07/2023,25/07/2023,154,154,Chambre Double,,Maison Doron,Beaufort,,30
+1692286585-30,17/04/2023,24/07/2023,25/07/2023,155,155,Chambre Double ou Lits Jumeaux,,Hôtel Les Ancolies à Arêches,Arêches,,30
+1692286585-31,17/04/2023,24/07/2023,25/07/2023,123,123,Chambre Lits Jumeaux,,Hôtel Viallet,Arêches,,30
+1692286585-32,17/04/2023,24/07/2023,25/07/2023,92,92,Chambre Double - Vue sur Montagne,,Hotel Le Tetras,Notre-Dame-de-Bellecombe,,30
+1692286585-33,17/04/2023,24/07/2023,25/07/2023,187,187,Chambre Double,,Chalet Hôtel du Mont-Charvin & Spa,Crest-Voland,,30
+1692286585-34,17/04/2023,24/07/2023,25/07/2023,104,104,Chambre Double,,Le Caprice Des Neiges,Crest-Voland,,30
+1692286585-35,17/04/2023,24/07/2023,25/07/2023,122,122,Chambre Quadruple Standard,,La Mollinière,Notre-Dame-de-Bellecombe,,30
+1692286585-36,17/04/2023,24/07/2023,25/07/2023,143,143,Chambre Double Standard,,Les Chalets de La Griyotire,Praz-sur-Arly,,30
+1692286585-37,17/04/2023,24/07/2023,25/07/2023,489,489,Appartement Village,,Flocons de Sel,Megève,,30
+1692286585-38,17/04/2023,24/07/2023,25/07/2023,82,82,Chambre Lits Jumeaux,,Auberge de Costaroche,Albertville,,30
+1692286585-39,17/04/2023,24/07/2023,25/07/2023,122,122,Chambre Double,,Hotel Sylvana,Megève,,30
+1692286585-40,17/04/2023,24/07/2023,25/07/2023,371,371,Chambre Double Classique,,"L'Alpaga, a Beaumier hotel",Megève,,30
+1692286585-41,17/04/2023,24/07/2023,25/07/2023,226,226,Chambre Double ou Lits Jumeaux,,Hôtel La Grange d'Arly,Megève,,30
+1692286585-42,17/04/2023,24/07/2023,25/07/2023,179,179,Chambre Double Standard,,Au Coin Du Feu,Megève,,30
+1692286585-43,17/04/2023,24/07/2023,25/07/2023,63,63,Chambre Double,,Hôtel Le Savoie,Albertville,,30
+1692286585-44,17/04/2023,24/07/2023,25/07/2023,125,125,Chambre Lits Jumeaux Standard,,ibis Styles Albertville,Albertville,,30
+1692286585-45,17/04/2023,24/07/2023,25/07/2023,188,188,Chambre Double ou Lits Jumeaux de Charme - Rez-de-Chaussée ,,Au Vieux Moulin,Megève,,30
+1692286585-46,17/04/2023,24/07/2023,25/07/2023,149,149,Chambre Double Classique,,La Ferme du Golf,Megève,,30
+1692286585-47,17/04/2023,24/07/2023,25/07/2023,231,231,Chambre Double Classique avec Canapé-Lit,,Novotel Megève Mont-Blanc,Megève,,30
+1692286585-48,17/04/2023,24/07/2023,25/07/2023,395,395,Chambre Deluxe,,Grand Hotel Soleil d'Or,Megève,,30
+1692286585-49,17/04/2023,24/07/2023,25/07/2023,244,244,Chambre Double Classique,,Hotel Mont Blanc Megève,Megève,,30
+1692286585-50,17/04/2023,24/07/2023,25/07/2023,222,222,Chambre Double Confort,,Coeur de Megève,Megève,,30
+1692286585-51,17/04/2023,24/07/2023,25/07/2023,79,79,Chambre Double Standard,,Hôtel Chalet Le Caribou,Les Saisies,,30
+1692286585-52,17/04/2023,24/07/2023,25/07/2023,100,100,Chambre Double ou Lits Jumeaux,,Hôtel le Christiania,Arêches,,30
+1692286585-53,17/04/2023,24/07/2023,25/07/2023,145,145,Chambre Lits Jumeaux,,Le Calgary,Les Saisies,,30
+1692286585-54,17/04/2023,24/07/2023,25/07/2023,154,154,Chambre Double,,Maison Doron,Beaufort,,30
+1692286585-55,17/04/2023,24/07/2023,25/07/2023,155,155,Chambre Double ou Lits Jumeaux,,Hôtel Les Ancolies à Arêches,Arêches,,30
+1692286585-56,17/04/2023,24/07/2023,25/07/2023,123,123,Chambre Lits Jumeaux,,Hôtel Viallet,Arêches,,30
+1692286585-57,17/04/2023,24/07/2023,25/07/2023,92,92,Chambre Double - Vue sur Montagne,,Hotel Le Tetras,Notre-Dame-de-Bellecombe,,30
+1692286585-58,17/04/2023,24/07/2023,25/07/2023,187,187,Chambre Double,,Chalet Hôtel du Mont-Charvin & Spa,Crest-Voland,,30
+1692286585-59,17/04/2023,24/07/2023,25/07/2023,104,104,Chambre Double,,Le Caprice Des Neiges,Crest-Voland,,30
+1692286585-60,17/04/2023,24/07/2023,25/07/2023,122,122,Chambre Quadruple Standard,,La Mollinière,Notre-Dame-de-Bellecombe,,30
+1692286585-61,17/04/2023,24/07/2023,25/07/2023,143,143,Chambre Double Standard,,Les Chalets de La Griyotire,Praz-sur-Arly,,30
+1692286585-62,17/04/2023,24/07/2023,25/07/2023,489,489,Appartement Village,,Flocons de Sel,Megève,,30
+1692286585-63,17/04/2023,24/07/2023,25/07/2023,82,82,Chambre Lits Jumeaux,,Auberge de Costaroche,Albertville,,30
+1692286585-64,17/04/2023,24/07/2023,25/07/2023,122,122,Chambre Double,,Hotel Sylvana,Megève,,30
+1692286585-65,17/04/2023,24/07/2023,25/07/2023,371,371,Chambre Double Classique,,"L'Alpaga, a Beaumier hotel",Megève,,30
+1692286585-66,17/04/2023,24/07/2023,25/07/2023,226,226,Chambre Double ou Lits Jumeaux,,Hôtel La Grange d'Arly,Megève,,30
+1692286585-67,17/04/2023,24/07/2023,25/07/2023,179,179,Chambre Double Standard,,Au Coin Du Feu,Megève,,30
+1692286585-68,17/04/2023,24/07/2023,25/07/2023,63,63,Chambre Double,,Hôtel Le Savoie,Albertville,,30
+1692286585-69,17/04/2023,24/07/2023,25/07/2023,125,125,Chambre Lits Jumeaux Standard,,ibis Styles Albertville,Albertville,,30
+1692286585-70,17/04/2023,24/07/2023,25/07/2023,188,188,Chambre Double ou Lits Jumeaux de Charme - Rez-de-Chaussée ,,Au Vieux Moulin,Megève,,30
+1692286585-71,17/04/2023,24/07/2023,25/07/2023,149,149,Chambre Double Classique,,La Ferme du Golf,Megève,,30
+1692286585-72,17/04/2023,24/07/2023,25/07/2023,231,231,Chambre Double Classique avec Canapé-Lit,,Novotel Megève Mont-Blanc,Megève,,30
+1692286585-73,17/04/2023,24/07/2023,25/07/2023,395,395,Chambre Deluxe,,Grand Hotel Soleil d'Or,Megève,,30
+1692286585-74,17/04/2023,24/07/2023,25/07/2023,244,244,Chambre Double Classique,,Hotel Mont Blanc Megève,Megève,,30
+1692286585-75,17/04/2023,24/07/2023,25/07/2023,222,222,Chambre Double Confort,,Coeur de Megève,Megève,,30
+1692286585-76,17/04/2023,24/07/2023,25/07/2023,79,79,Chambre Double Standard,,Hôtel Chalet Le Caribou,Les Saisies,,30
+1692286585-77,17/04/2023,24/07/2023,25/07/2023,100,100,Chambre Double ou Lits Jumeaux,,Hôtel le Christiania,Arêches,,30
+1692286585-78,17/04/2023,24/07/2023,25/07/2023,145,145,Chambre Lits Jumeaux,,Le Calgary,Les Saisies,,30
+1692286585-79,17/04/2023,24/07/2023,25/07/2023,154,154,Chambre Double,,Maison Doron,Beaufort,,30
+1692286585-80,17/04/2023,24/07/2023,25/07/2023,155,155,Chambre Double ou Lits Jumeaux,,Hôtel Les Ancolies à Arêches,Arêches,,30
+1692286585-81,17/04/2023,24/07/2023,25/07/2023,123,123,Chambre Lits Jumeaux,,Hôtel Viallet,Arêches,,30
+1692286585-82,17/04/2023,24/07/2023,25/07/2023,92,92,Chambre Double - Vue sur Montagne,,Hotel Le Tetras,Notre-Dame-de-Bellecombe,,30
+1692286585-83,17/04/2023,24/07/2023,25/07/2023,187,187,Chambre Double,,Chalet Hôtel du Mont-Charvin & Spa,Crest-Voland,,30
+1692286585-84,17/04/2023,24/07/2023,25/07/2023,104,104,Chambre Double,,Le Caprice Des Neiges,Crest-Voland,,30
+1692286585-85,17/04/2023,24/07/2023,25/07/2023,122,122,Chambre Quadruple Standard,,La Mollinière,Notre-Dame-de-Bellecombe,,30
+1692286585-86,17/04/2023,24/07/2023,25/07/2023,143,143,Chambre Double Standard,,Les Chalets de La Griyotire,Praz-sur-Arly,,30
+1692286585-87,17/04/2023,24/07/2023,25/07/2023,489,489,Appartement Village,,Flocons de Sel,Megève,,30
+1692286585-88,17/04/2023,24/07/2023,25/07/2023,82,82,Chambre Lits Jumeaux,,Auberge de Costaroche,Albertville,,30
+1692286585-89,17/04/2023,24/07/2023,25/07/2023,122,122,Chambre Double,,Hotel Sylvana,Megève,,30
+1692286585-90,17/04/2023,24/07/2023,25/07/2023,371,371,Chambre Double Classique,,"L'Alpaga, a Beaumier hotel",Megève,,30
+1692286585-91,17/04/2023,24/07/2023,25/07/2023,226,226,Chambre Double ou Lits Jumeaux,,Hôtel La Grange d'Arly,Megève,,30
+1692286585-92,17/04/2023,24/07/2023,25/07/2023,179,179,Chambre Double Standard,,Au Coin Du Feu,Megève,,30
+1692286585-93,17/04/2023,24/07/2023,25/07/2023,63,63,Chambre Double,,Hôtel Le Savoie,Albertville,,30
+1692286585-94,17/04/2023,24/07/2023,25/07/2023,125,125,Chambre Lits Jumeaux Standard,,ibis Styles Albertville,Albertville,,30
+1692286585-95,17/04/2023,24/07/2023,25/07/2023,188,188,Chambre Double ou Lits Jumeaux de Charme - Rez-de-Chaussée ,,Au Vieux Moulin,Megève,,30
+1692286585-96,17/04/2023,24/07/2023,25/07/2023,149,149,Chambre Double Classique,,La Ferme du Golf,Megève,,30
+1692286585-97,17/04/2023,24/07/2023,25/07/2023,231,231,Chambre Double Classique avec Canapé-Lit,,Novotel Megève Mont-Blanc,Megève,,30
+1692286585-98,17/04/2023,24/07/2023,25/07/2023,395,395,Chambre Deluxe,,Grand Hotel Soleil d'Or,Megève,,30
+1692286585-99,17/04/2023,24/07/2023,25/07/2023,244,244,Chambre Double Classique,,Hotel Mont Blanc Megève,Megève,,30
+1692286585-100,17/04/2023,24/07/2023,25/07/2023,222,222,Chambre Double Confort,,Coeur de Megève,Megève,,30
+1692286585-101,17/04/2023,24/07/2023,25/07/2023,87,87,Chambre Double,,Hôtel National,Cluses,,30
+1692286585-102,17/04/2023,24/07/2023,25/07/2023,174,174,Chambre Double avec Baignoire,,Hôtel Les Glaciers,Samoëns,,30
+1692286585-103,17/04/2023,24/07/2023,25/07/2023,103,103,Chambre Double Standard,,"The Originals City, Hôtel du Faucigny, Cluses Ouest",Scionzier,,30
+1692286585-104,17/04/2023,24/07/2023,25/07/2023,94,94,Chambre Double Confort,,Hôtel 4C,Cluses,,30
+1692286585-105,17/04/2023,24/07/2023,25/07/2023,194,194,Chambre Double,,"Chalet-Hôtel Neige et Roc, The Originals Relais (Hotel-Chalet de Tradition)",Samoëns,,30
+1692286585-106,17/04/2023,24/07/2023,25/07/2023,107,107,Chambre Double Économique,,Edelweiss,Samoëns,,30
+1692286585-107,17/04/2023,24/07/2023,25/07/2023,127,127,Chambre Double Standard avec Vue sur le Village,,Hotel-Spa Le Morillon Charme & Caractère,Morillon,,30
+1692286585-108,17/04/2023,24/07/2023,25/07/2023,116,116,Chambre Double Économique,,Le Relais Du Mont Blanc,Magland,,30
+1692286585-109,17/04/2023,24/07/2023,25/07/2023,164,164,Chambre Double Supérieure,,La Ferme Du Lac,Thyez,,30
+1692286585-110,17/04/2023,24/07/2023,25/07/2023,69,69,Chambre Double,,Hotel Edelweiss,Magland,,30
+1692286585-111,17/04/2023,24/07/2023,25/07/2023,160,160,Chambre Double Supérieure avec Douche,,La Croix de Savoie & Spa,Les Carroz d'Arâches,,30
+1692286585-112,17/04/2023,24/07/2023,25/07/2023,307,307,Chambre Double Classique 3,,Hôtel Les Servages d'Armelle,Les Carroz d'Arâches,,30
+1692286585-113,17/04/2023,24/07/2023,25/07/2023,129,129,Chambre Lits Jumeaux Standard,,Ibis Styles Sallanches Pays du Mont-Blanc,Sallanches,,30
+1692286585-114,17/04/2023,24/07/2023,25/07/2023,102,102,Chambre Lits Jumeaux avec Salle de Bains Privative,,Le Taconet,Praz de Lys - Sommand,,30
+1692286585-115,17/04/2023,24/07/2023,25/07/2023,90,90,Chambre Double Standard,,Ibis Hôtel Sallanches,Sallanches,,30
+1692286585-116,17/04/2023,24/07/2023,25/07/2023,191,191,Chambre Double Classique (2 Adultes),,"Chalet-Hôtel La Marmotte, La Tapiaz & SPA, The Originals Relais (Hotel-Chalet de Tradition)",Les Gets,,30
+1692286585-117,17/04/2023,24/07/2023,25/07/2023,78,78,Chambre Triple avec Lit Superposé,,Ibis Budget Sallanches,Sallanches,,30
+1692286585-118,17/04/2023,24/07/2023,25/07/2023,146,146,Chambre Double ou Lits Jumeaux Classique,,Hôtel Alpina & SPA,Les Gets,,30
+1692286585-119,17/04/2023,24/07/2023,25/07/2023,106,106,Chambre Double ou Lits Jumeaux Classique Plus,,Chamois d'Or Hotel,Les Gets,,30
+1692286585-120,17/04/2023,24/07/2023,25/07/2023,145,145,Chambre Double Standard,,Hotel Le Christiania,Les Gets,,30
+1692286585-121,17/04/2023,24/07/2023,25/07/2023,144,144,Chambre Lit Queen-Size Standard - Non-Fumeurs,,Auberge de l'Orangerie - Sure Hotel Collection by Best Western,Sallanches,,30
+1692286585-122,17/04/2023,24/07/2023,25/07/2023,197,197,Chambre Familiale - Vue sur Montagne,,Hotel Le Concorde,Morzine,,30
+1692286585-123,17/04/2023,24/07/2023,25/07/2023,178,178,Chambre Double,,Hotel L'Equipe,Morzine,,30
+1692286585-124,17/04/2023,24/07/2023,25/07/2023,145,145,Chambre Lits Jumeaux,,Hotel Igloo,Morzine,,30
+1692286585-125,17/04/2023,24/07/2023,25/07/2023,356,356,Suite Junior,,Hotel le Petit Dru,Morzine,,30
+1692286585-126,17/04/2023,24/07/2023,25/07/2023,87,87,Chambre Double,,Hôtel National,Cluses,,30
+1692286585-127,17/04/2023,24/07/2023,25/07/2023,174,174,Chambre Double avec Baignoire,,Hôtel Les Glaciers,Samoëns,,30
+1692286585-128,17/04/2023,24/07/2023,25/07/2023,103,103,Chambre Double Standard,,"The Originals City, Hôtel du Faucigny, Cluses Ouest",Scionzier,,30
+1692286585-129,17/04/2023,24/07/2023,25/07/2023,94,94,Chambre Double Confort,,Hôtel 4C,Cluses,,30
+1692286585-130,17/04/2023,24/07/2023,25/07/2023,194,194,Chambre Double,,"Chalet-Hôtel Neige et Roc, The Originals Relais (Hotel-Chalet de Tradition)",Samoëns,,30
+1692286585-131,17/04/2023,24/07/2023,25/07/2023,107,107,Chambre Double Économique,,Edelweiss,Samoëns,,30
+1692286585-132,17/04/2023,24/07/2023,25/07/2023,127,127,Chambre Double Standard avec Vue sur le Village,,Hotel-Spa Le Morillon Charme & Caractère,Morillon,,30
+1692286585-133,17/04/2023,24/07/2023,25/07/2023,116,116,Chambre Double Économique,,Le Relais Du Mont Blanc,Magland,,30
+1692286585-134,17/04/2023,24/07/2023,25/07/2023,164,164,Chambre Double Supérieure,,La Ferme Du Lac,Thyez,,30
+1692286585-135,17/04/2023,24/07/2023,25/07/2023,69,69,Chambre Double,,Hotel Edelweiss,Magland,,30
+1692286585-136,17/04/2023,24/07/2023,25/07/2023,160,160,Chambre Double Supérieure avec Douche,,La Croix de Savoie & Spa,Les Carroz d'Arâches,,30
+1692286585-137,17/04/2023,24/07/2023,25/07/2023,307,307,Chambre Double Classique 3,,Hôtel Les Servages d'Armelle,Les Carroz d'Arâches,,30
+1692286585-138,17/04/2023,24/07/2023,25/07/2023,129,129,Chambre Lits Jumeaux Standard,,Ibis Styles Sallanches Pays du Mont-Blanc,Sallanches,,30
+1692286585-139,17/04/2023,24/07/2023,25/07/2023,102,102,Chambre Lits Jumeaux avec Salle de Bains Privative,,Le Taconet,Praz de Lys - Sommand,,30
+1692286585-140,17/04/2023,24/07/2023,25/07/2023,90,90,Chambre Double Standard,,Ibis Hôtel Sallanches,Sallanches,,30
+1692286585-141,17/04/2023,24/07/2023,25/07/2023,191,191,Chambre Double Classique (2 Adultes),,"Chalet-Hôtel La Marmotte, La Tapiaz & SPA, The Originals Relais (Hotel-Chalet de Tradition)",Les Gets,,30
+1692286585-142,17/04/2023,24/07/2023,25/07/2023,78,78,Chambre Triple avec Lit Superposé,,Ibis Budget Sallanches,Sallanches,,30
+1692286585-143,17/04/2023,24/07/2023,25/07/2023,146,146,Chambre Double ou Lits Jumeaux Classique,,Hôtel Alpina & SPA,Les Gets,,30
+1692286585-144,17/04/2023,24/07/2023,25/07/2023,106,106,Chambre Double ou Lits Jumeaux Classique Plus,,Chamois d'Or Hotel,Les Gets,,30
+1692286585-145,17/04/2023,24/07/2023,25/07/2023,145,145,Chambre Double Standard,,Hotel Le Christiania,Les Gets,,30
+1692286585-146,17/04/2023,24/07/2023,25/07/2023,144,144,Chambre Lit Queen-Size Standard - Non-Fumeurs,,Auberge de l'Orangerie - Sure Hotel Collection by Best Western,Sallanches,,30
+1692286585-147,17/04/2023,24/07/2023,25/07/2023,197,197,Chambre Familiale - Vue sur Montagne,,Hotel Le Concorde,Morzine,,30
+1692286585-148,17/04/2023,24/07/2023,25/07/2023,178,178,Chambre Double,,Hotel L'Equipe,Morzine,,30
+1692286585-149,17/04/2023,24/07/2023,25/07/2023,145,145,Chambre Lits Jumeaux,,Hotel Igloo,Morzine,,30
+1692286585-150,17/04/2023,24/07/2023,25/07/2023,356,356,Suite Junior,,Hotel le Petit Dru,Morzine,,30
+1692286585-151,17/04/2023,24/07/2023,25/07/2023,87,87,Chambre Double,,Hôtel National,Cluses,,30
+1692286585-152,17/04/2023,24/07/2023,25/07/2023,174,174,Chambre Double avec Baignoire,,Hôtel Les Glaciers,Samoëns,,30
+1692286585-153,17/04/2023,24/07/2023,25/07/2023,103,103,Chambre Double Standard,,"The Originals City, Hôtel du Faucigny, Cluses Ouest",Scionzier,,30
+1692286585-154,17/04/2023,24/07/2023,25/07/2023,94,94,Chambre Double Confort,,Hôtel 4C,Cluses,,30
+1692286585-155,17/04/2023,24/07/2023,25/07/2023,194,194,Chambre Double,,"Chalet-Hôtel Neige et Roc, The Originals Relais (Hotel-Chalet de Tradition)",Samoëns,,30
+1692286585-156,17/04/2023,24/07/2023,25/07/2023,107,107,Chambre Double Économique,,Edelweiss,Samoëns,,30
+1692286585-157,17/04/2023,24/07/2023,25/07/2023,127,127,Chambre Double Standard avec Vue sur le Village,,Hotel-Spa Le Morillon Charme & Caractère,Morillon,,30
+1692286585-158,17/04/2023,24/07/2023,25/07/2023,116,116,Chambre Double Économique,,Le Relais Du Mont Blanc,Magland,,30
+1692286585-159,17/04/2023,24/07/2023,25/07/2023,164,164,Chambre Double Supérieure,,La Ferme Du Lac,Thyez,,30
+1692286585-160,17/04/2023,24/07/2023,25/07/2023,69,69,Chambre Double,,Hotel Edelweiss,Magland,,30
+1692286585-161,17/04/2023,24/07/2023,25/07/2023,160,160,Chambre Double Supérieure avec Douche,,La Croix de Savoie & Spa,Les Carroz d'Arâches,,30
+1692286585-162,17/04/2023,24/07/2023,25/07/2023,307,307,Chambre Double Classique 3,,Hôtel Les Servages d'Armelle,Les Carroz d'Arâches,,30
+1692286585-163,17/04/2023,24/07/2023,25/07/2023,129,129,Chambre Lits Jumeaux Standard,,Ibis Styles Sallanches Pays du Mont-Blanc,Sallanches,,30
+1692286585-164,17/04/2023,24/07/2023,25/07/2023,102,102,Chambre Lits Jumeaux avec Salle de Bains Privative,,Le Taconet,Praz de Lys - Sommand,,30
+1692286585-165,17/04/2023,24/07/2023,25/07/2023,90,90,Chambre Double Standard,,Ibis Hôtel Sallanches,Sallanches,,30
+1692286585-166,17/04/2023,24/07/2023,25/07/2023,191,191,Chambre Double Classique (2 Adultes),,"Chalet-Hôtel La Marmotte, La Tapiaz & SPA, The Originals Relais (Hotel-Chalet de Tradition)",Les Gets,,30
+1692286585-167,17/04/2023,24/07/2023,25/07/2023,78,78,Chambre Triple avec Lit Superposé,,Ibis Budget Sallanches,Sallanches,,30
+1692286585-168,17/04/2023,24/07/2023,25/07/2023,146,146,Chambre Double ou Lits Jumeaux Classique,,Hôtel Alpina & SPA,Les Gets,,30
+1692286585-169,17/04/2023,24/07/2023,25/07/2023,106,106,Chambre Double ou Lits Jumeaux Classique Plus,,Chamois d'Or Hotel,Les Gets,,30
+1692286585-170,17/04/2023,24/07/2023,25/07/2023,145,145,Chambre Double Standard,,Hotel Le Christiania,Les Gets,,30
+1692286585-171,17/04/2023,24/07/2023,25/07/2023,144,144,Chambre Lit Queen-Size Standard - Non-Fumeurs,,Auberge de l'Orangerie - Sure Hotel Collection by Best Western,Sallanches,,30
+1692286585-172,17/04/2023,24/07/2023,25/07/2023,197,197,Chambre Familiale - Vue sur Montagne,,Hotel Le Concorde,Morzine,,30
+1692286585-173,17/04/2023,24/07/2023,25/07/2023,178,178,Chambre Double,,Hotel L'Equipe,Morzine,,30
+1692286585-174,17/04/2023,24/07/2023,25/07/2023,145,145,Chambre Lits Jumeaux,,Hotel Igloo,Morzine,,30
+1692286585-175,17/04/2023,24/07/2023,25/07/2023,356,356,Suite Junior,,Hotel le Petit Dru,Morzine,,30
+1692286585-176,17/04/2023,24/07/2023,25/07/2023,87,87,Chambre Double,,Hôtel National,Cluses,,30
+1692286585-177,17/04/2023,24/07/2023,25/07/2023,174,174,Chambre Double avec Baignoire,,Hôtel Les Glaciers,Samoëns,,30
+1692286585-178,17/04/2023,24/07/2023,25/07/2023,103,103,Chambre Double Standard,,"The Originals City, Hôtel du Faucigny, Cluses Ouest",Scionzier,,30
+1692286585-179,17/04/2023,24/07/2023,25/07/2023,94,94,Chambre Double Confort,,Hôtel 4C,Cluses,,30
+1692286585-180,17/04/2023,24/07/2023,25/07/2023,194,194,Chambre Double,,"Chalet-Hôtel Neige et Roc, The Originals Relais (Hotel-Chalet de Tradition)",Samoëns,,30
+1692286585-181,17/04/2023,24/07/2023,25/07/2023,107,107,Chambre Double Économique,,Edelweiss,Samoëns,,30
+1692286585-182,17/04/2023,24/07/2023,25/07/2023,127,127,Chambre Double Standard avec Vue sur le Village,,Hotel-Spa Le Morillon Charme & Caractère,Morillon,,30
+1692286585-183,17/04/2023,24/07/2023,25/07/2023,116,116,Chambre Double Économique,,Le Relais Du Mont Blanc,Magland,,30
+1692286585-184,17/04/2023,24/07/2023,25/07/2023,164,164,Chambre Double Supérieure,,La Ferme Du Lac,Thyez,,30
+1692286585-185,17/04/2023,24/07/2023,25/07/2023,69,69,Chambre Double,,Hotel Edelweiss,Magland,,30
+1692286585-186,17/04/2023,24/07/2023,25/07/2023,160,160,Chambre Double Supérieure avec Douche,,La Croix de Savoie & Spa,Les Carroz d'Arâches,,30
+1692286585-187,17/04/2023,24/07/2023,25/07/2023,307,307,Chambre Double Classique 3,,Hôtel Les Servages d'Armelle,Les Carroz d'Arâches,,30
+1692286585-188,17/04/2023,24/07/2023,25/07/2023,129,129,Chambre Lits Jumeaux Standard,,Ibis Styles Sallanches Pays du Mont-Blanc,Sallanches,,30
+1692286585-189,17/04/2023,24/07/2023,25/07/2023,102,102,Chambre Lits Jumeaux avec Salle de Bains Privative,,Le Taconet,Praz de Lys - Sommand,,30
+1692286585-190,17/04/2023,24/07/2023,25/07/2023,90,90,Chambre Double Standard,,Ibis Hôtel Sallanches,Sallanches,,30
+1692286585-191,17/04/2023,24/07/2023,25/07/2023,191,191,Chambre Double Classique (2 Adultes),,"Chalet-Hôtel La Marmotte, La Tapiaz & SPA, The Originals Relais (Hotel-Chalet de Tradition)",Les Gets,,30
+1692286585-192,17/04/2023,24/07/2023,25/07/2023,78,78,Chambre Triple avec Lit Superposé,,Ibis Budget Sallanches,Sallanches,,30
+1692286585-193,17/04/2023,24/07/2023,25/07/2023,146,146,Chambre Double ou Lits Jumeaux Classique,,Hôtel Alpina & SPA,Les Gets,,30
+1692286585-194,17/04/2023,24/07/2023,25/07/2023,106,106,Chambre Double ou Lits Jumeaux Classique Plus,,Chamois d'Or Hotel,Les Gets,,30
+1692286585-195,17/04/2023,24/07/2023,25/07/2023,145,145,Chambre Double Standard,,Hotel Le Christiania,Les Gets,,30
+1692286585-196,17/04/2023,24/07/2023,25/07/2023,144,144,Chambre Lit Queen-Size Standard - Non-Fumeurs,,Auberge de l'Orangerie - Sure Hotel Collection by Best Western,Sallanches,,30
+1692286585-197,17/04/2023,24/07/2023,25/07/2023,197,197,Chambre Familiale - Vue sur Montagne,,Hotel Le Concorde,Morzine,,30
+1692286585-198,17/04/2023,24/07/2023,25/07/2023,178,178,Chambre Double,,Hotel L'Equipe,Morzine,,30
+1692286585-199,17/04/2023,24/07/2023,25/07/2023,145,145,Chambre Lits Jumeaux,,Hotel Igloo,Morzine,,30
+1692286585-200,17/04/2023,24/07/2023,25/07/2023,356,356,Suite Junior,,Hotel le Petit Dru,Morzine,,30
+1692286585-201,17/04/2023,24/07/2023,25/07/2023,87,87,Chambre Double,,Hôtel National,Cluses,,30
+1692286585-202,17/04/2023,24/07/2023,25/07/2023,174,174,Chambre Double avec Baignoire,,Hôtel Les Glaciers,Samoëns,,30
+1692286585-203,17/04/2023,24/07/2023,25/07/2023,103,103,Chambre Double Standard,,"The Originals City, Hôtel du Faucigny, Cluses Ouest",Scionzier,,30
+1692286585-204,17/04/2023,24/07/2023,25/07/2023,94,94,Chambre Double Confort,,Hôtel 4C,Cluses,,30
+1692286585-205,17/04/2023,24/07/2023,25/07/2023,194,194,Chambre Double,,"Chalet-Hôtel Neige et Roc, The Originals Relais (Hotel-Chalet de Tradition)",Samoëns,,30
+1692286585-206,17/04/2023,24/07/2023,25/07/2023,107,107,Chambre Double Économique,,Edelweiss,Samoëns,,30
+1692286585-207,17/04/2023,24/07/2023,25/07/2023,127,127,Chambre Double Standard avec Vue sur le Village,,Hotel-Spa Le Morillon Charme & Caractère,Morillon,,30
+1692286585-208,17/04/2023,24/07/2023,25/07/2023,116,116,Chambre Double Économique,,Le Relais Du Mont Blanc,Magland,,30
+1692286585-209,17/04/2023,24/07/2023,25/07/2023,164,164,Chambre Double Supérieure,,La Ferme Du Lac,Thyez,,30
+1692286585-210,17/04/2023,24/07/2023,25/07/2023,69,69,Chambre Double,,Hotel Edelweiss,Magland,,30
+1692286585-211,17/04/2023,24/07/2023,25/07/2023,160,160,Chambre Double Supérieure avec Douche,,La Croix de Savoie & Spa,Les Carroz d'Arâches,,30
+1692286585-212,17/04/2023,24/07/2023,25/07/2023,307,307,Chambre Double Classique 3,,Hôtel Les Servages d'Armelle,Les Carroz d'Arâches,,30
+1692286585-213,17/04/2023,24/07/2023,25/07/2023,129,129,Chambre Lits Jumeaux Standard,,Ibis Styles Sallanches Pays du Mont-Blanc,Sallanches,,30
+1692286585-214,17/04/2023,24/07/2023,25/07/2023,102,102,Chambre Lits Jumeaux avec Salle de Bains Privative,,Le Taconet,Praz de Lys - Sommand,,30
+1692286585-215,17/04/2023,24/07/2023,25/07/2023,90,90,Chambre Double Standard,,Ibis Hôtel Sallanches,Sallanches,,30
+1692286585-216,17/04/2023,24/07/2023,25/07/2023,191,191,Chambre Double Classique (2 Adultes),,"Chalet-Hôtel La Marmotte, La Tapiaz & SPA, The Originals Relais (Hotel-Chalet de Tradition)",Les Gets,,30
+1692286585-217,17/04/2023,24/07/2023,25/07/2023,78,78,Chambre Triple avec Lit Superposé,,Ibis Budget Sallanches,Sallanches,,30
+1692286585-218,17/04/2023,24/07/2023,25/07/2023,146,146,Chambre Double ou Lits Jumeaux Classique,,Hôtel Alpina & SPA,Les Gets,,30
+1692286585-219,17/04/2023,24/07/2023,25/07/2023,106,106,Chambre Double ou Lits Jumeaux Classique Plus,,Chamois d'Or Hotel,Les Gets,,30
+1692286585-220,17/04/2023,24/07/2023,25/07/2023,145,145,Chambre Double Standard,,Hotel Le Christiania,Les Gets,,30
+1692286585-221,17/04/2023,24/07/2023,25/07/2023,144,144,Chambre Lit Queen-Size Standard - Non-Fumeurs,,Auberge de l'Orangerie - Sure Hotel Collection by Best Western,Sallanches,,30
+1692286585-222,17/04/2023,24/07/2023,25/07/2023,197,197,Chambre Familiale - Vue sur Montagne,,Hotel Le Concorde,Morzine,,30
+1692286585-223,17/04/2023,24/07/2023,25/07/2023,178,178,Chambre Double,,Hotel L'Equipe,Morzine,,30
+1692286585-224,17/04/2023,24/07/2023,25/07/2023,145,145,Chambre Lits Jumeaux,,Hotel Igloo,Morzine,,30
+1692286585-225,17/04/2023,24/07/2023,25/07/2023,356,356,Suite Junior,,Hotel le Petit Dru,Morzine,,30
