@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+web-scraper-order,date_price,date_debut,date_fin,prix_init,prix_actuel,typologie,n_offre,nom,localite,date_debut-jour,Nb semaines
+=======
+>>>>>>> 9da45b81bd0024d79945722ace925116c18f234b
 1692642220-7448,01/05/2023,08/10/2023,09/10/2023,99,99,Chambre Double,,Hôtel Saint-Georges,Saint-Jean-de-Maurienne,,40
 1692642220-7449,01/05/2023,08/10/2023,09/10/2023,83,83,Chambre Double,,Hôtel de l'Europe,Saint-Jean-de-Maurienne,,40
 1692642220-7450,01/05/2023,08/10/2023,09/10/2023,91,91,Chambre Double Économique,,Hôtel-Chalet les Mélèzes,Valloire,,40
